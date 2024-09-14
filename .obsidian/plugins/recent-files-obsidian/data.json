@@ -9,6 +9,10 @@
       "path": "02 - Zettelkasten/Social Marketing.md"
     },
     {
+      "basename": "2024-09-14 Elements to include in a Landing Page",
+      "path": "00 - Calendar/2024-09-14 Elements to include in a Landing Page.md"
+    },
+    {
       "basename": "Marketing 101",
       "path": "02 - Zettelkasten/Marketing 101.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MySQL",
       "path": "01 - Rough Notes/MySQL.md"
-    },
-    {
-      "basename": "Database Setup (MyERN II)",
-      "path": "01 - Rough Notes/Database Setup (MyERN II).md"
     }
   ],
   "omittedPaths": []

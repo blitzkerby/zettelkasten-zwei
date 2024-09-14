@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "610fdaa227d77742",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "c57ff50e1edf5129",
             "type": "leaf",
             "state": {
@@ -74,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,6 +230,7 @@
   "active": "b64bca0570999b0d",
   "lastOpenFiles": [
     "02 - Zettelkasten/Social Marketing.md",
+    "00 - Calendar/2024-09-14 Elements to include in a Landing Page.md",
     "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md",
     "02 - Zettelkasten/Marketing 101.md",
     "02 - Zettelkasten/MyERN Stack II.md",
@@ -267,7 +260,6 @@
     "00 - Kanban/Kanban.md",
     "01 - Rough Notes/React/URL Parameters.md",
     "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
-    "01 - Rough Notes/React/Setting Up Frontend.md",
     "00 - Calendar",
     "07 - Output/2024-07-26 Cousins Exam Prep.pdf",
     "00 - Assets/Pasted image 20240825142020.png",
