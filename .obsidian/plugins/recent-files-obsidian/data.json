@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-14 09.29.48.excalidraw",
+      "path": "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md"
+    },
+    {
       "basename": "Social Marketing",
       "path": "02 - Zettelkasten/Social Marketing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Database Setup (MyERN II)",
       "path": "01 - Rough Notes/Database Setup (MyERN II).md"
-    },
-    {
-      "basename": "Backend Setup (MyERN II)",
-      "path": "01 - Rough Notes/Backend Setup (MyERN II).md"
     }
   ],
   "omittedPaths": []

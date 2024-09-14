@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "b64bca0570999b0d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "80bfd7bf5f7619d5",
             "type": "leaf",
             "state": {
@@ -64,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Zettelkasten/Social Marketing.md",
+                "file": "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Zettelkasten/Social Marketing.md",
+                "file": "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Zettelkasten/Social Marketing.md"
+                "file": "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md"
               }
             }
           },
@@ -225,8 +235,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c57ff50e1edf5129",
+  "active": "b64bca0570999b0d",
   "lastOpenFiles": [
+    "02 - Zettelkasten/Social Marketing.md",
+    "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md",
     "02 - Zettelkasten/Marketing 101.md",
     "02 - Zettelkasten/MyERN Stack II.md",
     "04 - FLOW/WORKFLOW MAINTAINER.md",
@@ -256,8 +268,6 @@
     "01 - Rough Notes/React/URL Parameters.md",
     "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
     "01 - Rough Notes/React/Setting Up Frontend.md",
-    "01 - Rough Notes/React/Setting Up Backend.md",
-    "01 - Rough Notes/React/2024-09-09 React Lessons with B Samadey.md",
     "00 - Calendar",
     "07 - Output/2024-07-26 Cousins Exam Prep.pdf",
     "00 - Assets/Pasted image 20240825142020.png",
