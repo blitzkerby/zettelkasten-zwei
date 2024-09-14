@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Social Marketing",
+      "path": "02 - Zettelkasten/Social Marketing.md"
+    },
+    {
+      "basename": "Marketing 101",
+      "path": "02 - Zettelkasten/Marketing 101.md"
+    },
+    {
+      "basename": "MyERN Stack II",
+      "path": "02 - Zettelkasten/MyERN Stack II.md"
+    },
+    {
+      "basename": "WORKFLOW MAINTAINER",
+      "path": "04 - FLOW/WORKFLOW MAINTAINER.md"
+    },
+    {
+      "basename": "Architecture of a Full-stack Application",
+      "path": "01 - Rough Notes/Fullstack/Architecture of a Full-stack Application.md"
+    },
+    {
+      "basename": "A GUIDE TO TECH-STACKING",
+      "path": "02 - Zettelkasten/A GUIDE TO TECH-STACKING.md"
+    },
+    {
       "basename": "CreateAsyncThunk (Redux)",
       "path": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md"
     },
@@ -29,10 +53,6 @@
       "path": "01 - Rough Notes/React/Redux/Redux Under the Hood.md"
     },
     {
-      "basename": "Architecture of a Full-stack Application",
-      "path": "01 - Rough Notes/Fullstack/Architecture of a Full-stack Application.md"
-    },
-    {
       "basename": "2024-08-02 AXIOS",
       "path": "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md"
     },
@@ -53,10 +73,6 @@
       "path": "01 - Rough Notes/React/React Router/createBrowserRouter.md"
     },
     {
-      "basename": "MyERN Stack II",
-      "path": "02 - Zettelkasten/MyERN Stack II.md"
-    },
-    {
       "basename": "Data Fetching",
       "path": "01 - Rough Notes/React/Data Fetching.md"
     },
@@ -71,10 +87,6 @@
     {
       "basename": "Kanban",
       "path": "00 - Kanban/Kanban.md"
-    },
-    {
-      "basename": "A GUIDE TO TECH-STACKING",
-      "path": "02 - Zettelkasten/A GUIDE TO TECH-STACKING.md"
     },
     {
       "basename": "URL Parameters",
@@ -111,14 +123,6 @@
     {
       "basename": "2024-07-31 REACT EXCALIDRAW",
       "path": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md"
-    },
-    {
-      "basename": "Social Marketing",
-      "path": "02 - Zettelkasten/Social Marketing.md"
-    },
-    {
-      "basename": "Marketing 101",
-      "path": "02 - Zettelkasten/Marketing 101.md"
     },
     {
       "basename": "Computer Science",
@@ -195,10 +199,6 @@
     {
       "basename": "Backend Setup (MyERN II)",
       "path": "01 - Rough Notes/Backend Setup (MyERN II).md"
-    },
-    {
-      "basename": "2024-08-28 MyERN Stack",
-      "path": "00 - Calendar/2024-08-28 MyERN Stack.md"
     }
   ],
   "omittedPaths": []

@@ -11,7 +11,7 @@
       "query": "path:\"02 - Zettelkasten\"  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 65505
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 488,
-  "scale": 0.00988759726983722,
+  "scale": 0.03406686129752697,
   "close": true
 }

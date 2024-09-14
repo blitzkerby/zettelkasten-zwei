@@ -4,102 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "549483f18b5b866c",
-        "type": "split",
+        "id": "b7a22bdebfe98ea8",
+        "type": "tabs",
         "children": [
           {
-            "id": "c3cce9bdb0bdb4f6",
-            "type": "tabs",
-            "dimension": 34.13533834586466,
-            "children": [
-              {
-                "id": "c57ff50e1edf5129",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
+            "id": "610fdaa227d77742",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           },
           {
-            "id": "b7a22bdebfe98ea8",
-            "type": "tabs",
-            "dimension": 65.86466165413533,
-            "children": [
-              {
-                "id": "610fdaa227d77742",
-                "type": "leaf",
-                "state": {
-                  "type": "full-calendar-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "be0c827fc52dc7b9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02 - Zettelkasten/MyERN Stack II.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3b0e15753f2eae74",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01 - Rough Notes/React/Redux/-- Redux --.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "de681ce2a4c94e5f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01 - Rough Notes/React/Redux/Redux Toolkit.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7b9bde6b8e757eea",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6e0933eb6cd7066d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01 - Rough Notes/React/Redux/Understanding Redux.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "c57ff50e1edf5129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Zettelkasten/Social Marketing.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 4
+            }
+          },
+          {
+            "id": "80bfd7bf5f7619d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Zettelkasten/A GUIDE TO TECH-STACKING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e87ba6717b43bc52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Zettelkasten/MyERN Stack II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "732505438860fbf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - FLOW/WORKFLOW MAINTAINER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
+                "file": "02 - Zettelkasten/Social Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
+                "file": "02 - Zettelkasten/Social Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md"
+                "file": "02 - Zettelkasten/Social Marketing.md"
               }
             }
           },
@@ -243,8 +208,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-full-calendar:Open Full Calendar": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
@@ -252,25 +221,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7b9bde6b8e757eea",
+  "active": "c57ff50e1edf5129",
   "lastOpenFiles": [
+    "02 - Zettelkasten/Marketing 101.md",
+    "02 - Zettelkasten/MyERN Stack II.md",
+    "04 - FLOW/WORKFLOW MAINTAINER.md",
+    "01 - Rough Notes/Fullstack/Architecture of a Full-stack Application.md",
+    "02 - Zettelkasten/A GUIDE TO TECH-STACKING.md",
+    "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
     "01 - Rough Notes/React/Redux/Understanding Redux.md",
     "01 - Rough Notes/React/Redux/Redux Toolkit.md",
     "01 - Rough Notes/React/Redux/-- Redux --.md",
-    "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
     "01 - Rough Notes/React/Express.js.md",
     "01 - Rough Notes/React/React Router/Untitled",
     "01 - Rough Notes/React/-- React --.md",
     "01 - Rough Notes/React/Redux/Redux Under the Hood.md",
-    "01 - Rough Notes/Fullstack/Architecture of a Full-stack Application.md",
     "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md",
     "01 - Rough Notes/React/2024-08-19 How Hooks really work.md",
     "01 - Rough Notes/React/React Router/RouterProvider.md",
@@ -279,20 +248,16 @@
     "01 - Rough Notes/React/React Router",
     "01 - Rough Notes/React/Axios",
     "01 - Rough Notes/React/Redux",
-    "02 - Zettelkasten/MyERN Stack II.md",
     "01 - Rough Notes/React/Data Fetching.md",
     "07 - Output/MyERN Stack II.pdf",
     "01 - Rough Notes/React/Backend Setup (MyERN II).md",
     "00 - Kanban/ICEBOX.md",
     "00 - Kanban/Kanban.md",
-    "02 - Zettelkasten/A GUIDE TO TECH-STACKING.md",
     "01 - Rough Notes/React/URL Parameters.md",
     "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
     "01 - Rough Notes/React/Setting Up Frontend.md",
     "01 - Rough Notes/React/Setting Up Backend.md",
     "01 - Rough Notes/React/2024-09-09 React Lessons with B Samadey.md",
-    "01 - Rough Notes/React/2024-08-08 DOM Refresher.md",
-    "01 - Rough Notes/React/2024-08-14 Object Destructuring.md",
     "00 - Calendar",
     "07 - Output/2024-07-26 Cousins Exam Prep.pdf",
     "00 - Assets/Pasted image 20240825142020.png",
