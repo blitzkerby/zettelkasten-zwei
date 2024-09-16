@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Rough Notes/Mathematics/Techno Preparation/2024-09-16 វិញ្ញាសា ១.md",
+                "file": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/Mathematics/Techno Preparation/2024-09-16 វិញ្ញាសា ១.md",
+                "file": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/Mathematics/Techno Preparation/2024-09-16 វិញ្ញាសា ១.md",
+                "file": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/Mathematics/Techno Preparation/2024-09-16 វិញ្ញាសា ១.md"
+                "file": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations.md"
               }
             }
           },
@@ -203,8 +203,10 @@
   },
   "active": "28971b1bd8fbda94",
   "lastOpenFiles": [
-    "01 - Rough Notes/Mathematics/2024-06-03 A trick for Logarithm integrals.md",
     "01 - Rough Notes/Mathematics/Techno Preparation/2024-09-16 វិញ្ញាសា ១.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations",
+    "01 - Rough Notes/Mathematics/2024-06-03 A trick for Logarithm integrals.md",
     "01 - Rough Notes/Physics",
     "01 - Rough Notes/Chemistry",
     "01 - Rough Notes/Mathematics/Techno Preparation",
@@ -234,11 +236,9 @@
     "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
     "01 - Rough Notes/React/Redux/Understanding Redux.md",
     "01 - Rough Notes/React/Redux/Redux Toolkit.md",
-    "01 - Rough Notes/React/Redux/-- Redux --.md",
     "01 - Rough Notes/React/React Router/Untitled",
     "01 - Rough Notes/React/React Router",
     "01 - Rough Notes/React/Axios",
-    "01 - Rough Notes/React/Redux",
     "00 - Assets/Pasted image 20240825142020.png",
     "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png",
     "00 - Assets/Screenshot 2024-09-12 at 12.01.15 in the afternoon.png",
