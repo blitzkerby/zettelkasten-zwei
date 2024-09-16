@@ -17,8 +17,8 @@ Therefore, multiplying the entire differential equation above with $\mu$,
 
 $$
 \large\begin{align}
-	\mu y' + \mu py &= ug \\ \\
-	\mu y' + \mu' y &= ug \\ \\
+	\mu y' + \mu py &= \mu g \\ \\
+	\mu y' + \mu' y &= \mu g \\ \\
 \end{align}
 $$
 Recognize now that the left hand side, can be written as
@@ -26,7 +26,7 @@ ${\mu y' + \mu' y = (\mu y)'}$. Therefore, we’ll have,
 
 $$
 \large\begin{align}
-	(\mu y)' &= ug
+	(\mu y)' &= \mu g
 \end{align}
 $$
 
@@ -34,11 +34,16 @@ Thus, solving for $y$ will yield,
 
 $$
 \large\begin{align}
-	\mu y &= \int{g} \ dt \\ \\
-	
+	\mu y &= \int{\mu g} \ dt \\ \\
+	 y &= \frac{\int{\mu g} \ dt}{\mu} \\ \\
 \end{align}
 $$
+All that is left is to solve for $\mu$.
 
 $$
-	
+\large\begin{align}
+	\mu p &= \mu' \\ \\
+	p &= \frac{u'}{u} \\ \\
+	\int p \ dt &= \ln{|u|} + k
+\end{align}
 $$
