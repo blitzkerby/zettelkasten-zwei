@@ -34,8 +34,9 @@ Thus, solving for $y$ will yield,
 
 $$
 \large\begin{align}
-	\mu y &= \int{\mu g} \ dt \\ \\
-	 y &= \frac{\int{\mu g} \ dt}{\mu} \\ \\
+	\mu y + c&= \int{\mu g} \ dt \\ \\
+	 y &= \frac{\int{\mu g} \ dt - c}{\mu}  \\ \\
+	 y &= \frac{\int{\mu g} \ dt + c}{\mu}  \\ \\
 \end{align}
 $$
 All that is left is to solve for $\mu$.
@@ -43,7 +44,10 @@ All that is left is to solve for $\mu$.
 $$
 \large\begin{align}
 	\mu p &= \mu' \\ \\
-	p &= \frac{u'}{u} \\ \\
-	\int p \ dt &= \ln{|u|} + k
+	p &= \frac{\mu'}{\mu} \\ \\
+	\int p \ dt &= \ln{|\mu|} + k \\ \\
+	\int p \ dt + k &= \ln |\mu| \\ \\
+	\mu &= e^{\int p \ dt + k} \\ \\
+	\mu &= ke^{\int p \ dt} \\ \\
 \end{align}
 $$
