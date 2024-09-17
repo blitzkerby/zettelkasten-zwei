@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8be71f1fc0e79982",
+        "id": "47ab1900fd8f6082",
         "type": "tabs",
         "children": [
           {
-            "id": "d85f9264fb25cf51",
+            "id": "536baf0b5dbe8d39",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -16,43 +16,19 @@
             }
           },
           {
-            "id": "c921db10d230a7dc",
+            "id": "b39d995997009a33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Rough Notes/Mathematics/2024-06-03 A trick for Logarithm integrals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28971b1bd8fbda94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "206e0a2afdc06352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Equations.md",
+                "file": "04 - FLOW/WORKFLOW MAINTAINER.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations.md",
+                "file": "04 - FLOW/WORKFLOW MAINTAINER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations.md",
+                "file": "04 - FLOW/WORKFLOW MAINTAINER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations.md"
+                "file": "04 - FLOW/WORKFLOW MAINTAINER.md"
               }
             }
           },
@@ -213,44 +189,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "206e0a2afdc06352",
+  "active": "b39d995997009a33",
   "lastOpenFiles": [
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md",
+    "Untitled.md",
     "Linear Equations.md",
     "01 - Rough Notes/Mathematics/Techno Preparation/2024-09-16 វិញ្ញាសា ១.md",
-    "01 - Rough Notes/Mathematics/Differential Equations",
-    "01 - Rough Notes/Mathematics/2024-06-03 A trick for Logarithm integrals.md",
-    "01 - Rough Notes/Physics",
-    "01 - Rough Notes/Chemistry",
     "01 - Rough Notes/Mathematics/Techno Preparation",
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md",
+    "01 - Rough Notes/Mathematics/Differential Equations",
     "00 - Calendar/2024-09-15 Authentication.md",
-    "Untitled.md",
-    "01 - Rough Notes/React/Sequelize/Connecting to Database.md",
-    "01 - Rough Notes/React/Sequelize/2024-09-16 Handling more than one tables.md",
-    "01 - Rough Notes/React/Sequelize",
-    "01 - Rough Notes/Node/Express/Express.js.md",
-    "01 - Rough Notes/Node/Express",
     "01 - Rough Notes/Node/Authentication/2024-09-16 Authentication with JWT.md",
-    "01 - Rough Notes/Node/Authentication",
-    "01 - Rough Notes/Fullstack/Setting Up Frontend.md",
+    "01 - Rough Notes/React/2024-08-19 How Hooks really work.md",
+    "01 - Rough Notes/React/2024-08-27 ESLint + Prettier.md",
+    "01 - Rough Notes/Node/Express/Express.js.md",
+    "01 - Rough Notes/React/Object Destructuring in Redux Exports.md",
+    "01 - Rough Notes/React/Data Fetching.md",
+    "01 - Rough Notes/Node/Express",
     "01 - Rough Notes/Fullstack/Setting Up Backend.md",
-    "01 - Rough Notes/Fullstack/Server-side Authentication.md",
+    "01 - Rough Notes/React/URL Parameters.md",
+    "01 - Rough Notes/Fullstack/Setting Up Frontend.md",
     "01 - Rough Notes/Fullstack/MVC.md",
-    "01 - Rough Notes/Fullstack/-- Fullstack --.md",
-    "00 - Calendar/2024-09-16 Protected Routes.md",
+    "01 - Rough Notes/React/Model-View-Controller (MVC).md",
+    "01 - Rough Notes/Node/Authentication",
     "04 - FLOW/WORKFLOW MAINTAINER.md",
-    "02 - Zettelkasten/MyERN Stack II.md",
-    "02 - Zettelkasten/A GUIDE TO TECH-STACKING.md",
-    "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md",
-    "02 - Zettelkasten/Social Marketing.md",
-    "00 - Calendar/2024-09-14 Elements to include in a Landing Page.md",
-    "02 - Zettelkasten/Marketing 101.md",
-    "01 - Rough Notes/Fullstack/Architecture of a Full-stack Application.md",
-    "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
+    "01 - Rough Notes/React/Sequelize/Connecting to Database.md",
+    "01 - Rough Notes/Databases/2024-09-12 Entity Relationship Diagrams.md",
+    "01 - Rough Notes/React/React Router/React Router.md",
+    "01 - Rough Notes/React/React Router/RouterProvider.md",
+    "01 - Rough Notes/React/Sequelize/2024-09-16 Handling more than one tables.md",
+    "01 - Rough Notes/Databases/MySQL Connections.md",
+    "Before beginning setup your establish a connection to your MySQL database..md",
+    "01 - Rough Notes/React/Sequelize",
+    "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md",
+    "01 - Rough Notes/Tensei",
     "01 - Rough Notes/React/React Router/Untitled",
     "01 - Rough Notes/React/React Router",
     "01 - Rough Notes/React/Axios",
+    "01 - Rough Notes/React/Redux",
     "00 - Assets/Pasted image 20240825142020.png",
     "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png",
     "00 - Assets/Screenshot 2024-09-12 at 12.01.15 in the afternoon.png",
