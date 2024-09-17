@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - FLOW/WORKFLOW MAINTAINER.md",
+                "file": "Linear Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - FLOW/WORKFLOW MAINTAINER.md",
+                "file": "Linear Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - FLOW/WORKFLOW MAINTAINER.md",
+                "file": "Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - FLOW/WORKFLOW MAINTAINER.md"
+                "file": "Linear Equations.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "b39d995997009a33",
   "lastOpenFiles": [
+    "04 - FLOW/WORKFLOW MAINTAINER.md",
     "Untitled.md",
     "Linear Equations.md",
     "01 - Rough Notes/Mathematics/Techno Preparation/2024-09-16 វិញ្ញាសា ១.md",
@@ -212,7 +213,6 @@
     "01 - Rough Notes/Fullstack/MVC.md",
     "01 - Rough Notes/React/Model-View-Controller (MVC).md",
     "01 - Rough Notes/Node/Authentication",
-    "04 - FLOW/WORKFLOW MAINTAINER.md",
     "01 - Rough Notes/React/Sequelize/Connecting to Database.md",
     "01 - Rough Notes/Databases/2024-09-12 Entity Relationship Diagrams.md",
     "01 - Rough Notes/React/React Router/React Router.md",
