@@ -750,6 +750,10 @@ export default ProductList;
 ```
 
 
+- ***[[Setting Up Authentication]]*** 
+
+
+
 Further reading required… 
 	https://posthog.com/handbook/engineering/conventions/frontend-coding
 	https://www.datacamp.com/blog/mastering-api-design

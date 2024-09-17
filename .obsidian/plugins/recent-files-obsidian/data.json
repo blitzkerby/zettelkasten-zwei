@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Linear Equations",
-      "path": "Linear Equations.md"
+      "basename": "Setting Up Authentication",
+      "path": "01 - Rough Notes/React/Setting Up Authentication.md"
+    },
+    {
+      "basename": "MyERN Stack II",
+      "path": "02 - Zettelkasten/MyERN Stack II.md"
+    },
+    {
+      "basename": "2024-09-16 Authentication with JWT",
+      "path": "01 - Rough Notes/Node/Authentication/2024-09-16 Authentication with JWT.md"
+    },
+    {
+      "basename": "2024-09-17 Understanding JWT Authentication - A Comprehensive Guide with Examples",
+      "path": "01 - Rough Notes/Node/JWT/2024-09-17 Understanding JWT Authentication - A Comprehensive Guide with Examples.md"
+    },
+    {
+      "basename": "2024-09-17 Issues and Concerns of JWT",
+      "path": "01 - Rough Notes/Node/JWT/2024-09-17 Issues and Concerns of JWT.md"
+    },
+    {
+      "basename": "2024-09-17 The Problem JWT Aims to Solve",
+      "path": "01 - Rough Notes/Node/JWT/2024-09-17 The Problem JWT Aims to Solve.md"
+    },
+    {
+      "basename": "2024-08-14 NODE EXCALIDRAW",
+      "path": "01 - Rough Notes/Node/2024-08-14 NODE EXCALIDRAW.md"
+    },
+    {
+      "basename": "2024-08-14 Node Journey",
+      "path": "01 - Rough Notes/Node/2024-08-14 Node Journey.md"
+    },
+    {
+      "basename": "2024-08-16 Introduction To Node",
+      "path": "01 - Rough Notes/Node/2024-08-16 Introduction To Node.md"
+    },
+    {
+      "basename": "2024-08-16 Process (Node)",
+      "path": "01 - Rough Notes/Node/2024-08-16 Process (Node).md"
+    },
+    {
+      "basename": "-- JWT --",
+      "path": "01 - Rough Notes/Node/JWT/-- JWT --.md"
     },
     {
       "basename": "WORKFLOW MAINTAINER",
       "path": "04 - FLOW/WORKFLOW MAINTAINER.md"
     },
     {
-      "basename": "2024-09-16 Authentication with JWT",
-      "path": "01 - Rough Notes/Node/Authentication/2024-09-16 Authentication with JWT.md"
+      "basename": "Pasted Image 20240819101025_110",
+      "path": "00 - Assets/Pasted Image 20240819101025_110.png"
+    },
+    {
+      "basename": "-- Differential Equations --",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md"
+    },
+    {
+      "basename": "First Order Differential Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations.md"
+    },
+    {
+      "basename": "Linear Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/Linear Equations.md"
     },
     {
       "basename": "2024-08-19 How Hooks really work",
@@ -141,64 +193,12 @@
       "path": "02 - Zettelkasten/Marketing 101.md"
     },
     {
-      "basename": "MyERN Stack II",
-      "path": "02 - Zettelkasten/MyERN Stack II.md"
-    },
-    {
       "basename": "Architecture of a Full-stack Application",
       "path": "01 - Rough Notes/Fullstack/Architecture of a Full-stack Application.md"
     },
     {
       "basename": "A GUIDE TO TECH-STACKING",
       "path": "02 - Zettelkasten/A GUIDE TO TECH-STACKING.md"
-    },
-    {
-      "basename": "CreateAsyncThunk (Redux)",
-      "path": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md"
-    },
-    {
-      "basename": "Understanding Redux",
-      "path": "01 - Rough Notes/React/Redux/Understanding Redux.md"
-    },
-    {
-      "basename": "Redux Toolkit",
-      "path": "01 - Rough Notes/React/Redux/Redux Toolkit.md"
-    },
-    {
-      "basename": "Redux Under the Hood",
-      "path": "01 - Rough Notes/React/Redux/Redux Under the Hood.md"
-    },
-    {
-      "basename": "ICEBOX",
-      "path": "00 - Kanban/ICEBOX.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "00 - Kanban/Kanban.md"
-    },
-    {
-      "basename": "Frontend Setup (MyERN II)",
-      "path": "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md"
-    },
-    {
-      "basename": "Computer Science",
-      "path": "02 - Zettelkasten/Computer Science.md"
-    },
-    {
-      "basename": "2024-09-12 13.29.16.excalidraw",
-      "path": "00 - Excalidraw/2024-09-12 13.29.16.excalidraw.md"
-    },
-    {
-      "basename": "2024-08-28 MyERN Stack",
-      "path": "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md"
-    },
-    {
-      "basename": "2024-08-29 RESTful Architecture",
-      "path": "01 - Rough Notes/App Architecture/2024-08-29 RESTful Architecture.md"
-    },
-    {
-      "basename": "Database Setup (MyERN II)",
-      "path": "01 - Rough Notes/Databases/Database Setup (MyERN II).md"
     }
   ],
   "omittedPaths": []
