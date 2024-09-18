@@ -1,160 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-09-17 Understanding JWT Authentication - A Comprehensive Guide with Examples",
-      "path": "01 - Rough Notes/Node/JWT/2024-09-17 Understanding JWT Authentication - A Comprehensive Guide with Examples.md"
-    },
-    {
-      "basename": "2024-09-17 The Problem JWT Aims to Solve",
-      "path": "01 - Rough Notes/Node/JWT/2024-09-17 The Problem JWT Aims to Solve.md"
-    },
-    {
-      "basename": "2024-09-16 Authentication with JWT",
-      "path": "01 - Rough Notes/Node/Authentication/2024-09-16 Authentication with JWT.md"
-    },
-    {
-      "basename": "Setting Up Authentication",
-      "path": "01 - Rough Notes/React/Setting Up Authentication.md"
-    },
-    {
-      "basename": "Connecting to Database",
-      "path": "01 - Rough Notes/React/Sequelize/Connecting to Database.md"
-    },
-    {
-      "basename": "2024-09-16 Handling more than one tables",
-      "path": "01 - Rough Notes/React/Sequelize/2024-09-16 Handling more than one tables.md"
+      "basename": "-- Redux --",
+      "path": "01 - Rough Notes/React/Redux/-- Redux --.md"
     },
     {
       "basename": "-- React --",
       "path": "01 - Rough Notes/React/-- React --.md"
     },
     {
-      "basename": "2024-07-22 React Journey",
-      "path": "01 - Rough Notes/React/2024-07-22 React Journey.md"
-    },
-    {
-      "basename": "2024-07-31 REACT EXCALIDRAW",
-      "path": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md"
-    },
-    {
-      "basename": "2024-08-06 How Rendering Works",
-      "path": "01 - Rough Notes/React/2024-08-06 How Rendering Works.md"
-    },
-    {
-      "basename": "2024-08-08 DOM Refresher",
-      "path": "01 - Rough Notes/React/2024-08-08 DOM Refresher.md"
-    },
-    {
-      "basename": "2024-08-14 Object Destructuring",
-      "path": "01 - Rough Notes/React/2024-08-14 Object Destructuring.md"
-    },
-    {
-      "basename": "2024-08-19 How Hooks really work",
-      "path": "01 - Rough Notes/React/2024-08-19 How Hooks really work.md"
-    },
-    {
-      "basename": "2024-08-27 ESLint + Prettier",
-      "path": "01 - Rough Notes/React/2024-08-27 ESLint + Prettier.md"
+      "basename": "Backend Setup (MyERN II)",
+      "path": "01 - Rough Notes/React/Backend Setup (MyERN II).md"
     },
     {
       "basename": "2024-09-09 React Lessons with B Samadey",
       "path": "01 - Rough Notes/React/2024-09-09 React Lessons with B Samadey.md"
     },
     {
-      "basename": "Backend Setup (MyERN II)",
-      "path": "01 - Rough Notes/React/Backend Setup (MyERN II).md"
-    },
-    {
       "basename": "Data Fetching",
       "path": "01 - Rough Notes/React/Data Fetching.md"
     },
     {
-      "basename": "Object Destructuring in Redux Exports",
-      "path": "01 - Rough Notes/React/Object Destructuring in Redux Exports.md"
+      "basename": "2024-08-08 DOM Refresher",
+      "path": "01 - Rough Notes/React/2024-08-08 DOM Refresher.md"
     },
     {
-      "basename": "WORKFLOW MAINTAINER",
-      "path": "04 - FLOW/WORKFLOW MAINTAINER.md"
-    },
-    {
-      "basename": "Separable Equations",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Separable Equations.md"
-    },
-    {
-      "basename": "MyERN Stack II",
-      "path": "02 - Zettelkasten/MyERN Stack II.md"
-    },
-    {
-      "basename": "Linear Equations",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Linear Equations.md"
-    },
-    {
-      "basename": "-- First Order Differential Equations --",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/-- First Order Differential Equations --.md"
-    },
-    {
-      "basename": "-- Differential Equations --",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md"
-    },
-    {
-      "basename": "2024-09-17 Issues and Concerns of JWT",
-      "path": "01 - Rough Notes/Node/JWT/2024-09-17 Issues and Concerns of JWT.md"
-    },
-    {
-      "basename": "2024-08-14 NODE EXCALIDRAW",
-      "path": "01 - Rough Notes/Node/2024-08-14 NODE EXCALIDRAW.md"
-    },
-    {
-      "basename": "2024-08-14 Node Journey",
-      "path": "01 - Rough Notes/Node/2024-08-14 Node Journey.md"
-    },
-    {
-      "basename": "2024-08-16 Introduction To Node",
-      "path": "01 - Rough Notes/Node/2024-08-16 Introduction To Node.md"
-    },
-    {
-      "basename": "2024-08-16 Process (Node)",
-      "path": "01 - Rough Notes/Node/2024-08-16 Process (Node).md"
-    },
-    {
-      "basename": "-- JWT --",
-      "path": "01 - Rough Notes/Node/JWT/-- JWT --.md"
-    },
-    {
-      "basename": "Pasted Image 20240819101025_110",
-      "path": "00 - Assets/Pasted Image 20240819101025_110.png"
-    },
-    {
-      "basename": "Express.js",
-      "path": "01 - Rough Notes/Node/Express/Express.js.md"
-    },
-    {
-      "basename": "Setting Up Backend",
-      "path": "01 - Rough Notes/Fullstack/Setting Up Backend.md"
-    },
-    {
-      "basename": "Setting Up Frontend",
-      "path": "01 - Rough Notes/Fullstack/Setting Up Frontend.md"
-    },
-    {
-      "basename": "MVC",
-      "path": "01 - Rough Notes/Fullstack/MVC.md"
-    },
-    {
-      "basename": "2024-09-12 Entity Relationship Diagrams",
-      "path": "01 - Rough Notes/Databases/2024-09-12 Entity Relationship Diagrams.md"
-    },
-    {
-      "basename": "React Router",
-      "path": "01 - Rough Notes/React/React Router/React Router.md"
-    },
-    {
-      "basename": "RouterProvider",
-      "path": "01 - Rough Notes/React/React Router/RouterProvider.md"
-    },
-    {
-      "basename": "MySQL Connections",
-      "path": "01 - Rough Notes/Databases/MySQL Connections.md"
+      "basename": "2024-07-31 REACT EXCALIDRAW",
+      "path": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md"
     },
     {
       "basename": "2024-08-02 AXIOS",
@@ -165,20 +37,36 @@
       "path": "01 - Rough Notes/React/React Router/createBrowserRouter.md"
     },
     {
-      "basename": "-- Redux --",
-      "path": "01 - Rough Notes/React/Redux/-- Redux --.md"
+      "basename": "React Router",
+      "path": "01 - Rough Notes/React/React Router/React Router.md"
     },
     {
-      "basename": "Server-side Authentication",
-      "path": "01 - Rough Notes/Fullstack/Server-side Authentication.md"
+      "basename": "RouterProvider",
+      "path": "01 - Rough Notes/React/React Router/RouterProvider.md"
     },
     {
-      "basename": "-- Fullstack --",
-      "path": "01 - Rough Notes/Fullstack/-- Fullstack --.md"
+      "basename": "-- Differential Equations --",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md"
     },
     {
-      "basename": "2024-09-16 Protected Routes",
-      "path": "00 - Calendar/2024-09-16 Protected Routes.md"
+      "basename": "2024-09-16 វិញ្ញាសា ១",
+      "path": "01 - Rough Notes/Mathematics/Techno Preparation/2024-09-16 វិញ្ញាសា ១.md"
+    },
+    {
+      "basename": "2024-06-03 A trick for Logarithm integrals",
+      "path": "01 - Rough Notes/Mathematics/2024-06-03 A trick for Logarithm integrals.md"
+    },
+    {
+      "basename": "WORKFLOW MAINTAINER",
+      "path": "04 - FLOW/WORKFLOW MAINTAINER.md"
+    },
+    {
+      "basename": "MyERN Stack II",
+      "path": "02 - Zettelkasten/MyERN Stack II.md"
+    },
+    {
+      "basename": "A GUIDE TO TECH-STACKING",
+      "path": "02 - Zettelkasten/A GUIDE TO TECH-STACKING.md"
     },
     {
       "basename": "2024-09-14 09.29.48.excalidraw",
@@ -199,6 +87,90 @@
     {
       "basename": "Architecture of a Full-stack Application",
       "path": "01 - Rough Notes/Fullstack/Architecture of a Full-stack Application.md"
+    },
+    {
+      "basename": "CreateAsyncThunk (Redux)",
+      "path": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md"
+    },
+    {
+      "basename": "Understanding Redux",
+      "path": "01 - Rough Notes/React/Redux/Understanding Redux.md"
+    },
+    {
+      "basename": "Redux Toolkit",
+      "path": "01 - Rough Notes/React/Redux/Redux Toolkit.md"
+    },
+    {
+      "basename": "Redux Under the Hood",
+      "path": "01 - Rough Notes/React/Redux/Redux Under the Hood.md"
+    },
+    {
+      "basename": "2024-08-19 How Hooks really work",
+      "path": "01 - Rough Notes/React/2024-08-19 How Hooks really work.md"
+    },
+    {
+      "basename": "ICEBOX",
+      "path": "00 - Kanban/ICEBOX.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "00 - Kanban/Kanban.md"
+    },
+    {
+      "basename": "Frontend Setup (MyERN II)",
+      "path": "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md"
+    },
+    {
+      "basename": "2024-08-14 Object Destructuring",
+      "path": "01 - Rough Notes/React/2024-08-14 Object Destructuring.md"
+    },
+    {
+      "basename": "2024-08-06 How Rendering Works",
+      "path": "01 - Rough Notes/React/2024-08-06 How Rendering Works.md"
+    },
+    {
+      "basename": "Computer Science",
+      "path": "02 - Zettelkasten/Computer Science.md"
+    },
+    {
+      "basename": "2024-09-12 13.29.16.excalidraw",
+      "path": "00 - Excalidraw/2024-09-12 13.29.16.excalidraw.md"
+    },
+    {
+      "basename": "2024-08-28 MyERN Stack",
+      "path": "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md"
+    },
+    {
+      "basename": "2024-08-29 RESTful Architecture",
+      "path": "01 - Rough Notes/App Architecture/2024-08-29 RESTful Architecture.md"
+    },
+    {
+      "basename": "Database Setup (MyERN II)",
+      "path": "01 - Rough Notes/Databases/Database Setup (MyERN II).md"
+    },
+    {
+      "basename": "PostgreSQL Setup",
+      "path": "02 - Zettelkasten/PostgreSQL Setup.md"
+    },
+    {
+      "basename": "Campaign Objectives",
+      "path": "01 - Rough Notes/Campaign Objectives.md"
+    },
+    {
+      "basename": "2024-09-09",
+      "path": "01 - Rough Notes/2024-09-09.md"
+    },
+    {
+      "basename": "Object Destructuring in Redux Exports",
+      "path": "01 - Rough Notes/Object Destructuring in Redux Exports.md"
+    },
+    {
+      "basename": "Pasted image 20240825142020",
+      "path": "00 - Assets/Pasted image 20240825142020.png"
+    },
+    {
+      "basename": "Screenshot 2024-09-12 at 11.53.02 in the morning",
+      "path": "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png"
     }
   ],
   "omittedPaths": []
