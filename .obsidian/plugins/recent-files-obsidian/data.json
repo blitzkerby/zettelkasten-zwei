@@ -3,6 +3,69 @@
     {
       "basename": "-- Redux --",
       "path": "01 - Rough Notes/React/Redux/-- Redux --.md"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "basename": "-- React --",
+      "path": "01 - Rough Notes/React/-- React --.md"
+    },
+    {
+      "basename": "Backend Setup (MyERN II)",
+      "path": "01 - Rough Notes/React/Backend Setup (MyERN II).md"
+    },
+    {
+      "basename": "2024-09-09 React Lessons with B Samadey",
+      "path": "01 - Rough Notes/React/2024-09-09 React Lessons with B Samadey.md"
+    },
+    {
+      "basename": "Data Fetching",
+      "path": "01 - Rough Notes/React/Data Fetching.md"
+    },
+    {
+      "basename": "Object Destructuring in Redux Exports",
+      "path": "01 - Rough Notes/React/Redux/Object Destructuring in Redux Exports.md"
+    },
+    {
+      "basename": "2024-08-08 DOM Refresher",
+      "path": "01 - Rough Notes/React/2024-08-08 DOM Refresher.md"
+    },
+    {
+      "basename": "2024-07-31 REACT EXCALIDRAW",
+      "path": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md"
+    },
+    {
+      "basename": "-- Sequelize --",
+      "path": "01 - Rough Notes/React/Sequelize/-- Sequelize --.md"
+    },
+    {
+      "basename": "-- React Router --",
+      "path": "01 - Rough Notes/React/React Router/-- React Router --.md"
+    },
+    {
+      "basename": "-- Axios --",
+      "path": "01 - Rough Notes/React/Axios/-- Axios --.md"
+    },
+    {
+      "basename": "2024-08-02 AXIOS",
+      "path": "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md"
+    },
+    {
+      "basename": "createBrowserRouter",
+      "path": "01 - Rough Notes/React/React Router/createBrowserRouter.md"
+    },
+    {
+      "basename": "React Router",
+      "path": "01 - Rough Notes/React/React Router/React Router.md"
+    },
+    {
+      "basename": "RouterProvider",
+      "path": "01 - Rough Notes/React/React Router/RouterProvider.md"
+    },
+    {
+      "basename": "-- Databases --",
+      "path": "01 - Rough Notes/Databases/-- Databases --.md"
+>>>>>>> af1a745 (saving)
     },
     {
       "basename": "-- React --",
@@ -43,6 +106,10 @@
     {
       "basename": "RouterProvider",
       "path": "01 - Rough Notes/React/React Router/RouterProvider.md"
+    },
+    {
+      "basename": "Linear Equations",
+      "path": "Linear Equations.md"
     },
     {
       "basename": "-- Differential Equations --",
