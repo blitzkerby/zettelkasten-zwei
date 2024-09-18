@@ -42,7 +42,7 @@ DB_PASSWORD=yourdatabasepassword
 DB_NAME=yourdatabasename
 ```
 
-## **Database Setup**
+	## **Database Setup**
 ##### Initialize Sequelize
 ---
 
