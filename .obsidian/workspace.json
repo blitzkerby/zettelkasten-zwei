@@ -4,70 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "02f2679b9dc15bbf",
+        "id": "8be71f1fc0e79982",
         "type": "tabs",
         "children": [
           {
-            "id": "869827e30bbeadfa",
+            "id": "d85f9264fb25cf51",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f40901313412bdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Calendar/2024-09-19 Routing of application.md",
+                "file": "04 - Planning/Universties/-- Universities --.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d8c9e8d58cc056a",
+            "id": "165d89a83af667c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Zettelkasten/Team/Where2 Documentation.md",
+                "file": "04 - Planning/Universties/-- Universities --.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4fce98f52ef2c1c1",
+            "id": "98f27d0394fb726d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+                "file": "04 - Planning/Universties/CADT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d90c43a56aa1fdcc",
+            "id": "0d44c8d533d16d0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
+                "file": "04 - Planning/Universties/Korean Scholarship Programs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24d4212aefc1cb6c",
+            "id": "98aa0bfe2db8640f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md",
+                "file": "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fa6da63eafbcb39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Planning/WORKFLOW MAINTAINER.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -125,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 300
   },
   "right": {
     "id": "d08757ac2f86ea7a",
@@ -149,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Calendar/2024-09-19 Routing of application.md",
+                "file": "04 - Planning/WORKFLOW MAINTAINER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Calendar/2024-09-19 Routing of application.md",
+                "file": "04 - Planning/WORKFLOW MAINTAINER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Calendar/2024-09-19 Routing of application.md"
+                "file": "04 - Planning/WORKFLOW MAINTAINER.md"
               }
             }
           },
@@ -228,46 +249,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "869827e30bbeadfa",
+  "active": "0fa6da63eafbcb39",
   "lastOpenFiles": [
-    "02 - Zettelkasten/Team/Where2 Documentation.md",
-    "00 - Calendar/2024-09-19 Routing of application.md",
-    "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
-    "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
-    "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md",
-    "00 - Calendar/2024-09-16 Protected Routes.md",
-    "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md",
-    "04 - Planning/WORKFLOW MAINTAINER.md",
-    "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
-    "01 - Rough Notes/Heroku",
-    "01 - Rough Notes/H.md",
-    "01 - Rough Notes/App Architecture/Typography.md",
-    "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
-    "Folder Structure.md",
-    "Tech Stack.md",
-    "02 - Zettelkasten/Tech Stacking/APPLICATION DOCUMENTATION.md",
-    "01 - Rough Notes/App Architecture/2024-08-07 Convention Guide.md",
-    "01 - Rough Notes/App Architecture/2024-08-13 OUR APPLICATION.md",
-    "01 - Rough Notes/App Architecture/2024-08-01 Information Architecture II.md",
-    "02 - Zettelkasten/Team/Social Marketing.md",
-    "02 - Zettelkasten/Computer Science.md",
-    "02 - Zettelkasten/SQL commands.md",
-    "02 - Zettelkasten/Networking 101.md",
-    "02 - Zettelkasten/Marketing 101.md",
     "02 - Zettelkasten/Tech Stacking/PostgreSQL Setup.md",
+    "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
     "02 - Zettelkasten/Tech Stacking/BACKEND 101.md",
+    "02 - Zettelkasten/Tech Stacking/MERN.md",
+    "02 - Zettelkasten/Tech Stacking/APPLICATION DOCUMENTATION.md",
     "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md",
     "02 - Zettelkasten/Tech Stacking",
+    "02 - Zettelkasten/Team/Where2 Documentation.md",
+    "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/Social Marketing.md",
+    "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md",
+    "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
     "02 - Zettelkasten/Team",
-    "02 - Zettelkasten/Team",
+    "00 - Calendar/2024-09-19 Routing of application.md",
+    "01 - Rough Notes/React/Setting Up Authentication.md",
+    "02 - Zettelkasten/MyERN Stack II.md",
+    "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
+    "04 - Planning/Universties/Korean Scholarship Programs.md",
+    "02 - Zettelkasten/PostgreSQL Setup.md",
+    "04 - Planning/Universties/CamTech.md",
+    "04 - Planning/Universties/Techno.md",
+    "Phoura Y.md",
     "Pasted image 20240918194436.png",
+    "04 - Planning/Universties/-- Universities --.md",
+    "04 - Planning/Universties/CADT.md",
     "04 - Planning/Universties",
-    "04 - Planning",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations",
+    "01 - Rough Notes/Untitled",
+    "02 - Zettelkasten/Untitled.md",
+    "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md",
     "01 - Rough Notes/Node/JWT",
-    "00 - Assets/Pasted Image 20240819101025_110.png",
-    "01 - Rough Notes/Mathematics/Techno Preparation",
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations",
     "01 - Rough Notes/Mathematics/Differential Equations",
+    "01 - Rough Notes/Physics",
+    "01 - Rough Notes/Chemistry",
+    "01 - Rough Notes/Mathematics/Techno Preparation",
     "00 - Assets/Pasted image 20240825142020.png",
     "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png",
     "00 - Assets/Screenshot 2024-09-12 at 12.01.15 in the afternoon.png",
@@ -275,6 +295,7 @@
     "00 - Assets/Screenshot 2024-09-12 at 12.00.23 in the afternoon.png",
     "00 - Assets/Screenshot 2024-09-12 at 12.00.11 in the afternoon.png",
     "00 - Assets/Screenshot 2024-09-12 at 11.58.18 in the morning.png",
-    "00 - Assets/Screenshot 2024-09-12 at 11.53.37 in the morning.png"
+    "00 - Assets/Screenshot 2024-09-12 at 11.53.37 in the morning.png",
+    "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png"
   ]
 }
