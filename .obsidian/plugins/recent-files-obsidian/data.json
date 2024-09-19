@@ -1,6 +1,126 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-19 Routing of application",
+      "path": "00 - Calendar/2024-09-19 Routing of application.md"
+    },
+    {
+      "basename": "Where2 Documentation",
+      "path": "02 - Zettelkasten/Team/Where2 Documentation.md"
+    },
+    {
+      "basename": "2024-09-19 BACKEND ARCHITECTURE",
+      "path": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md"
+    },
+    {
+      "basename": "2024-09-19 FRONTEND ARCHITECTURE",
+      "path": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md"
+    },
+    {
+      "basename": "2024-09-19 DEPLOYMENT",
+      "path": "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md"
+    },
+    {
+      "basename": "2024-09-16 Protected Routes",
+      "path": "00 - Calendar/2024-09-16 Protected Routes.md"
+    },
+    {
+      "basename": "2024-09-19 APP ARCHITECTURE",
+      "path": "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md"
+    },
+    {
+      "basename": "WORKFLOW MAINTAINER",
+      "path": "04 - Planning/WORKFLOW MAINTAINER.md"
+    },
+    {
+      "basename": "2024-08-06 DESIGN DOCUMENTATION",
+      "path": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
+    },
+    {
+      "basename": "Typography",
+      "path": "01 - Rough Notes/App Architecture/Typography.md"
+    },
+    {
+      "basename": "MyERN Stack II",
+      "path": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
+    },
+    {
+      "basename": "Folder Structure",
+      "path": "Folder Structure.md"
+    },
+    {
+      "basename": "Tech Stack",
+      "path": "Tech Stack.md"
+    },
+    {
+      "basename": "APPLICATION DOCUMENTATION",
+      "path": "02 - Zettelkasten/Tech Stacking/APPLICATION DOCUMENTATION.md"
+    },
+    {
+      "basename": "2024-08-07 Convention Guide",
+      "path": "01 - Rough Notes/App Architecture/2024-08-07 Convention Guide.md"
+    },
+    {
+      "basename": "2024-08-13 OUR APPLICATION",
+      "path": "01 - Rough Notes/App Architecture/2024-08-13 OUR APPLICATION.md"
+    },
+    {
+      "basename": "2024-08-01 Information Architecture II",
+      "path": "01 - Rough Notes/App Architecture/2024-08-01 Information Architecture II.md"
+    },
+    {
+      "basename": "Social Marketing",
+      "path": "02 - Zettelkasten/Team/Social Marketing.md"
+    },
+    {
+      "basename": "Computer Science",
+      "path": "02 - Zettelkasten/Computer Science.md"
+    },
+    {
+      "basename": "SQL commands",
+      "path": "02 - Zettelkasten/SQL commands.md"
+    },
+    {
+      "basename": "Networking 101",
+      "path": "02 - Zettelkasten/Networking 101.md"
+    },
+    {
+      "basename": "Marketing 101",
+      "path": "02 - Zettelkasten/Marketing 101.md"
+    },
+    {
+      "basename": "PostgreSQL Setup",
+      "path": "02 - Zettelkasten/Tech Stacking/PostgreSQL Setup.md"
+    },
+    {
+      "basename": "BACKEND 101",
+      "path": "02 - Zettelkasten/Tech Stacking/BACKEND 101.md"
+    },
+    {
+      "basename": "A GUIDE TO TECH-STACKING",
+      "path": "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md"
+    },
+    {
+      "basename": "MERN",
+      "path": "02 - Zettelkasten/Tech Stacking/MERN.md"
+    },
+    {
+      "basename": "Korean Scholarship Programs",
+      "path": "04 - Planning/Universties/Korean Scholarship Programs.md"
+    },
+    {
+      "basename": "CamTech",
+      "path": "04 - Planning/Universties/CamTech.md"
+    },
+    {
+      "basename": "CADT",
+      "path": "04 - Planning/Universties/CADT.md"
+    },
+    {
+      "basename": "-- Universities --",
+      "path": "04 - Planning/Universties/-- Universities --.md"
+    },
+    {
       "basename": "2024-07-31 REACT EXCALIDRAW",
       "path": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md"
     },
@@ -23,10 +143,6 @@
     {
       "basename": "2024-09-16 Authentication with JWT",
       "path": "01 - Rough Notes/Node/Authentication/2024-09-16 Authentication with JWT.md"
-    },
-    {
-      "basename": "MyERN Stack II",
-      "path": "02 - Zettelkasten/MyERN Stack II.md"
     },
     {
       "basename": "2024-09-17 Understanding JWT Authentication - A Comprehensive Guide with Examples",
@@ -83,114 +199,6 @@
     {
       "basename": "Separable Equations",
       "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Separable Equations.md"
-    },
-    {
-      "basename": "Linear Equations",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Linear Equations.md"
-    },
-    {
-      "basename": "-- First Order Differential Equations --",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/-- First Order Differential Equations --.md"
-    },
-    {
-      "basename": "-- Differential Equations --",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md"
-    },
-    {
-      "basename": "2024-09-17 Issues and Concerns of JWT",
-      "path": "01 - Rough Notes/Node/JWT/2024-09-17 Issues and Concerns of JWT.md"
-    },
-    {
-      "basename": "2024-08-14 NODE EXCALIDRAW",
-      "path": "01 - Rough Notes/Node/2024-08-14 NODE EXCALIDRAW.md"
-    },
-    {
-      "basename": "2024-08-14 Node Journey",
-      "path": "01 - Rough Notes/Node/2024-08-14 Node Journey.md"
-    },
-    {
-      "basename": "2024-08-16 Introduction To Node",
-      "path": "01 - Rough Notes/Node/2024-08-16 Introduction To Node.md"
-    },
-    {
-      "basename": "2024-08-16 Process (Node)",
-      "path": "01 - Rough Notes/Node/2024-08-16 Process (Node).md"
-    },
-    {
-      "basename": "-- JWT --",
-      "path": "01 - Rough Notes/Node/JWT/-- JWT --.md"
-    },
-    {
-      "basename": "Pasted Image 20240819101025_110",
-      "path": "00 - Assets/Pasted Image 20240819101025_110.png"
-    },
-    {
-      "basename": "Express.js",
-      "path": "01 - Rough Notes/Node/Express/Express.js.md"
-    },
-    {
-      "basename": "Setting Up Backend",
-      "path": "01 - Rough Notes/Fullstack/Setting Up Backend.md"
-    },
-    {
-      "basename": "Setting Up Frontend",
-      "path": "01 - Rough Notes/Fullstack/Setting Up Frontend.md"
-    },
-    {
-      "basename": "MVC",
-      "path": "01 - Rough Notes/Fullstack/MVC.md"
-    },
-    {
-      "basename": "2024-09-12 Entity Relationship Diagrams",
-      "path": "01 - Rough Notes/Databases/2024-09-12 Entity Relationship Diagrams.md"
-    },
-    {
-      "basename": "React Router",
-      "path": "01 - Rough Notes/React/React Router/React Router.md"
-    },
-    {
-      "basename": "RouterProvider",
-      "path": "01 - Rough Notes/React/React Router/RouterProvider.md"
-    },
-    {
-      "basename": "MySQL Connections",
-      "path": "01 - Rough Notes/Databases/MySQL Connections.md"
-    },
-    {
-      "basename": "2024-08-02 AXIOS",
-      "path": "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md"
-    },
-    {
-      "basename": "createBrowserRouter",
-      "path": "01 - Rough Notes/React/React Router/createBrowserRouter.md"
-    },
-    {
-      "basename": "Server-side Authentication",
-      "path": "01 - Rough Notes/Fullstack/Server-side Authentication.md"
-    },
-    {
-      "basename": "-- Fullstack --",
-      "path": "01 - Rough Notes/Fullstack/-- Fullstack --.md"
-    },
-    {
-      "basename": "2024-09-16 Protected Routes",
-      "path": "00 - Calendar/2024-09-16 Protected Routes.md"
-    },
-    {
-      "basename": "2024-09-14 09.29.48.excalidraw",
-      "path": "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md"
-    },
-    {
-      "basename": "Social Marketing",
-      "path": "02 - Zettelkasten/Social Marketing.md"
-    },
-    {
-      "basename": "2024-09-14 Elements to include in a Landing Page",
-      "path": "00 - Calendar/2024-09-14 Elements to include in a Landing Page.md"
-    },
-    {
-      "basename": "Marketing 101",
-      "path": "02 - Zettelkasten/Marketing 101.md"
     }
   ],
   "omittedPaths": []

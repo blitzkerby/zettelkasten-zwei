@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileStack",
+      "CoUsersGroup",
       "LiDollarSign",
       "LiMapPinned",
-      "CoPlanet",
-      "LiAtom",
-      "CoChartLine"
+      "CoPlanet"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,8 @@
   "01 - Rough Notes/Marketing": "CoChartLine",
   "01 - Rough Notes/React": "LiAtom",
   "01 - Rough Notes/Project Planning": "LiMapPinned",
-  "01 - Rough Notes/Business": "LiDollarSign"
+  "01 - Rough Notes/Business": "LiDollarSign",
+  "04 - Planning": "CoPlanet",
+  "02 - Zettelkasten/Team": "CoUsersGroup",
+  "02 - Zettelkasten/Tech Stacking": "LiFileStack"
 }
