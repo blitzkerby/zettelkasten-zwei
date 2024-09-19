@@ -22,3 +22,7 @@ https://excalidraw.com/#room=4daab6b35fde0dd148a7,fClO_CVPw7GNlVLw237w6g
 ### Refresh Token Rotation
 ---
 - [OAuth 2.0 for Browser-Based Apps — draft-ietf-oauth-browser-based-apps-05](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps-05#section-8)
+
+### **Deploying with Vite**
+---
+- https://www.youtube.com/watch?v=nQdyiK7-VlQ

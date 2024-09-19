@@ -251,6 +251,7 @@
   },
   "active": "0fa6da63eafbcb39",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "02 - Zettelkasten/Tech Stacking/PostgreSQL Setup.md",
     "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
     "02 - Zettelkasten/Tech Stacking/BACKEND 101.md",
@@ -267,6 +268,8 @@
     "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
     "02 - Zettelkasten/Team",
     "00 - Calendar/2024-09-19 Routing of application.md",
+=======
+>>>>>>> 2d45d47 (saving before pull)
     "01 - Rough Notes/React/Setting Up Authentication.md",
     "02 - Zettelkasten/MyERN Stack II.md",
     "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
@@ -282,6 +285,20 @@
     "01 - Rough Notes/Untitled",
     "02 - Zettelkasten/Untitled.md",
     "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md",
+<<<<<<< HEAD
+=======
+    "01 - Rough Notes/React/Backend Setup (MyERN II).md",
+    "01 - Rough Notes/React/Sequelize/-- Sequelize --.md",
+    "01 - Rough Notes/React/Redux/Object Destructuring in Redux Exports.md",
+    "01 - Rough Notes/React/React Router/-- React Router --.md",
+    "01 - Rough Notes/React/Axios/-- Axios --.md",
+    "01 - Rough Notes/Databases/-- Databases --.md",
+    "01 - Rough Notes/React/Object Destructuring in Redux Exports.md",
+    "01 - Rough Notes/Node/JWT/2024-09-17 Understanding JWT Authentication - A Comprehensive Guide with Examples.md",
+    "01 - Rough Notes/Node/JWT/2024-09-17 The Problem JWT Aims to Solve.md",
+    "01 - Rough Notes/Node/JWT/2024-09-17 Issues and Concerns of JWT.md",
+    "01 - Rough Notes/Node/JWT/-- JWT --.md",
+>>>>>>> 2d45d47 (saving before pull)
     "01 - Rough Notes/Node/JWT",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations",
     "01 - Rough Notes/Mathematics/Differential Equations",

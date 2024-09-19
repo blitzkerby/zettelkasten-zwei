@@ -3,6 +3,13 @@
     {
       "basename": "WORKFLOW MAINTAINER",
       "path": "04 - Planning/WORKFLOW MAINTAINER.md"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "basename": "Setting Up Authentication",
+      "path": "01 - Rough Notes/React/Setting Up Authentication.md"
+>>>>>>> 2d45d47 (saving before pull)
     },
     {
       "basename": "Setting Up Authentication",
@@ -97,6 +104,13 @@
       "path": "01 - Rough Notes/Mathematics/2024-06-03 A trick for Logarithm integrals.md"
     },
     {
+<<<<<<< HEAD
+=======
+      "basename": "A GUIDE TO TECH-STACKING",
+      "path": "02 - Zettelkasten/A GUIDE TO TECH-STACKING.md"
+    },
+    {
+>>>>>>> 2d45d47 (saving before pull)
       "basename": "2024-09-14 09.29.48.excalidraw",
       "path": "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md"
     },
