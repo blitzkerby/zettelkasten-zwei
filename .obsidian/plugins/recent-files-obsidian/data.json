@@ -1,79 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Setting Up Authentication",
+      "path": "01 - Rough Notes/React/Setting Up Authentication.md"
+    },
+    {
+      "basename": "MyERN Stack II",
+      "path": "02 - Zettelkasten/MyERN Stack II.md"
+    },
+    {
+      "basename": "Frontend Setup (MyERN II)",
+      "path": "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md"
+    },
+    {
+      "basename": "Korean Scholarship Programs",
+      "path": "04 - Planning/Universties/Korean Scholarship Programs.md"
+    },
+    {
+      "basename": "PostgreSQL Setup",
+      "path": "02 - Zettelkasten/PostgreSQL Setup.md"
+    },
+    {
+      "basename": "CamTech",
+      "path": "04 - Planning/Universties/CamTech.md"
+    },
+    {
+      "basename": "Techno",
+      "path": "04 - Planning/Universties/Techno.md"
+    },
+    {
+      "basename": "Phoura Y",
+      "path": "Phoura Y.md"
+    },
+    {
+      "basename": "-- Universities --",
+      "path": "04 - Planning/Universties/-- Universities --.md"
+    },
+    {
+      "basename": "CADT",
+      "path": "04 - Planning/Universties/CADT.md"
+    },
+    {
+      "basename": "2024-08-28 MyERN Stack",
+      "path": "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md"
+    },
+    {
+      "basename": "Backend Setup (MyERN II)",
+      "path": "01 - Rough Notes/React/Backend Setup (MyERN II).md"
+    },
+    {
       "basename": "-- Redux --",
       "path": "01 - Rough Notes/React/Redux/-- Redux --.md"
-<<<<<<< HEAD
-=======
     },
     {
       "basename": "-- React --",
       "path": "01 - Rough Notes/React/-- React --.md"
-    },
-    {
-      "basename": "Backend Setup (MyERN II)",
-      "path": "01 - Rough Notes/React/Backend Setup (MyERN II).md"
-    },
-    {
-      "basename": "2024-09-09 React Lessons with B Samadey",
-      "path": "01 - Rough Notes/React/2024-09-09 React Lessons with B Samadey.md"
-    },
-    {
-      "basename": "Data Fetching",
-      "path": "01 - Rough Notes/React/Data Fetching.md"
-    },
-    {
-      "basename": "Object Destructuring in Redux Exports",
-      "path": "01 - Rough Notes/React/Redux/Object Destructuring in Redux Exports.md"
-    },
-    {
-      "basename": "2024-08-08 DOM Refresher",
-      "path": "01 - Rough Notes/React/2024-08-08 DOM Refresher.md"
-    },
-    {
-      "basename": "2024-07-31 REACT EXCALIDRAW",
-      "path": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md"
-    },
-    {
-      "basename": "-- Sequelize --",
-      "path": "01 - Rough Notes/React/Sequelize/-- Sequelize --.md"
-    },
-    {
-      "basename": "-- React Router --",
-      "path": "01 - Rough Notes/React/React Router/-- React Router --.md"
-    },
-    {
-      "basename": "-- Axios --",
-      "path": "01 - Rough Notes/React/Axios/-- Axios --.md"
-    },
-    {
-      "basename": "2024-08-02 AXIOS",
-      "path": "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md"
-    },
-    {
-      "basename": "createBrowserRouter",
-      "path": "01 - Rough Notes/React/React Router/createBrowserRouter.md"
-    },
-    {
-      "basename": "React Router",
-      "path": "01 - Rough Notes/React/React Router/React Router.md"
-    },
-    {
-      "basename": "RouterProvider",
-      "path": "01 - Rough Notes/React/React Router/RouterProvider.md"
-    },
-    {
-      "basename": "-- Databases --",
-      "path": "01 - Rough Notes/Databases/-- Databases --.md"
->>>>>>> af1a745 (saving)
-    },
-    {
-      "basename": "-- React --",
-      "path": "01 - Rough Notes/React/-- React --.md"
-    },
-    {
-      "basename": "Backend Setup (MyERN II)",
-      "path": "01 - Rough Notes/React/Backend Setup (MyERN II).md"
     },
     {
       "basename": "2024-09-09 React Lessons with B Samadey",
@@ -106,10 +87,6 @@
     {
       "basename": "RouterProvider",
       "path": "01 - Rough Notes/React/React Router/RouterProvider.md"
-    },
-    {
-      "basename": "Linear Equations",
-      "path": "Linear Equations.md"
     },
     {
       "basename": "-- Differential Equations --",
@@ -125,11 +102,7 @@
     },
     {
       "basename": "WORKFLOW MAINTAINER",
-      "path": "04 - FLOW/WORKFLOW MAINTAINER.md"
-    },
-    {
-      "basename": "MyERN Stack II",
-      "path": "02 - Zettelkasten/MyERN Stack II.md"
+      "path": "04 - Planning/WORKFLOW MAINTAINER.md"
     },
     {
       "basename": "A GUIDE TO TECH-STACKING",
@@ -184,10 +157,6 @@
       "path": "00 - Kanban/Kanban.md"
     },
     {
-      "basename": "Frontend Setup (MyERN II)",
-      "path": "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md"
-    },
-    {
       "basename": "2024-08-14 Object Destructuring",
       "path": "01 - Rough Notes/React/2024-08-14 Object Destructuring.md"
     },
@@ -204,20 +173,12 @@
       "path": "00 - Excalidraw/2024-09-12 13.29.16.excalidraw.md"
     },
     {
-      "basename": "2024-08-28 MyERN Stack",
-      "path": "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md"
-    },
-    {
       "basename": "2024-08-29 RESTful Architecture",
       "path": "01 - Rough Notes/App Architecture/2024-08-29 RESTful Architecture.md"
     },
     {
       "basename": "Database Setup (MyERN II)",
       "path": "01 - Rough Notes/Databases/Database Setup (MyERN II).md"
-    },
-    {
-      "basename": "PostgreSQL Setup",
-      "path": "02 - Zettelkasten/PostgreSQL Setup.md"
     },
     {
       "basename": "Campaign Objectives",

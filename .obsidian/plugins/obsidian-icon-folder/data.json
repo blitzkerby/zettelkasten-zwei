@@ -59,7 +59,6 @@
   "00 - Excalidraw": "LiAmpersand",
   "00 - ipynb": "LiAtom",
   "00 - Kanban": "LiAlarmPlus",
-  "04 - FLOW": "LiActivity",
   "05 - OPERATION GRIMSTONE": "LiAxe",
   "00 - NODES": "LiBanana",
   "01 - Rough Notes/Nuclear Physics": "CoPlanet",
@@ -74,5 +73,6 @@
   "01 - Rough Notes/Marketing": "CoChartLine",
   "01 - Rough Notes/React": "LiAtom",
   "01 - Rough Notes/Project Planning": "LiMapPinned",
-  "01 - Rough Notes/Business": "LiDollarSign"
+  "01 - Rough Notes/Business": "LiDollarSign",
+  "04 - Planning": "LiActivity"
 }

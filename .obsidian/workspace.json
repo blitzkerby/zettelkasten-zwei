@@ -19,12 +19,88 @@
             "id": "6f40901313412bdd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04 - Planning/Universties/-- Universities --.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "165d89a83af667c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Planning/Universties/-- Universities --.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98f27d0394fb726d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Planning/Universties/CADT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d44c8d533d16d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Planning/Universties/Korean Scholarship Programs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98aa0bfe2db8640f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a64f15b354b12ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Zettelkasten/MyERN Stack II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fa6da63eafbcb39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Rough Notes/React/Setting Up Authentication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -106,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - Rough Notes/React/Setting Up Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - Rough Notes/React/Setting Up Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 - Rough Notes/React/Setting Up Authentication.md"
+              }
             }
           },
           {
@@ -181,8 +261,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6f40901313412bdd",
+  "active": "0fa6da63eafbcb39",
   "lastOpenFiles": [
+    "02 - Zettelkasten/MyERN Stack II.md",
+    "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
+    "04 - Planning/Universties/Korean Scholarship Programs.md",
+    "02 - Zettelkasten/PostgreSQL Setup.md",
+    "04 - Planning/Universties/CamTech.md",
+    "04 - Planning/Universties/Techno.md",
+    "Phoura Y.md",
+    "Pasted image 20240918194436.png",
+    "04 - Planning/Universties/-- Universities --.md",
+    "04 - Planning/Universties/CADT.md",
+    "04 - Planning/Universties",
+    "01 - Rough Notes/Untitled",
+    "02 - Zettelkasten/Untitled.md",
+    "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md",
+    "01 - Rough Notes/React/Backend Setup (MyERN II).md",
     "01 - Rough Notes/React/Sequelize/-- Sequelize --.md",
     "01 - Rough Notes/React/Redux/Object Destructuring in Redux Exports.md",
     "01 - Rough Notes/React/React Router/-- React Router --.md",
@@ -199,26 +294,12 @@
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Separable Equations.md",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/-- First Order Differential Equations --.md",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations",
-    "01 - Rough Notes/React/Redux/-- Redux --.md",
-    "01 - Rough Notes/React/-- React --.md",
-    "01 - Rough Notes/React/Backend Setup (MyERN II).md",
-    "01 - Rough Notes/React/2024-09-09 React Lessons with B Samadey.md",
-    "01 - Rough Notes/React/Data Fetching.md",
-    "01 - Rough Notes/React/2024-08-08 DOM Refresher.md",
-    "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md",
-    "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md",
-    "01 - Rough Notes/React/React Router/createBrowserRouter.md",
-    "01 - Rough Notes/React/React Router/React Router.md",
-    "01 - Rough Notes/React/React Router/RouterProvider.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations.md",
     "01 - Rough Notes/Mathematics/Differential Equations",
     "01 - Rough Notes/Physics",
     "01 - Rough Notes/Chemistry",
     "01 - Rough Notes/Mathematics/Techno Preparation",
     "01 - Rough Notes/React/Sequelize",
     "01 - Rough Notes/Node/Express",
-    "01 - Rough Notes/Node/Authentication",
-    "01 - Rough Notes/React/React Router/Untitled",
     "00 - Assets/Pasted image 20240825142020.png",
     "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png",
     "00 - Assets/Screenshot 2024-09-12 at 12.01.15 in the afternoon.png",
@@ -227,7 +308,6 @@
     "00 - Assets/Screenshot 2024-09-12 at 12.00.11 in the afternoon.png",
     "00 - Assets/Screenshot 2024-09-12 at 11.58.18 in the morning.png",
     "00 - Assets/Screenshot 2024-09-12 at 11.53.37 in the morning.png",
-    "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png",
-    "00 - Assets/Pasted image 20240903112557.png"
+    "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png"
   ]
 }
