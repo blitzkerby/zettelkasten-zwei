@@ -4,11 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "8be71f1fc0e79982",
+        "id": "02f2679b9dc15bbf",
         "type": "tabs",
         "children": [
           {
-            "id": "d85f9264fb25cf51",
+            "id": "8a593becc2ad6a78",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md"
+              }
+            }
+          },
+          {
+            "id": "82935bb87fa2b8f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Rough Notes/Node/JWT/2024-09-17 Understanding JWT Authentication - A Comprehensive Guide with Examples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e388efbc3afb4cac",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -16,67 +38,19 @@
             }
           },
           {
-            "id": "6f40901313412bdd",
+            "id": "2a9139cb9c1f8c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Planning/Universties/-- Universities --.md",
+                "file": "01 - Rough Notes/Node/JWT/2024-09-17 The Problem JWT Aims to Solve.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "165d89a83af667c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Planning/Universties/-- Universities --.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98f27d0394fb726d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Planning/Universties/CADT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d44c8d533d16d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Planning/Universties/Korean Scholarship Programs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98aa0bfe2db8640f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a64f15b354b12ed",
+            "id": "9d8c9e8d58cc056a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,21 +60,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0fa6da63eafbcb39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Rough Notes/React/Setting Up Authentication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 388.5
   },
   "right": {
     "id": "d08757ac2f86ea7a",
@@ -182,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/React/Setting Up Authentication.md",
+                "file": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/React/Setting Up Authentication.md",
+                "file": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/React/Setting Up Authentication.md"
+                "file": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md"
               }
             }
           },
@@ -261,45 +222,46 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0fa6da63eafbcb39",
+  "active": "7b3cf75041f063be",
   "lastOpenFiles": [
-    "02 - Zettelkasten/MyERN Stack II.md",
-    "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
-    "04 - Planning/Universties/Korean Scholarship Programs.md",
-    "02 - Zettelkasten/PostgreSQL Setup.md",
-    "04 - Planning/Universties/CamTech.md",
-    "04 - Planning/Universties/Techno.md",
     "Phoura Y.md",
     "Pasted image 20240918194436.png",
-    "04 - Planning/Universties/-- Universities --.md",
+    "04 - Planning/Universties/Techno.md",
+    "04 - Planning/Universties/Korean Scholarship Programs.md",
     "04 - Planning/Universties/CADT.md",
+    "04 - Planning/Universties/CamTech.md",
+    "04 - Planning/Universties/-- Universities --.md",
+    "04 - Planning/WORKFLOW MAINTAINER.md",
     "04 - Planning/Universties",
-    "01 - Rough Notes/Untitled",
-    "02 - Zettelkasten/Untitled.md",
-    "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md",
-    "01 - Rough Notes/React/Backend Setup (MyERN II).md",
+    "04 - Planning",
     "01 - Rough Notes/React/Sequelize/-- Sequelize --.md",
     "01 - Rough Notes/React/Redux/Object Destructuring in Redux Exports.md",
     "01 - Rough Notes/React/React Router/-- React Router --.md",
     "01 - Rough Notes/React/Axios/-- Axios --.md",
     "01 - Rough Notes/Databases/-- Databases --.md",
-    "01 - Rough Notes/React/Setting Up Authentication.md",
-    "01 - Rough Notes/React/Object Destructuring in Redux Exports.md",
+    "01 - Rough Notes/React/-- React --.md",
+    "01 - Rough Notes/React/2024-07-22 React Journey.md",
+    "01 - Rough Notes/React/Redux/-- Redux --.md",
+    "01 - Rough Notes/React/Redux/Redux Toolkit.md",
+    "01 - Rough Notes/Node/Authentication/2024-09-16 Authentication with JWT.md",
+    "02 - Zettelkasten/MyERN Stack II.md",
     "01 - Rough Notes/Node/JWT/2024-09-17 Understanding JWT Authentication - A Comprehensive Guide with Examples.md",
     "01 - Rough Notes/Node/JWT/2024-09-17 The Problem JWT Aims to Solve.md",
-    "01 - Rough Notes/Node/JWT/2024-09-17 Issues and Concerns of JWT.md",
-    "01 - Rough Notes/Node/JWT/-- JWT --.md",
-    "01 - Rough Notes/Node/JWT",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Linear Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Separable Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/-- First Order Differential Equations --.md",
+    "01 - Rough Notes/React/Setting Up Authentication.md",
+    "01 - Rough Notes/React/Sequelize/Connecting to Database.md",
+    "01 - Rough Notes/React/Sequelize/2024-09-16 Handling more than one tables.md",
+    "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md",
+    "01 - Rough Notes/React/2024-08-06 How Rendering Works.md",
+    "01 - Rough Notes/React/2024-08-08 DOM Refresher.md",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations",
-    "01 - Rough Notes/Mathematics/Differential Equations",
-    "01 - Rough Notes/Physics",
-    "01 - Rough Notes/Chemistry",
+    "01 - Rough Notes/Node/JWT",
+    "00 - Assets/Pasted Image 20240819101025_110.png",
     "01 - Rough Notes/Mathematics/Techno Preparation",
-    "01 - Rough Notes/React/Sequelize",
+    "01 - Rough Notes/Mathematics/Differential Equations",
     "01 - Rough Notes/Node/Express",
+    "01 - Rough Notes/Node/Authentication",
+    "01 - Rough Notes/React/Sequelize",
+    "01 - Rough Notes/Tensei",
     "00 - Assets/Pasted image 20240825142020.png",
     "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png",
     "00 - Assets/Screenshot 2024-09-12 at 12.01.15 in the afternoon.png",
@@ -307,7 +269,6 @@
     "00 - Assets/Screenshot 2024-09-12 at 12.00.23 in the afternoon.png",
     "00 - Assets/Screenshot 2024-09-12 at 12.00.11 in the afternoon.png",
     "00 - Assets/Screenshot 2024-09-12 at 11.58.18 in the morning.png",
-    "00 - Assets/Screenshot 2024-09-12 at 11.53.37 in the morning.png",
-    "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png"
+    "00 - Assets/Screenshot 2024-09-12 at 11.53.37 in the morning.png"
   ]
 }
