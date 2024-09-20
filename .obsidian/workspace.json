@@ -8,87 +8,66 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d85f9264fb25cf51",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "6f40901313412bdd",
+            "id": "869827e30bbeadfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Planning/Universties/-- Universities --.md",
+                "file": "00 - Calendar/2024-09-19 Routing of application.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "165d89a83af667c2",
+            "id": "9d8c9e8d58cc056a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Planning/Universties/-- Universities --.md",
+                "file": "02 - Zettelkasten/Team/Where2 Documentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "98f27d0394fb726d",
+            "id": "4fce98f52ef2c1c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Planning/Universties/CADT.md",
+                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0d44c8d533d16d0c",
+            "id": "d90c43a56aa1fdcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Planning/Universties/Korean Scholarship Programs.md",
+                "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "98aa0bfe2db8640f",
+            "id": "24d4212aefc1cb6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fa6da63eafbcb39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Planning/WORKFLOW MAINTAINER.md",
+                "file": "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Planning/WORKFLOW MAINTAINER.md",
+                "file": "00 - Calendar/2024-09-19 Routing of application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Planning/WORKFLOW MAINTAINER.md",
+                "file": "00 - Calendar/2024-09-19 Routing of application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Planning/WORKFLOW MAINTAINER.md"
+                "file": "00 - Calendar/2024-09-19 Routing of application.md"
               }
             }
           },
@@ -249,14 +228,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0fa6da63eafbcb39",
+  "active": "869827e30bbeadfa",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "02 - Zettelkasten/Tech Stacking/PostgreSQL Setup.md",
+    "02 - Zettelkasten/Team/Where2 Documentation.md",
+    "00 - Calendar/2024-09-19 Routing of application.md",
+    "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md",
+    "00 - Calendar/2024-09-16 Protected Routes.md",
+    "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md",
+    "04 - Planning/WORKFLOW MAINTAINER.md",
+    "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+    "01 - Rough Notes/Heroku",
+    "01 - Rough Notes/H.md",
+    "01 - Rough Notes/App Architecture/Typography.md",
     "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
-    "02 - Zettelkasten/Tech Stacking/BACKEND 101.md",
-    "02 - Zettelkasten/Tech Stacking/MERN.md",
+    "Folder Structure.md",
+    "Tech Stack.md",
     "02 - Zettelkasten/Tech Stacking/APPLICATION DOCUMENTATION.md",
+    "01 - Rough Notes/App Architecture/2024-08-07 Convention Guide.md",
+    "01 - Rough Notes/App Architecture/2024-08-13 OUR APPLICATION.md",
+    "01 - Rough Notes/App Architecture/2024-08-01 Information Architecture II.md",
+    "02 - Zettelkasten/Team/Social Marketing.md",
+    "02 - Zettelkasten/Computer Science.md",
+    "02 - Zettelkasten/SQL commands.md",
+    "02 - Zettelkasten/Networking 101.md",
+    "02 - Zettelkasten/Marketing 101.md",
+    "02 - Zettelkasten/Tech Stacking/PostgreSQL Setup.md",
+    "02 - Zettelkasten/Tech Stacking/BACKEND 101.md",
     "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md",
     "02 - Zettelkasten/Tech Stacking",
     "02 - Zettelkasten/Team/Where2 Documentation.md",

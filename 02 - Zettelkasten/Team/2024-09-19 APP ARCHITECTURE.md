@@ -61,8 +61,30 @@ This stack provides a robust setup for building a full-stack application with a 
 
 ### **Frontend**
 ---
-```
-
+```css
+.
+├── .git
+├── node_modules/
+├── public/
+├── src/
+│   ├── assets/
+│   │   ├── images
+│   │   └── svgs
+│   ├── components/
+│   │   └── tailwindcardclass/
+│   ├── features/
+│   ├── layouts/
+│   ├── pages/
+│   ├── App.js
+│   ├── Constants.js
+│   ├── index.css
+│   └── index.js
+├── .gitignore
+├── .reviewboardrc
+├── eslint.config.js
+├── package-lock.json
+├── package.json
+└── tailwind.config.js
 ```
 
 ### **Backend**
