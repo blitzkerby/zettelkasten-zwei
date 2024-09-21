@@ -1,36 +1,168 @@
 {
   "recentFiles": [
     {
-      "basename": "-- Sources --",
-      "path": "01 - Sources/-- Sources --.md"
-    },
-    {
-      "basename": "React Handbook",
-      "path": "01 - Sources/React Handbook.md"
-    },
-    {
-      "basename": "Folder Structure",
-      "path": "Folder Structure.md"
-    },
-    {
       "basename": "2024-09-19 APP ARCHITECTURE",
       "path": "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md"
-    },
-    {
-      "basename": "-- Where2 Documentation --",
-      "path": "02 - Zettelkasten/Team/-- Where2 Documentation --.md"
-    },
-    {
-      "basename": "2024-09-19 FRONTEND ARCHITECTURE",
-      "path": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md"
     },
     {
       "basename": "2024-08-06 DESIGN DOCUMENTATION",
       "path": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
     },
     {
-      "basename": "2024-09-21 Setting Up",
-      "path": "02 - Zettelkasten/Team/2024-09-21 Setting Up.md"
+      "basename": "Social Marketing",
+      "path": "02 - Zettelkasten/Team/Social Marketing.md"
+    },
+    {
+      "basename": "2024-09-19 FRONTEND ARCHITECTURE",
+      "path": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md"
+    },
+    {
+      "basename": "-- Universities --",
+      "path": "04 - Planning/Universties/-- Universities --.md"
+    },
+    {
+      "basename": "CADT",
+      "path": "04 - Planning/Universties/CADT.md"
+    },
+    {
+      "basename": "WORKFLOW MAINTAINER",
+      "path": "04 - Planning/WORKFLOW MAINTAINER.md"
+    },
+    {
+      "basename": "MyERN Stack II",
+      "path": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
+    },
+    {
+      "basename": "Frontend Setup (MyERN II)",
+      "path": "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md"
+    },
+    {
+      "basename": "Setting Up Authentication",
+      "path": "01 - Rough Notes/React/Setting Up Authentication.md"
+    },
+    {
+      "basename": "CamTech",
+      "path": "04 - Planning/Universties/CamTech.md"
+    },
+    {
+      "basename": "Techno",
+      "path": "04 - Planning/Universties/Techno.md"
+    },
+    {
+      "basename": "Phoura Y",
+      "path": "Phoura Y.md"
+    },
+    {
+      "basename": "2024-08-28 MyERN Stack",
+      "path": "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md"
+    },
+    {
+      "basename": "Backend Setup (MyERN II)",
+      "path": "01 - Rough Notes/React/Backend Setup (MyERN II).md"
+    },
+    {
+      "basename": "-- Redux --",
+      "path": "01 - Rough Notes/React/Redux/-- Redux --.md"
+    },
+    {
+      "basename": "-- React --",
+      "path": "01 - Rough Notes/React/-- React --.md"
+    },
+    {
+      "basename": "2024-09-09 React Lessons with B Samadey",
+      "path": "01 - Rough Notes/React/2024-09-09 React Lessons with B Samadey.md"
+    },
+    {
+      "basename": "Data Fetching",
+      "path": "01 - Rough Notes/React/Data Fetching.md"
+    },
+    {
+      "basename": "2024-08-08 DOM Refresher",
+      "path": "01 - Rough Notes/React/2024-08-08 DOM Refresher.md"
+    },
+    {
+      "basename": "2024-07-31 REACT EXCALIDRAW",
+      "path": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md"
+    },
+    {
+      "basename": "2024-08-02 AXIOS",
+      "path": "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md"
+    },
+    {
+      "basename": "createBrowserRouter",
+      "path": "01 - Rough Notes/React/React Router/createBrowserRouter.md"
+    },
+    {
+      "basename": "React Router",
+      "path": "01 - Rough Notes/React/React Router/React Router.md"
+    },
+    {
+      "basename": "RouterProvider",
+      "path": "01 - Rough Notes/React/React Router/RouterProvider.md"
+    },
+    {
+      "basename": "-- Differential Equations --",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md"
+    },
+    {
+      "basename": "2024-09-16 វិញ្ញាសា ១",
+      "path": "01 - Rough Notes/Mathematics/Techno Preparation/2024-09-16 វិញ្ញាសា ១.md"
+    },
+    {
+      "basename": "2024-06-03 A trick for Logarithm integrals",
+      "path": "01 - Rough Notes/Mathematics/2024-06-03 A trick for Logarithm integrals.md"
+    },
+    {
+      "basename": "2024-09-14 09.29.48.excalidraw",
+      "path": "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md"
+    },
+    {
+      "basename": "2024-09-14 Elements to include in a Landing Page",
+      "path": "00 - Calendar/2024-09-14 Elements to include in a Landing Page.md"
+    },
+    {
+      "basename": "Marketing 101",
+      "path": "02 - Zettelkasten/Marketing 101.md"
+    },
+    {
+      "basename": "Architecture of a Full-stack Application",
+      "path": "01 - Rough Notes/Fullstack/Architecture of a Full-stack Application.md"
+    },
+    {
+      "basename": "CreateAsyncThunk (Redux)",
+      "path": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md"
+    },
+    {
+      "basename": "Understanding Redux",
+      "path": "01 - Rough Notes/React/Redux/Understanding Redux.md"
+    },
+    {
+      "basename": "Redux Toolkit",
+      "path": "01 - Rough Notes/React/Redux/Redux Toolkit.md"
+    },
+    {
+      "basename": "Redux Under the Hood",
+      "path": "01 - Rough Notes/React/Redux/Redux Under the Hood.md"
+    },
+    {
+      "basename": "2024-08-19 How Hooks really work",
+      "path": "01 - Rough Notes/React/2024-08-19 How Hooks really work.md"
+    },
+    {
+      "basename": "ICEBOX",
+      "path": "00 - Kanban/ICEBOX.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "00 - Kanban/Kanban.md"
+    },
+    {
+      "basename": "2024-08-14 Object Destructuring",
+      "path": "01 - Rough Notes/React/2024-08-14 Object Destructuring.md"
+    },
+    {
+      "basename": "2024-08-06 How Rendering Works",
+      "path": "01 - Rough Notes/React/2024-08-06 How Rendering Works.md"
     }
   ],
   "omittedPaths": []
