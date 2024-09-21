@@ -6,56 +6,95 @@ endTime: 12:00
 date: 2024-09-19
 completed: null
 ---
-## **[[Tech Stack]]**
-### **Frontend**
----
-- **Framework**
-	React (`react`, `react-dom`)
-	
-- **Routing**
-	React Router (`react-router-dom`)
-	
-- **Icons**
-	React Icons (`react-icons`), Lucide React (`lucide-react`)
-	
-- **Testing**
-	React Testing Library (`@testing-library/react`, `@testing-library/jest-dom`, `@testing-library/user-event`)
-	
-- **Build Tool**
-	React Scripts (`react-scripts`)
-	
-- **Performance Monitoring**
-	Web Vitals (`web-vitals`)
-	
-- **Styling**
-	Tailwind CSS (`tailwindcss`)
-	
-### **Backend**
----
-- **Framework**
-	Express (`express`)
-	
-- **Database**
-	Sequelize ORM with MySQL (`sequelize`, `mysql2`)
-	
-- **Authentication**
-	Passport (`passport`, `passport-google-oauth20`), JSON Web Token (`jsonwebtoken`)
-	
-- **Security**
-	Helmet (`helmet`), Express Rate Limit (`express-rate-limit`), Express Mongo Sanitize (`express-mongo-sanitize`), XSS Clean (`xss-clean`), HPP (`hpp`)
-	
-- **Utilities**
-	Body Parser (`body-parser`), Compression (`compression`), CORS (`cors`), Dotenv (`dotenv`), Morgan (`morgan`), Nodemailer (`nodemailer`), Multer (`multer`), Path (`path`), Pug (`pug`), Sharp (`sharp`), Winston (`winston`)
-	
-- **Testing**
-	Jest (`jest`)
-	
-- **Development Tools**
-	Nodemon (`nodemon`), Config (`config`)
-	
+## **Table of Contents**
+
+1. Introduction
+2. Installation
+3. Development
+4. Dependencies
+    - Core Dependencies
+    - State Management
+    - Page Routing
+    - Styling
+    - Utilities
+    - Testing
+5. Project Structure
+6. Contributing
+7. License
+
+## **Introduction**
+
+This project is a React application built with Vite, utilizing various libraries for state management, routing, styling, and more. It aims to provide a robust and scalable foundation for building modern web applications.
+
+
+## **Installation**
+
+To install the project dependencies, run:
+
+```bash
+npm install
+```
+
+## **Development**
+
+To start the development server, run:
+
+```bash
+npm dev
+```
+
+To build the project for production, run:
+
+```bash
+npm build
+```
+
+To preview the production build, run:
+
+```bash
+npm serve
+```
+
+## **Dependencies**
+
+### **Core Dependencies**
+
+- **React**: A JavaScript library for building user interfaces.
+- **React DOM**: Provides DOM-specific methods that can be used at the top level of a web app.
+
+### **State Management**
+
+- **@reduxjs/toolkit**: The official, recommended way to write Redux logic. It provides a set of tools to simplify Redux development.
+- **react-redux**: Official React bindings for Redux, making it easier to connect React components to the Redux store.
+
+### **Page Routing**
+
+- **react-router-dom**: A collection of navigational components that compose declaratively with your application.
+
+### **Styling**
+
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
+- **@emotion/react**: Library for writing CSS styles with JavaScript.
+- **@emotion/styled**: Styled-components library built for Emotion.
+- **@mui/material**: Material-UI components for faster and easier web development.
+- **@mui/icons-material**: Material-UI icons.
+- **styled-components**: A library for writing CSS-in-JS.
+
+### **Utilities**
+
+- **axios**: Promise-based HTTP client for the browser and Node.js.
+- **dotenv**: Loads environment variables from a `.env` file into `process.env`.
+- **jwt-decode**: A small library that helps decode JWT tokens.
+- **react-icons**: Include popular icons in your React projects easily.
+- **react-toastify**: Allows you to add notifications to your app with ease.
+
+### **Testing**
+
+- **@testing-library/react**: Simple and complete testing utilities that encourage good testing practices.
+- **@testing-library/jest-dom**: Custom jest matchers to test the state of the DOM.
+- **@testing-library/user-event**: Simulates user interactions with the application.
 
 This stack provides a robust setup for building a full-stack application with a React frontend and an Express backend, utilizing Sequelize for database management and various tools for security, authentication, and development efficiency.****
-
 
 ## **[[Folder Structure]]**
 

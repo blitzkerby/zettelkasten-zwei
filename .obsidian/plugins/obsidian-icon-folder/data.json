@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSaveAll",
       "LiFileStack",
       "CoUsersGroup",
       "LiDollarSign",
-      "LiMapPinned",
-      "CoPlanet"
+      "LiMapPinned"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -76,5 +76,6 @@
   "01 - Rough Notes/Business": "LiDollarSign",
   "04 - Planning": "CoPlanet",
   "02 - Zettelkasten/Team": "CoUsersGroup",
-  "02 - Zettelkasten/Tech Stacking": "LiFileStack"
+  "02 - Zettelkasten/Tech Stacking": "LiFileStack",
+  "01 - Sources": "LiSaveAll"
 }
