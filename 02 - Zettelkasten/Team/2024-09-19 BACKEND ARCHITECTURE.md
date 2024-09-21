@@ -6,5 +6,3 @@ endTime: 16:00
 date: 2024-09-19
 completed: null
 ---
-
-Modelling 

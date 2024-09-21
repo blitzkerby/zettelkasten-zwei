@@ -6,22 +6,6 @@ endTime: 12:00
 date: 2024-09-19
 completed: null
 ---
-## **Table of Contents**
-
-1. Introduction
-2. Installation
-3. Development
-4. Dependencies
-    - Core Dependencies
-    - State Management
-    - Page Routing
-    - Styling
-    - Utilities
-    - Testing
-5. Project Structure
-6. Contributing
-7. License
-
 ## **Introduction**
 
 This project is a React application built with Vite, utilizing various libraries for state management, routing, styling, and more. It aims to provide a robust and scalable foundation for building modern web applications.
@@ -47,6 +31,12 @@ To build the project for production, run:
 
 ```bash
 npm build
+```
+
+To check for linting errors, run:
+
+```bash
+npm lint
 ```
 
 To preview the production build, run:
@@ -99,7 +89,7 @@ This stack provides a robust setup for building a full-stack application with a 
 ## **[[Folder Structure]]**
 
 ### **Frontend**
----
+
 ```css
 .
 ├── .git
@@ -123,13 +113,40 @@ This stack provides a robust setup for building a full-stack application with a 
 ├── eslint.config.js
 ├── package-lock.json
 ├── package.json
-└── tailwind.config.js
-```
-
-### **Backend**
----
-```text
+├── pnpm-lock.yaml 
+├── postcss.config.js
+├── tailwind.config.js
+└── vite.config.ts
 
 ```
 
+## **Configurations**
+
+### **Vite**
+
+```js
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+// https://vitejs.dev/config/
+export default defineConfig({
+  plugins: [react()],
+  define: {
+    'process.env': {}
+  },
+  server: {
+    host: true,
+    port: 4000
+  },
+  test:{ 
+    /*
+     * this is for unit testing purposes
+     */
+    globals: true,
+    environment: "jsdom",
+    css: true,
+  }
+})
+
+```
 

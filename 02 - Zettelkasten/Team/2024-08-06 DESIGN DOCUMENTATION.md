@@ -136,9 +136,35 @@ For the results layout within the university page, scholarship page, accommodati
 | ------------ | ----------- |
 | Result Pages | 40px        |
 
-#### **Margin** 
+#### **Margin**
 
+|              | Top   |
+| ------------ | ----- |
+| Landing Page | 135px |
+| List Pages   | 108px |
+|              |       |
 
+#### **Spacing**
+
+Generic Spacing Values
+
+| Name        | Code name   | Values | Description          |
+| ----------- | ----------- | ------ | -------------------- |
+| Small       | spacing-sm  | 20px   | Small spacing value  |
+| Medium      | spacing-md  | 30px   | Medium spacing value |
+| Large       | spacing-lg  | 40px   | Large spacing value  |
+| Extra Large | spacing-xl  | 80px   | Extra large spacing  |
+| Tiny        | spacing-xs  | 10px   | Tiny spacing value   |
+| Huge        | spacing-xxl | 100px  | Huge spacing value   |
+
+Component Specific Spacing Values:
+
+| Component  | Desktop | Mobile |
+| ---------- | ------- | ------ |
+| Card Lists | 40px    | 30px   |
+| Buttons    | 20px    | 15px   |
+| Headers    | 60px    | 40px   |
+| Footers    | 50px    | 30px   |
 
 
 
