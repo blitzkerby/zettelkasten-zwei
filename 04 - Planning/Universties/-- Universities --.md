@@ -15,7 +15,3 @@
 ---
 
 
-
-### [[Korean Scholarship Programs]]
----
-

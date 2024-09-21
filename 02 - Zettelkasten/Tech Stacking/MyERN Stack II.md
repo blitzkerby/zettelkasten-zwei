@@ -285,7 +285,7 @@ Server running on port 1618
 
 
 
-### ***Setting up a [[2024-08-29 RESTful Architecture|RESTful API]]***
+### **Setting up a server**
 
 With our database connection in place, we’re ready to build the foundational structure of our web application. This involves constructing the backend aligning to the [[Model-View-Controller (MVC)]] architecture.
 

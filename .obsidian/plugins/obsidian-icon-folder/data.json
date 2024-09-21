@@ -77,6 +77,10 @@
   "04 - Planning": "CoPlanet",
   "02 - Zettelkasten/Team": "CoUsersGroup",
   "02 - Zettelkasten/Tech Stacking": "LiFileStack",
+<<<<<<< HEAD
+=======
+  "01 - Rough Notes/Git": "LiGithub",
+>>>>>>> 663abcf (saving before pull)
   "01 - Rough Notes/Physics": "LiBomb",
   "01 - Rough Notes/Chemistry": "LiExperiment"
 }

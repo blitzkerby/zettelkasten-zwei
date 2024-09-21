@@ -2,33 +2,21 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"02 - Zettelkasten\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 65505
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00439453125,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.21533203125,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 488,
-<<<<<<< HEAD
-  "scale": 0.08941257022405608,
-=======
-  "scale": 0.1145073634597888,
->>>>>>> eb731da (saving)
+  "centerStrength": 0,
+  "repelStrength": 19.1666666666667,
+  "linkStrength": 0.520833333333333,
+  "linkDistance": 500,
+  "scale": 0.016562053241752823,
   "close": false
 }
