@@ -4,9 +4,6 @@ cd /d "%~dp0"
 git add -A
 git commit -m "saving before pull"
 git pull origin main --rebase
-git add -A 
-git commit -m "rebasing"
-git rebase --continue
 git push origin main
 timeout /t 1000
 goto loop
