@@ -30,3 +30,4 @@ https://excalidraw.com/#room=4daab6b35fde0dd148a7,fClO_CVPw7GNlVLw237w6g
 ### **Deploying with Vite**
 ---
 - https://www.youtube.com/watch?v=nQdyiK7-VlQ
+- https://www.youtube.com/watch?v=P5RSa9RUPKA
