@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md",
+                "file": "04 - Planning/Scholarships/Personal Statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
+                "file": "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
+                "file": "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md"
+                "file": "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md"
               }
             }
           },
@@ -263,17 +263,12 @@
   },
   "active": "4f4aed72ddeb1187",
   "lastOpenFiles": [
-    "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md",
-    "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
-    "02 - Zettelkasten/Team/-- Where2 Documentation --.md",
     "autocommit.js",
     "07 - Output/Korean Scholarship Programs.pdf",
     "07 - Output/1. 2025 GKS-U Application Guideline (English).pdf",
     "04 - Planning/Scholarships/Translation of Documents.md",
     "04 - Planning/Scholarships/Submission.md",
     "04 - Planning/Scholarships/Personal Statement.md",
-    "04 - Planning/Scholarships/Korean Scholarship Programs.md",
-    "04 - Planning/Scholarships/-- Scholarships --.md",
     "04 - Planning/Scholarships",
     "04 - Planning/-- Future Planning --.md",
     "01 - Rough Notes/Git/Manipulation with branches.md",
@@ -286,8 +281,31 @@
     "01 - Sources/React Handbook.md",
     "01 - Sources/-- Sources --.md",
     "01 - Sources",
-    "Folder Structure.md",
-    "01 - Sources/-- Sources --",
-    "02 - Zettelkasten/Team/2024-09-21 Setting Up.md"
+    "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+    "02 - Zettelkasten/Team/Where2 Documentation.md",
+    "02 - Zettelkasten/Team/Social Marketing.md",
+    "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
+    "01 - Rough Notes/Untitled",
+    "04 - Planning/Universties/-- Universities --.md",
+    "04 - Planning/Universties/CADT.md",
+    "04 - Planning/WORKFLOW MAINTAINER.md",
+    "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
+    "01 - Rough Notes/Fullstack/Frontend Setup (MyERN II).md",
+    "02 - Zettelkasten/Tech Stacking/PostgreSQL Setup.md",
+    "02 - Zettelkasten/Tech Stacking/BACKEND 101.md",
+    "02 - Zettelkasten/Tech Stacking",
+    "02 - Zettelkasten/Team",
+    "Pasted image 20240918194436.png",
+    "04 - Planning/Universties",
+    "01 - Rough Notes/Node/JWT",
+    "00 - Assets/Pasted image 20240825142020.png",
+    "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png",
+    "00 - Assets/Screenshot 2024-09-12 at 12.01.15 in the afternoon.png",
+    "00 - Assets/Screenshot 2024-09-12 at 12.00.53 in the afternoon.png",
+    "00 - Assets/Screenshot 2024-09-12 at 12.00.23 in the afternoon.png",
+    "00 - Assets/Screenshot 2024-09-12 at 12.00.11 in the afternoon.png",
+    "00 - Assets/Screenshot 2024-09-12 at 11.58.18 in the morning.png",
+    "00 - Assets/Screenshot 2024-09-12 at 11.53.37 in the morning.png",
+    "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png"
   ]
 }

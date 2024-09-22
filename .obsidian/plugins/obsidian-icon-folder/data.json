@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlbum",
       "LiBomb",
       "LiExperiment",
       "LiGithub",
-      "LiFileStack",
-      "CoUsersGroup"
+      "LiFileStack"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -77,10 +77,7 @@
   "04 - Planning": "CoPlanet",
   "02 - Zettelkasten/Team": "CoUsersGroup",
   "02 - Zettelkasten/Tech Stacking": "LiFileStack",
-<<<<<<< HEAD
-=======
-  "01 - Rough Notes/Git": "LiGithub",
->>>>>>> 663abcf (saving before pull)
   "01 - Rough Notes/Physics": "LiBomb",
-  "01 - Rough Notes/Chemistry": "LiExperiment"
+  "01 - Rough Notes/Chemistry": "LiExperiment",
+  "01 - Sources": "LiAlbum"
 }
