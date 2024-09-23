@@ -166,8 +166,6 @@ Component Specific Spacing Values:
 | Headers    | 60px    | 40px   |
 | Footers    | 50px    | 30px   |
 
-
-
 # [[Components]]
 
 # [[Filter]]

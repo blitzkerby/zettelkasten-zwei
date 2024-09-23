@@ -8,6 +8,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "698bad616881b6b6",
             "type": "leaf",
             "state": {
@@ -19,6 +20,8 @@
 <<<<<<< HEAD
             "id": "3590c4b5c04f0e68",
 =======
+=======
+>>>>>>> 2f6d029 (MODIFIED : documentation)
             "id": "397bac050693beee",
 >>>>>>> 2980031 (saving data again)
             "type": "leaf",
@@ -36,6 +39,7 @@
             }
           },
           {
+<<<<<<< HEAD
 <<<<<<< HEAD
             "id": "ef878bec5cfd5cda",
             "type": "leaf",
@@ -88,6 +92,9 @@
           },
           {
             "id": "35bb3bf05912b5c0",
+=======
+            "id": "9b883efb07e45d40",
+>>>>>>> 2f6d029 (MODIFIED : documentation)
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,7 +106,17 @@
             }
           },
           {
-            "id": "0d09bcc673c2b6a2",
+            "id": "cda7a2d74d48f8a0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "00 - Excalidraw/2024-09-23 19.03.30.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5ab9ea8888dbce54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -111,7 +128,7 @@
             }
           },
           {
-            "id": "8ee7b863728246e0",
+            "id": "b486929069c650b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -123,12 +140,16 @@
               }
             }
           }
+<<<<<<< HEAD
         ],
 <<<<<<< HEAD
         "currentTab": 1
 =======
         "currentTab": 2
 >>>>>>> 2980031 (saving data again)
+=======
+        ]
+>>>>>>> 2f6d029 (MODIFIED : documentation)
       }
     ],
     "direction": "vertical"
@@ -211,10 +232,14 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "04 - Planning/Scholarships/Personal Statement/Personal Statement (Final Draft).md",
 =======
                 "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
 >>>>>>> 2980031 (saving data again)
+=======
+                "file": "02 - Zettelkasten/Team/-- Where2 Documentation --.md",
+>>>>>>> 2f6d029 (MODIFIED : documentation)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,10 +257,14 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "04 - Planning/Scholarships/Personal Statement/Personal Statement (Final Draft).md",
 =======
                 "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
 >>>>>>> 2980031 (saving data again)
+=======
+                "file": "02 - Zettelkasten/Team/-- Where2 Documentation --.md",
+>>>>>>> 2f6d029 (MODIFIED : documentation)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,10 +288,14 @@
               "type": "outline",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "04 - Planning/Scholarships/Personal Statement/Personal Statement (Final Draft).md"
 =======
                 "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md"
 >>>>>>> 2980031 (saving data again)
+=======
+                "file": "02 - Zettelkasten/Team/-- Where2 Documentation --.md"
+>>>>>>> 2f6d029 (MODIFIED : documentation)
               }
             }
           },
@@ -302,6 +335,7 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "3590c4b5c04f0e68",
 =======
   "active": "4f4aed72ddeb1187",
@@ -326,6 +360,32 @@
     "04 - Planning/Scholarships/Personal Statement/Personal Statement (Draft 3).md",
     "04 - Planning/Scholarships/Personal Statement/Personal Statement (Draft 2).md",
     "04 - Planning/Scholarships/Personal Statement/Personal Statement (Draft 1).md",
+=======
+  "active": "397bac050693beee",
+  "lastOpenFiles": [
+    "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+    "00 - Excalidraw/2024-09-23 19.03.30.excalidraw.md",
+    "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/-- Where2 Documentation --.md",
+    "04 - Planning/Scholarships/Personal Statement (Final Draft).md",
+    "04 - Planning/Scholarships/Personal Statement (Semi-final Draft).md",
+    "04 - Planning/Scholarships/Personal Statement (Draft 3).md",
+    "04 - Planning/Scholarships/Personal Statement (Draft 2).md",
+    "04 - Planning/Scholarships/Personal Statement (Draft 1).md",
+    "01 - Rough Notes/Git/Manipulation with branches.md",
+    "Components.md",
+    "Screenshot 2024-09-23 at 10.28.54 in the morning.png",
+    "Pasted.md",
+    "Pasted image 20240923102741.png",
+    "Pasted image 20240923102714.png",
+    "Pasted image 20240923102612.png",
+    "02 - Zettelkasten/Team/2024-09-20 Unit Test.md",
+    "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md",
+    "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+    "Pasted image 20240922163628.png",
+    "Pasted image 20240922163624.png",
+>>>>>>> 2f6d029 (MODIFIED : documentation)
     "04 - Planning/Scholarships/Key points/Grades as a Factor.md",
     "04 - Planning/Scholarships/Key points/Financial Situation as Factor.md",
     "04 - Planning/Scholarships/Key points/-- key points --.md",
@@ -348,8 +408,8 @@
     "04 - Planning/Scholarships/Inspiration/Grant Thompson's Personal Statement.md",
     "04 - Planning/Scholarships/Inspiration/Einstein's Personal Statement.md",
     "04 - Planning/Scholarships/Inspiration/Cody's Lab Personal Statement.md",
-    "04 - Planning/Scholarships/Inspiration/-- personal statement inspirations --.md",
     "04 - Planning/Scholarships/Inspiration",
+<<<<<<< HEAD
 >>>>>>> 2980031 (saving data again)
     "02 - Zettelkasten/Marketing/Userbase.md",
     "02 - Zettelkasten/Marketing",
@@ -363,6 +423,9 @@
     "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
     "02 - Zettelkasten/Team/-- Where2 Documentation --.md",
 >>>>>>> 2980031 (saving data again)
+=======
+    "02 - Zettelkasten/Marketing",
+>>>>>>> 2f6d029 (MODIFIED : documentation)
     "autocommit.js",
     "07 - Output/Korean Scholarship Programs.pdf",
     "07 - Output/1. 2025 GKS-U Application Guideline (English).pdf",
