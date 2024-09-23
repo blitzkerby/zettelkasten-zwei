@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md",
+                "file": "04 - Planning/Scholarships/Personal Statement/Personal Statement (Final Draft).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md",
+                "file": "04 - Planning/Scholarships/Personal Statement/Personal Statement (Final Draft).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md"
+                "file": "04 - Planning/Scholarships/Personal Statement/Personal Statement (Final Draft).md"
               }
             }
           },
@@ -209,12 +209,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "43487a20aed48d73",
+  "active": "3590c4b5c04f0e68",
   "lastOpenFiles": [
+    "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md",
     "04 - Planning/Scholarships/Yonsei University.md",
     "04 - Planning/Scholarships/Personal Statement/Personal Statement (Final Draft).md",
     "04 - Planning/Scholarships/Personal Statement/Personal Statement (Semi-final Draft).md",
-    "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md",
     "04 - Planning/Scholarships/Personal Statement/Korean Scholarship Programs.md",
     "04 - Planning/Scholarships/-- Scholarships --.md",
     "04 - Planning/Scholarships/Translation of Documents.md",
