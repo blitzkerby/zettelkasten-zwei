@@ -14,8 +14,41 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "3590c4b5c04f0e68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Planning/Scholarships/Personal Statement/Personal Statement (Final Draft).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef878bec5cfd5cda",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "43487a20aed48d73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md"
+              }
             }
           },
           {
@@ -172,45 +209,46 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7b3cf75041f063be",
+  "active": "43487a20aed48d73",
   "lastOpenFiles": [
+    "04 - Planning/Scholarships/Yonsei University.md",
+    "04 - Planning/Scholarships/Personal Statement/Personal Statement (Final Draft).md",
+    "04 - Planning/Scholarships/Personal Statement/Personal Statement (Semi-final Draft).md",
+    "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md",
+    "04 - Planning/Scholarships/Personal Statement/Korean Scholarship Programs.md",
+    "04 - Planning/Scholarships/-- Scholarships --.md",
+    "04 - Planning/Scholarships/Translation of Documents.md",
+    "04 - Planning/Scholarships/Submission.md",
+    "04 - Planning/Scholarships/GSK",
+    "04 - Planning/Scholarships/Study Plan",
+    "04 - Planning/Scholarships/Personal Statement",
+    "04 - Planning/Universties/-- Universities --.md",
+    "04 - Planning/-- Future Planning --.md",
+    "04 - Planning/WORKFLOW MAINTAINER.md",
     "Pasted image 20240922163628.png",
     "Pasted image 20240922163624.png",
-    "04 - Planning/Scholarships/Personal Statement (Semi-final Draft).md",
-    "04 - Planning/Scholarships/Personal Statement (Final Draft).md",
-    "04 - Planning/Scholarships/Personal Statement (Draft 3).md",
-    "04 - Planning/Scholarships/Personal Statement (Draft 2).md",
-    "04 - Planning/Scholarships/Personal Statement (Draft 1).md",
+    "04 - Planning/Scholarships/Personal Statement/Personal Statement (Draft 3).md",
+    "04 - Planning/Scholarships/Personal Statement/Personal Statement (Draft 2).md",
+    "04 - Planning/Scholarships/Personal Statement/Personal Statement (Draft 1).md",
     "04 - Planning/Scholarships/Key points/Grades as a Factor.md",
     "04 - Planning/Scholarships/Key points/Financial Situation as Factor.md",
     "04 - Planning/Scholarships/Key points/-- key points --.md",
     "04 - Planning/Scholarships/Key points",
-    "04 - Planning/Scholarships/Inspiration/VSauce Michael's Personal Statement.md",
-    "04 - Planning/Scholarships/Inspiration/Veritasium's Peronsal Statement.md",
-    "04 - Planning/Scholarships/Inspiration/Richard Feynman's Personal Statement.md",
-    "04 - Planning/Scholarships/Inspiration/Matpat's Personal Statement.md",
-    "04 - Planning/Scholarships/Inspiration/Grant Thompson's Personal Statement.md",
-    "04 - Planning/Scholarships/Inspiration/Einstein's Personal Statement.md",
-    "04 - Planning/Scholarships/Inspiration/Cody's Lab Personal Statement.md",
-    "04 - Planning/Scholarships/Inspiration/-- personal statement inspirations --.md",
-    "04 - Planning/Scholarships/Inspiration",
+    "04 - Planning/Scholarships/Personal Statement/Inspiration/VSauce Michael's Personal Statement.md",
+    "04 - Planning/Scholarships/Personal Statement/Inspiration/Veritasium's Peronsal Statement.md",
+    "04 - Planning/Scholarships/Personal Statement/Inspiration/Richard Feynman's Personal Statement.md",
+    "04 - Planning/Scholarships/Personal Statement/Inspiration/Matpat's Personal Statement.md",
+    "04 - Planning/Scholarships/Personal Statement/Inspiration/Grant Thompson's Personal Statement.md",
+    "04 - Planning/Scholarships/Personal Statement/Inspiration/Einstein's Personal Statement.md",
+    "04 - Planning/Scholarships/Personal Statement/Inspiration/Cody's Lab Personal Statement.md",
+    "04 - Planning/Scholarships/Personal Statement/Inspiration/-- personal statement inspirations --.md",
+    "04 - Planning/Scholarships/Personal Statement/Inspiration",
     "02 - Zettelkasten/Marketing/Userbase.md",
-    "02 - Zettelkasten/Marketing/Marketing 101.md",
     "02 - Zettelkasten/Marketing",
-    "01 - Rough Notes/Marketing/Visual Branding.md",
-    "01 - Rough Notes/Marketing/Setting a budget.md",
-    "01 - Rough Notes/Marketing/Campaign Statement.md",
-    "01 - Rough Notes/Marketing/2024-09-21 SparkMeet Session 4.md",
-    "00 - Calendar/2024-09-21 SparkMeet Session 4.md",
-    "04 - Planning/Scholarships/Personal Statement.md",
-    "02 - Zettelkasten/Marketing 101.md",
     "autocommit.js",
     "07 - Output/Korean Scholarship Programs.pdf",
     "07 - Output/1. 2025 GKS-U Application Guideline (English).pdf",
     "04 - Planning/Scholarships",
-    "01 - Rough Notes/Git",
-    "01 - Sources",
-    "01 - Rough Notes/Untitled",
     "Pasted image 20240918194436.png",
     "00 - Assets/Pasted image 20240825142020.png",
     "00 - Assets/Screenshot 2024-09-12 at 11.53.02 in the morning.png",

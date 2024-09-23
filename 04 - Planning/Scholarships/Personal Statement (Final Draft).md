@@ -1,2 +1,0 @@
-
-I have always been fascinated by the natural environment. I turned school into a playground for my inquisitive mind. I cherished studying history, philosophy, psychology, science, and any other subject that piqued my interest. But I was really interested in the sciences, and that's what motivated me to study engineering.

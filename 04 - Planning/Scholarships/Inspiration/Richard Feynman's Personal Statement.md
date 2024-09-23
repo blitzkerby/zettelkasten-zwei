@@ -1,3 +1,0 @@
-I've been a bit of a schoolhopper. Started at CIA First International in the second grade, and stuck with it until ninth. It was a decent place, I suppose. They taught me how to work with others, which is a good thing, I guess. But I wanted to try something new, so I bounced over to Santhormok High for the rest of my schooling.
-
-Now, I'm not one for fancy words or big theories. I'm more interested in figuring out how things work. My time in school has been like a big puzzle, with each class piece fitting into the next. I've learned a lot about science and math, but more importantly, I've learned how to ask questions and find answers. And that's what really excites me about the future.
