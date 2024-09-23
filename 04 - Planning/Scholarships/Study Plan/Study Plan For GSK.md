@@ -28,7 +28,7 @@
 #### **Future plan in Korea or another country after finishing GKS program**
 ---
 
-**Short-term goals:**
+**My Short-term goals:**
 
 - **Continue studying:** Pursue a degree in your chosen field at a Korean university.
   
@@ -36,7 +36,7 @@
   
 - **Explore Korean culture:** Experience Korean culture by traveling, attending festivals, and participating in local activities.
 
-**Long-term goals:**
+**My Long-term goals:**
 
 - **Career development:** Find a job in your field in Korea or another country.
   
