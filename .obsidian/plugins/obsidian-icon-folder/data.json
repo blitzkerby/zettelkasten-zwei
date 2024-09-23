@@ -5,6 +5,7 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
+<<<<<<< HEAD
     "recentlyUsedIcons": [
       "LiActivitySquare",
       "LiBomb",
@@ -12,6 +13,9 @@
       "LiGithub",
       "LiSaveAll"
     ],
+=======
+    "recentlyUsedIcons": [],
+>>>>>>> 0014900 (saving data)
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -20,16 +24,17 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": true,
+    "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsBackgroundCheckEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
+<<<<<<< HEAD
     "debugMode": false,
     "lucideIconPackType": "native"
   },
@@ -82,4 +87,9 @@
   "01 - Rough Notes/Chemistry": "LiExperiment",
   "01 - Rough Notes/Physics": "LiBomb",
   "02 - Zettelkasten/Marketing": "LiActivitySquare"
+=======
+    "lucideIconPackType": "native",
+    "debugMode": false
+  }
+>>>>>>> 0014900 (saving data)
 }
