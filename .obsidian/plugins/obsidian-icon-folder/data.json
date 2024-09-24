@@ -5,17 +5,7 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-<<<<<<< HEAD
-    "recentlyUsedIcons": [
-      "LiActivitySquare",
-      "LiBomb",
-      "LiExperiment",
-      "LiGithub",
-      "LiSaveAll"
-    ],
-=======
     "recentlyUsedIcons": [],
->>>>>>> 0014900 (saving data)
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -34,62 +24,7 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-<<<<<<< HEAD
-    "debugMode": false,
-    "lucideIconPackType": "native"
-  },
-  "03 - Tags": "CoTag",
-  "04 - Indexes": "CoLabel",
-  "05 - Templates": "CoFiles",
-  "06 - Zettelkasten": "CoNotebook",
-  "07 - Misc": "CoFilterOff",
-  "99 - Meta": "CoDragVertical",
-  "Plan.canvas": "CoMainComponent",
-  "Personal Kanban.md": "CoMainComponent",
-  "06 - Zettelkasten/3rd missiion for indivisual.pdf": {
-    "iconName": "CoCommand",
-    "iconColor": "#ffe45c"
-  },
-  "06 - Zettelkasten/Systems Architecture/LEARNING JS DESIGN PATTERNS.md": "CoBookOpen",
-  "06 - Zettelkasten/Systems Architecture/Advantages of using Modules.md": "CoCheckAllBig",
-  "06 - Zettelkasten/Systems Architecture/Lazy-Loading modules.md": "CoSettingsFuture",
-  "02 - Zettelkasten": "LiAtom",
-  "01 - Rough Notes": "CoNote",
-  "99 - Mission 3": "LiAlbum",
-  "99 - Mission 4": "LiAlbum",
-  "03 - Archived": "LiArchive",
-  "07 - Output": "LiFolderOutput",
-  "00 - Assets": "LiWrench",
-  "00 - Calendar": "CoCalendarDays",
-  "00 - Excalidraw": "LiAmpersand",
-  "00 - ipynb": "LiAtom",
-  "00 - Kanban": "LiAlarmPlus",
-  "05 - OPERATION GRIMSTONE": "LiAxe",
-  "00 - NODES": "LiBanana",
-  "01 - Rough Notes/Nuclear Physics": "CoPlanet",
-  "01 - Rough Notes/Node": "LiCircuitBoard",
-  "01 - Rough Notes/Mathematics": "LiApple",
-  "01 - Rough Notes/App Architecture": "CoBuilding04",
-  "01 - Rough Notes/Computer Science": "LiCircuitBoard",
-  "01 - Rough Notes/Content Creation": "CoCamera",
-  "01 - Rough Notes/Databases": "LiDatabase",
-  "01 - Rough Notes/Design (UI and UX)": "LiLampDesk",
-  "01 - Rough Notes/Fullstack": "LiFileStack",
-  "01 - Rough Notes/Marketing": "CoChartLine",
-  "01 - Rough Notes/React": "LiAtom",
-  "01 - Rough Notes/Project Planning": "LiMapPinned",
-  "01 - Rough Notes/Business": "LiDollarSign",
-  "04 - Planning": "CoPlanet",
-  "02 - Zettelkasten/Team": "CoUsersGroup",
-  "02 - Zettelkasten/Tech Stacking": "LiFileStack",
-  "01 - Sources": "LiSaveAll",
-  "01 - Rough Notes/Git": "LiGithub",
-  "01 - Rough Notes/Chemistry": "LiExperiment",
-  "01 - Rough Notes/Physics": "LiBomb",
-  "02 - Zettelkasten/Marketing": "LiActivitySquare"
-=======
     "lucideIconPackType": "native",
     "debugMode": false
   }
->>>>>>> 0014900 (saving data)
 }
