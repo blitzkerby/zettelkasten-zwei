@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-06 DESIGN DOCUMENTATION",
-      "path": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
+      "basename": "2024-09-19 FRONTEND ARCHITECTURE",
+      "path": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md"
+    },
+    {
+      "basename": "MyERN Stack II",
+      "path": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
+    },
+    {
+      "basename": "A GUIDE TO TECH-STACKING",
+      "path": "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md"
+    },
+    {
+      "basename": "MyERN Project",
+      "path": "01 - Rough Notes/Databases/MyERN Project.md"
+    },
+    {
+      "basename": "2024-08-28 MyERN Stack",
+      "path": "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md"
+    },
+    {
+      "basename": "MERN",
+      "path": "02 - Zettelkasten/Tech Stacking/MERN.md"
+    },
+    {
+      "basename": "chakra",
+      "path": "00 - Assets/chakra.png"
     }
   ],
   "omittedPaths": []

@@ -1,30 +1,30 @@
 {
   "main": {
-    "id": "c4222a1cf1094b4e",
+    "id": "7c831738482c6687",
     "type": "split",
     "children": [
       {
-        "id": "3c4a619dbe82bee1",
+        "id": "43b202493a4884f8",
         "type": "tabs",
         "children": [
           {
-            "id": "9dc6f6b39146beff",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "b9d82418601b196d",
+            "id": "ccbaf89da43d5fb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+                "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "7b2e4e593f94f7fd",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
@@ -34,15 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2c1efa18b6de80e4",
+    "id": "4298c9083c2a07ce",
     "type": "split",
     "children": [
       {
-        "id": "6d953f862253bc0b",
+        "id": "8f4f684668a8513d",
         "type": "tabs",
         "children": [
           {
-            "id": "06dc2c98b738f860",
+            "id": "1da1c62a4a548a5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,12 +52,12 @@
             }
           },
           {
-            "id": "0c8dcdcb2ec310fb",
+            "id": "6ceb2f38ff65a656",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MERN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "41575ec6d57aa1de",
+            "id": "8ad2f9418a884f7d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "a2e7705725c704a5",
+            "id": "cb2727b32e918be8",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -89,15 +89,15 @@
     "width": 300
   },
   "right": {
-    "id": "13f5b7d62ad7e047",
+    "id": "84bae5c195c1cd1a",
     "type": "split",
     "children": [
       {
-        "id": "7021b03a20fd730f",
+        "id": "4d7b115fbc46fab2",
         "type": "tabs",
         "children": [
           {
-            "id": "dd60690d042d0180",
+            "id": "ca369237a9c0573b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -105,12 +105,12 @@
             }
           },
           {
-            "id": "c8f10ae41303dc47",
+            "id": "5ff177bc308e4dda",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+                "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +122,19 @@
             }
           },
           {
-            "id": "5b68b0273a8e5d2e",
+            "id": "469cadf8af9a69e4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+                "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7585ac3753a3a099",
+            "id": "61cf6dd734acddc4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,17 +145,17 @@
             }
           },
           {
-            "id": "1a0d765cf274870c",
+            "id": "17b9fc8a5f14b1f7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
+                "file": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md"
               }
             }
           },
           {
-            "id": "0bdc9afc8ec0759f",
+            "id": "eb233b3fae3885a9",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -175,8 +175,8 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-full-calendar:Open Full Calendar": false,
@@ -189,6 +189,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9d82418601b196d",
-  "lastOpenFiles": []
+  "active": "7b2e4e593f94f7fd",
+  "lastOpenFiles": [
+    "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
+    "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
+    "00 - Calendar/2024-09-24 Nested Props vs Flattened Props.md",
+    "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md",
+    "01 - Rough Notes/Databases/MyERN Project.md",
+    "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md",
+    "02 - Zettelkasten/Tech Stacking/MERN.md",
+    "00 - Assets/chakra.png"
+  ]
 }
