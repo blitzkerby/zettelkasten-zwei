@@ -5,6 +5,13 @@
       "path": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md"
     },
     {
+<<<<<<< HEAD
+=======
+      "basename": "2024-09-24 Nested Props vs Flattened Props",
+      "path": "00 - Calendar/2024-09-24 Nested Props vs Flattened Props.md"
+    },
+    {
+>>>>>>> 4499a63 (added new notes)
       "basename": "MyERN Stack II",
       "path": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
     },
