@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "7c831738482c6687",
+    "id": "c4222a1cf1094b4e",
     "type": "split",
     "children": [
       {
-        "id": "43b202493a4884f8",
+        "id": "3c4a619dbe82bee1",
         "type": "tabs",
         "children": [
           {
-            "id": "7b2e4e593f94f7fd",
+            "id": "9dc6f6b39146beff",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "2ebc954b2f8b4c5f",
+            "id": "b9d82418601b196d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md",
+                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,15 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4298c9083c2a07ce",
+    "id": "2c1efa18b6de80e4",
     "type": "split",
     "children": [
       {
-        "id": "8f4f684668a8513d",
+        "id": "6d953f862253bc0b",
         "type": "tabs",
         "children": [
           {
-            "id": "1da1c62a4a548a5e",
+            "id": "06dc2c98b738f860",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,12 +52,12 @@
             }
           },
           {
-            "id": "6ceb2f38ff65a656",
+            "id": "0c8dcdcb2ec310fb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "MERN",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "8ad2f9418a884f7d",
+            "id": "41575ec6d57aa1de",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "cb2727b32e918be8",
+            "id": "a2e7705725c704a5",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -89,15 +89,15 @@
     "width": 300
   },
   "right": {
-    "id": "84bae5c195c1cd1a",
+    "id": "13f5b7d62ad7e047",
     "type": "split",
     "children": [
       {
-        "id": "4d7b115fbc46fab2",
+        "id": "7021b03a20fd730f",
         "type": "tabs",
         "children": [
           {
-            "id": "ca369237a9c0573b",
+            "id": "dd60690d042d0180",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -105,12 +105,12 @@
             }
           },
           {
-            "id": "5ff177bc308e4dda",
+            "id": "c8f10ae41303dc47",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md",
+                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +122,19 @@
             }
           },
           {
-            "id": "469cadf8af9a69e4",
+            "id": "5b68b0273a8e5d2e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md",
+                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "61cf6dd734acddc4",
+            "id": "7585ac3753a3a099",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,17 +145,17 @@
             }
           },
           {
-            "id": "17b9fc8a5f14b1f7",
+            "id": "1a0d765cf274870c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md"
+                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
               }
             }
           },
           {
-            "id": "eb233b3fae3885a9",
+            "id": "0bdc9afc8ec0759f",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -175,8 +175,8 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-full-calendar:Open Full Calendar": false,
@@ -189,31 +189,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ebc954b2f8b4c5f",
+  "active": "06dc2c98b738f860",
   "lastOpenFiles": [
     "01 - Rough Notes/Mathematics/Series and Sequences/Taylor Series.md",
-    "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md",
     "01 - Rough Notes/Mathematics/Series and Sequences",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Euler's Method.md",
+    "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md",
     "01 - Rough Notes/Mathematics/Multivariable Calculus",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Equilibrium Solutions.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Substitutions.md",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Modeling with First Order Differential Equations.md",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Intervals of Validity.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Substitutions.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Bernoulli Differential Equations.md",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Exact Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Euler's Method.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Equilibrium Solutions.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Bernoulli Differential Equations.md",
     "01 - Rough Notes/Mathematics/2024-09-25 Taylor Series Expansion.md",
     "01 - Rough Notes/Mathematics/2024-09-25 Chainrule of multivariable calculus.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Linear Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/-- First Order Differential Equations --.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md",
-    "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
-    "00 - Calendar/2024-09-24 Nested Props vs Flattened Props.md",
-    "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
-    "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md",
-    "01 - Rough Notes/Databases/MyERN Project.md",
-    "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md",
-    "02 - Zettelkasten/Tech Stacking/MERN.md",
-    "00 - Assets/chakra.png"
+    "00 - Calendar/2024-09-24 Nested Props vs Flattened Props.md"
   ]
 }
