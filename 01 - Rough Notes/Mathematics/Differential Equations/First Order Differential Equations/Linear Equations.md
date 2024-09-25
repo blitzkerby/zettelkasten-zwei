@@ -51,8 +51,9 @@ $$
 	\mu &= ke^{\int p \ dt} \\ \\
 \end{align}
 $$
-
+---
 Thus, given a differential equation of the form $\large{\frac{dy}{dt} + p(t)y = g(t)}$, 
+
 $$
 \begin{align}
 	y &= \frac{\int \mu g \ dt + c}

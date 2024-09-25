@@ -1,39 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Chainrule (multivariable)",
+      "path": "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md"
+    },
+    {
+      "basename": "Taylor Series",
+      "path": "01 - Rough Notes/Mathematics/Series and Sequences/Taylor Series.md"
+    },
+    {
+      "basename": "Euler's Method",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Euler's Method.md"
+    },
+    {
+      "basename": "Equilibrium Solutions",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Equilibrium Solutions.md"
+    },
+    {
+      "basename": "Modeling with First Order Differential Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Modeling with First Order Differential Equations.md"
+    },
+    {
+      "basename": "Intervals of Validity",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Intervals of Validity.md"
+    },
+    {
+      "basename": "Substitutions",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Substitutions.md"
+    },
+    {
+      "basename": "Bernoulli Differential Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Bernoulli Differential Equations.md"
+    },
+    {
+      "basename": "Exact Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Exact Equations.md"
+    },
+    {
+      "basename": "2024-09-25 Taylor Series Expansion",
+      "path": "01 - Rough Notes/Mathematics/2024-09-25 Taylor Series Expansion.md"
+    },
+    {
+      "basename": "Linear Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Linear Equations.md"
+    },
+    {
+      "basename": "-- First Order Differential Equations --",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/-- First Order Differential Equations --.md"
+    },
+    {
+      "basename": "-- Differential Equations --",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md"
+    },
+    {
       "basename": "2024-09-19 FRONTEND ARCHITECTURE",
       "path": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md"
-    },
-    {
-<<<<<<< HEAD
-=======
-      "basename": "2024-09-24 Nested Props vs Flattened Props",
-      "path": "00 - Calendar/2024-09-24 Nested Props vs Flattened Props.md"
-    },
-    {
->>>>>>> 4499a63 (added new notes)
-      "basename": "MyERN Stack II",
-      "path": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
-    },
-    {
-      "basename": "A GUIDE TO TECH-STACKING",
-      "path": "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md"
-    },
-    {
-      "basename": "MyERN Project",
-      "path": "01 - Rough Notes/Databases/MyERN Project.md"
-    },
-    {
-      "basename": "2024-08-28 MyERN Stack",
-      "path": "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md"
-    },
-    {
-      "basename": "MERN",
-      "path": "02 - Zettelkasten/Tech Stacking/MERN.md"
-    },
-    {
-      "basename": "chakra",
-      "path": "00 - Assets/chakra.png"
     }
   ],
   "omittedPaths": []
