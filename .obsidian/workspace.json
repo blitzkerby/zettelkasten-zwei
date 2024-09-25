@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+                "file": "01 - Sources/-- Sources --.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65f53a1b4c1d36dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Rough Notes/Mathematics/Number Theory/2024-09-25 Linear Independence .md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+                "file": "01 - Rough Notes/Mathematics/Number Theory/2024-09-25 Linear Independence .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+                "file": "01 - Rough Notes/Mathematics/Number Theory/2024-09-25 Linear Independence .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
+                "file": "01 - Rough Notes/Mathematics/Number Theory/2024-09-25 Linear Independence .md"
               }
             }
           },
@@ -191,6 +203,10 @@
   },
   "active": "06dc2c98b738f860",
   "lastOpenFiles": [
+    "01 - Sources/-- Sources --.md",
+    "01 - Rough Notes/Mathematics/Number Theory",
+    "01 - Rough Notes/Mathematics/Number Theory/2024-09-25 Linear Independence .md",
+    "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
     "01 - Rough Notes/Mathematics/Series and Sequences/Taylor Series.md",
     "01 - Rough Notes/Mathematics/Series and Sequences",
     "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md",
@@ -202,8 +218,8 @@
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Euler's Method.md",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Equilibrium Solutions.md",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Bernoulli Differential Equations.md",
-    "01 - Rough Notes/Mathematics/2024-09-25 Taylor Series Expansion.md",
-    "01 - Rough Notes/Mathematics/2024-09-25 Chainrule of multivariable calculus.md",
+    "01 - Rough Notes/Mathematics/Series and Sequences/2024-09-25 Taylor Series Expansion.md",
+    "01 - Rough Notes/Mathematics/Multivariable Calculus/2024-09-25 Chainrule of multivariable calculus.md",
     "00 - Calendar/2024-09-24 Nested Props vs Flattened Props.md"
   ]
 }
