@@ -40,3 +40,22 @@ $$\large{
 		L(af) &= aLf
 	\end{align}
 }$$
+
+One typically solves the for the general solution of the homogeneous form,
+
+$$\large{
+	L{y_h} = 0
+}$$
+
+and a particular solution of the non-homogenous form,
+
+$$\large{
+	L{y_p} = f
+}$$
+
+Then the general solution is given as, 
+
+$$\large{
+	y = {y_h} + {y_p}
+}$$
+
