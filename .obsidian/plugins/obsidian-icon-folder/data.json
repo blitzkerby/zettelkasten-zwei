@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiGithub",
+      "LiApple",
+      "LiAtom",
+      "LiBomb"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -26,5 +31,9 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "01 - Rough Notes/Physics": "LiBomb",
+  "01 - Rough Notes/Nuclear Physics": "LiAtom",
+  "01 - Rough Notes/Mathematics": "LiApple",
+  "01 - Rough Notes/Git": "LiGithub"
 }
