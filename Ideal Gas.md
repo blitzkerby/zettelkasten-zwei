@@ -1,0 +1,1 @@
+Consider a container of fixed volume filled with a gas. When the container is heated, the gas temperature will increase, causing the gas pressure to increase. The variations of gas pressure and temperature are governed by the equations of state. An equation of state (EOS) is an expression that relates pressure, temperature, and specific volume of a gas.
