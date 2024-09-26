@@ -11,8 +11,12 @@
             "id": "9dc6f6b39146beff",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - Calendar/2024-09-26 Thermodynamics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 - Calendar/2024-09-26 Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - Calendar/2024-09-26 Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 - Calendar/2024-09-26 Thermodynamics.md"
+              }
             }
           },
           {
@@ -172,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06dc2c98b738f860",
+  "active": "9dc6f6b39146beff",
   "lastOpenFiles": [
+    "00 - Calendar/2024-09-26 Thermodynamics.md",
     "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md",
     "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md",
     "01 - Rough Notes/Mathematics/Differential Equations/2024-07-16 Differentiation of Complex Functions.md",
