@@ -4,8 +4,12 @@ allDay: false
 startTime: 22:00
 endTime: 22:30
 date: 2024-09-26
-completed: null
+completed: 
+tags:
+  - thermodynamics
 ---
+- [[Ideal Gas]]
+
 #### **Isochoric** : $\Delta V = 0$
 ---
 $$\large{
@@ -20,7 +24,13 @@ $$\large{
 ---
 $$\large{
 \begin{matrix}
-	W = P{\Delta V} &&
+	\begin{align}
+		W &= P{\Delta V} \\
+		W &= nR{\Delta T} 
+	\end{align} &&
+	
+	
+
 	Q=n{C_p}{\Delta T} &&
 	\Delta U = n{C_v}{\Delta T}
 \end{matrix}
@@ -31,8 +41,11 @@ $$\large{
 $$\large{
 \begin{matrix}
 	\begin{align}
-		W = Q
-	\end{align}
+		W &= Q \\
+		W &= nRT \ln \frac{V_f}
+						{V_0}
+	\end{align} &&
+	
 	Q=n{C_p}{\Delta T} &&
 	\Delta U = n{C_v}{\Delta T}
 \end{matrix}
