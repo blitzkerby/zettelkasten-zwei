@@ -16,6 +16,41 @@ $$\large{
 
 ---
 
+We assume $y(x)=ce^{rx}$,
+
+$$\large{
+	\begin{align}
+		a(x){r^2}{e^{rx}} + b(x){r}{e^{rx}} + c(x){e^{rx}} &= f(x)
+		\\ \\
+		[ \ a(x)r^2 + b(x)r + c(x) \ ] e^{rx} &= f(x)
+	\end{align}
+}$$
+
+Now we solve for a general solution to $f(x)$ in the homogenous form,
+
+$$\large{
+\begin{align}
+	[a(x)r^2 + b(x)r + c(x)] e^{rx} &= 0 
+	\\ \\
+	a(x)r^2 + b(x)r + c(x) &= 0
+\end{align}
+}$$
+
+Implies,
+$$\large{
+	\begin{matrix}
+		{y_1} = {c_1}{e^{r_1}x} & \cap &
+		{y_2} = {c_2}{e^{r_2}x} 
+	\end{matrix}
+}$$
+
+We now solve for a particular solution to $f(x)$ in the non-homogenous form,
+
+$$\large{
+	
+}$$
+
+
 In operator terminology,
 
 $$\large{
