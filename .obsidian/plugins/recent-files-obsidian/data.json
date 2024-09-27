@@ -1,118 +1,200 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "basename": "Social Marketing",
-      "path": "02 - Zettelkasten/Team/Social Marketing.md"
-=======
-<<<<<<< HEAD
-      "basename": "2024-09-25 Solving for Second Order Differential Equations",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md"
-=======
-      "basename": "University Table",
-      "path": "02 - Zettelkasten/Team/University Table.md"
-    },
-    {
-      "basename": "Links Table",
-      "path": "Links Table.md"
-    },
-    {
       "basename": "2024-09-19 BACKEND ARCHITECTURE",
       "path": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md"
     },
     {
-      "basename": "Majors Table",
-      "path": "Majors Table.md"
+      "basename": "2024-09-27 Card",
+      "path": "02 - Zettelkasten/Team/Backend/Components/2024-09-27 Card.md"
     },
     {
-=======
->>>>>>> b94af8a (saving)
+      "basename": "Filter function",
+      "path": "02 - Zettelkasten/Team/Backend/Filter function.md"
+    },
+    {
       "basename": "Scholarships Table",
-      "path": "02 - Zettelkasten/Team/Scholarships Table.md"
+      "path": "02 - Zettelkasten/Team/Backend/Scholarships Table.md"
+    },
+    {
+      "basename": "University Table",
+      "path": "02 - Zettelkasten/Team/Backend/University Table.md"
+    },
+    {
+      "basename": "Majors Table",
+      "path": "02 - Zettelkasten/Team/Backend/Majors Table.md"
+    },
+    {
+      "basename": "2024-09-19 FRONTEND ARCHITECTURE",
+      "path": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md"
+    },
+    {
+      "basename": "2024-09-19 DEPLOYMENT",
+      "path": "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md"
+    },
+    {
+      "basename": "Components",
+      "path": "Components.md"
+    },
+    {
+      "basename": "Links Table",
+      "path": "02 - Zettelkasten/Team/Backend/Links Table.md"
+    },
+    {
+      "basename": "Ideal Gas",
+      "path": "Ideal Gas.md"
     },
     {
       "basename": "Social Marketing",
       "path": "02 - Zettelkasten/Team/Social Marketing.md"
     },
     {
-<<<<<<< HEAD
-      "basename": "2024-09-12 Entity Relationship Diagrams",
-      "path": "01 - Rough Notes/Databases/2024-09-12 Entity Relationship Diagrams.md"
+      "basename": "Folder Structure",
+      "path": "02 - Zettelkasten/Team/Backend/Folder Structure.md"
     },
     {
-      "basename": "Chainrule (multivariable)",
-      "path": "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md"
+      "basename": "-- AWS --",
+      "path": "03 - Archived/01 - Rough Notes/AWS/-- AWS --.md"
     },
     {
-      "basename": "Taylor Series",
-      "path": "01 - Rough Notes/Mathematics/Series and Sequences/Taylor Series.md"
+      "basename": "2024-09-27 Advantages of Cloud Computing",
+      "path": "03 - Archived/01 - Rough Notes/AWS/2024-09-27 Advantages of Cloud Computing.md"
     },
     {
-      "basename": "Euler's Method",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Euler's Method.md"
+      "basename": "2024-09-27 AWS Pricing Fundamentals",
+      "path": "03 - Archived/01 - Rough Notes/AWS/2024-09-27 AWS Pricing Fundamentals.md"
     },
     {
-      "basename": "Equilibrium Solutions",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Equilibrium Solutions.md"
+      "basename": "Pasted Image 20240716134414_605",
+      "path": "00 - Assets/Business Canvas Model/Pasted Image 20240716134414_605.svg"
     },
     {
-      "basename": "Modeling with First Order Differential Equations",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Modeling with First Order Differential Equations.md"
+      "basename": "Pasted Image 20240727143715_585",
+      "path": "00 - Assets/Pasted Image 20240727143715_585.png"
     },
     {
-      "basename": "Intervals of Validity",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Intervals of Validity.md"
+      "basename": "Pasted Image 20240727143701_699",
+      "path": "00 - Assets/Pasted Image 20240727143701_699.png"
     },
     {
-      "basename": "Substitutions",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Substitutions.md"
+      "basename": "mui",
+      "path": "00 - Assets/Design/PNG/mui.png"
     },
     {
-      "basename": "Bernoulli Differential Equations",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Bernoulli Differential Equations.md"
+      "basename": "banner-proto-2",
+      "path": "00 - Assets/Design/PNG/banner-proto-2.png"
     },
     {
-      "basename": "Exact Equations",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Exact Equations.md"
+      "basename": "chakra",
+      "path": "00 - Assets/Design/PNG/chakra.png"
     },
     {
-      "basename": "2024-09-25 Taylor Series Expansion",
-      "path": "01 - Rough Notes/Mathematics/2024-09-25 Taylor Series Expansion.md"
+      "basename": "compass",
+      "path": "00 - Assets/Design/PNG/compass.png"
     },
     {
-      "basename": "Linear Equations",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Linear Equations.md"
+      "basename": "mantine",
+      "path": "00 - Assets/Design/PNG/mantine.png"
     },
     {
-      "basename": "-- First Order Differential Equations --",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/-- First Order Differential Equations --.md"
->>>>>>> 9c76264 (added notes on backend)
+      "basename": "microsoft-edge",
+      "path": "00 - Assets/microsoft-edge.svg"
     },
     {
-      "basename": "-- Differential Equations --",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md"
+      "basename": "023-pics-README",
+      "path": "03 - Archived/023-pics-README.md"
     },
     {
-      "basename": "2024-07-16 Differentiation of Complex Functions",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/2024-07-16 Differentiation of Complex Functions.md"
+      "basename": "Pasted image 20240731191519",
+      "path": "00 - Assets/Pasted image 20240731191519.png"
     },
     {
-      "basename": "2024-09-25 Linear Independence ",
-      "path": "01 - Rough Notes/Mathematics/Number Theory/2024-09-25 Linear Independence .md"
+      "basename": "Pasted Image 20240731161811_393",
+      "path": "00 - Assets/Pasted Image 20240731161811_393.png"
     },
     {
-      "basename": "-- Sources --",
-      "path": "01 - Sources/-- Sources --.md"
+      "basename": "Pasted Image 20240730135740_579",
+      "path": "00 - Assets/Pasted Image 20240730135740_579.png"
     },
     {
-      "basename": "2024-08-06 DESIGN DOCUMENTATION",
-      "path": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
->>>>>>> 3d62b5e (resolving rebase)
-=======
-      "basename": "University Table",
-      "path": "02 - Zettelkasten/Team/University Table.md"
->>>>>>> b94af8a (saving)
+      "basename": "Pasted Image 20240731161656_372",
+      "path": "00 - Assets/Pasted Image 20240731161656_372.png"
+    },
+    {
+      "basename": "Screenshot 2024-09-23 at 10.28.54 in the morning",
+      "path": "00 - Assets/Our Application/Screenshot 2024-09-23 at 10.28.54 in the morning.png"
+    },
+    {
+      "basename": "Screenshot 2024-08-19 at 10.27.08 in the morning",
+      "path": "00 - Assets/Screenshot 2024-08-19 at 10.27.08 in the morning.png"
+    },
+    {
+      "basename": "Screenshot 2024-07-18 at 10.09.03 in the morning",
+      "path": "00 - Assets/Screenshot 2024-07-18 at 10.09.03 in the morning.png"
+    },
+    {
+      "basename": "Screenshot 2024-07-18 at 10.10.04 in the morning",
+      "path": "00 - Assets/Screenshot 2024-07-18 at 10.10.04 in the morning.png"
+    },
+    {
+      "basename": "Screenshot 2024-07-18 at 10.11.13 in the morning",
+      "path": "00 - Assets/Screenshot 2024-07-18 at 10.11.13 in the morning.png"
+    },
+    {
+      "basename": "Screenshot 2024-07-30 at 10.19.55 in the morning",
+      "path": "00 - Assets/Screenshot 2024-07-30 at 10.19.55 in the morning.png"
+    },
+    {
+      "basename": "Screenshot 2024-07-31 at 5.18.21 in the afternoon",
+      "path": "00 - Assets/Screenshot 2024-07-31 at 5.18.21 in the afternoon.png"
+    },
+    {
+      "basename": "Screenshot 2024-07-31 at 7.15.29 in the evening",
+      "path": "00 - Assets/Screenshot 2024-07-31 at 7.15.29 in the evening.png"
+    },
+    {
+      "basename": "Screenshot 2024-08-02 at 10.22.14 in the morning",
+      "path": "00 - Assets/Screenshot 2024-08-02 at 10.22.14 in the morning.png"
+    },
+    {
+      "basename": "Screenshot 2024-08-19 at 10.09.43 in the morning",
+      "path": "00 - Assets/Screenshot 2024-08-19 at 10.09.43 in the morning.png"
+    },
+    {
+      "basename": "Pasted image 20240918194436",
+      "path": "00 - Assets/Pasted image 20240918194436.png"
+    },
+    {
+      "basename": "Pasted image 20240903112358",
+      "path": "00 - Assets/Pasted image 20240903112358.png"
+    },
+    {
+      "basename": "Pasted image 20240903111208",
+      "path": "00 - Assets/Pasted image 20240903111208.png"
+    },
+    {
+      "basename": "Pasted image 20240903111116",
+      "path": "00 - Assets/Pasted image 20240903111116.png"
+    },
+    {
+      "basename": "Pasted image 20240830163622",
+      "path": "00 - Assets/Pasted image 20240830163622.png"
+    },
+    {
+      "basename": "Pasted image 20240815103040",
+      "path": "00 - Assets/Pasted image 20240815103040.png"
+    },
+    {
+      "basename": "Pasted Image 20240819005035_973",
+      "path": "00 - Assets/Pasted Image 20240819005035_973.png"
+    },
+    {
+      "basename": "Pasted image 20240815103211",
+      "path": "00 - Assets/Pasted image 20240815103211.png"
+    },
+    {
+      "basename": "Pasted Image 20240814133503_961",
+      "path": "00 - Assets/Pasted Image 20240814133503_961.png"
     }
   ],
   "omittedPaths": []

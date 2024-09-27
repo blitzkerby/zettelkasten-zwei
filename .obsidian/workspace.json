@@ -16,23 +16,67 @@
             }
           },
           {
-            "id": "b1d9f2cb56ff8a60",
+            "id": "53df36baf9ea4348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "02 - Zettelkasten/Team/Social Marketing.md",
-=======
-                "file": "02 - Zettelkasten/Team/Scholarships Table.md",
->>>>>>> b94af8a (saving)
+                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efcaaf56873d012a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Zettelkasten/Team/Backend/Majors Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed4f91c5e3783b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Zettelkasten/Team/Backend/Scholarships Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87156d5944b2bf87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Zettelkasten/Team/Backend/University Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0db2360b2b43b34d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,11 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "02 - Zettelkasten/Team/Social Marketing.md",
-=======
-                "file": "02 - Zettelkasten/Team/Scholarships Table.md",
->>>>>>> b94af8a (saving)
+                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,11 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "02 - Zettelkasten/Team/Social Marketing.md",
-=======
-                "file": "02 - Zettelkasten/Team/Scholarships Table.md",
->>>>>>> b94af8a (saving)
+                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,11 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "02 - Zettelkasten/Team/Social Marketing.md"
-=======
-                "file": "02 - Zettelkasten/Team/Scholarships Table.md"
->>>>>>> b94af8a (saving)
+                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md"
               }
             }
           },
@@ -205,44 +237,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1d9f2cb56ff8a60",
+  "active": "0db2360b2b43b34d",
   "lastOpenFiles": [
-    "02 - Zettelkasten/Team/Social Marketing.md",
-    "02 - Zettelkasten/Team/University Table.md",
-    "Majors Table.md",
-    "Links Table.md",
-    "02 - Zettelkasten/Team/Scholarships Table.md",
-    "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md",
-    "Ideal Gas.md",
-    "00 - Calendar/2024-09-26 Thermodynamics.md",
-    "02 - Zettelkasten/Team/Social Marketing.md",
-    "01 - Rough Notes/Mathematics/Series and Sequences/2024-09-25 Taylor Series Expansion.md",
-    "01 - Rough Notes/Mathematics/Number Theory/2024-09-25 Linear Independence .md",
-    "01 - Rough Notes/Mathematics/Number Theory",
-    "01 - Rough Notes/Mathematics/Multivariable Calculus/2024-09-25 Chainrule of multivariable calculus.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations",
-    "01 - Rough Notes/Mathematics/Differential Equations/2024-07-16 Differentiation of Complex Functions.md",
     "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
-    "01 - Sources/-- Sources --.md",
-    "01 - Rough Notes/Databases/2024-09-12 Entity Relationship Diagrams.md",
-    "01 - Rough Notes/Mathematics/Series and Sequences/Taylor Series.md",
-    "01 - Rough Notes/Mathematics/Series and Sequences",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Euler's Method.md",
-    "01 - Rough Notes/Mathematics/Multivariable Calculus",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Equilibrium Solutions.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Modeling with First Order Differential Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Intervals of Validity.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Substitutions.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Bernoulli Differential Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Exact Equations.md",
-    "01 - Rough Notes/Mathematics/2024-09-25 Taylor Series Expansion.md",
-    "01 - Rough Notes/Mathematics/2024-09-25 Chainrule of multivariable calculus.md",
-<<<<<<< HEAD
-=======
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Linear Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/-- First Order Differential Equations --.md",
->>>>>>> b94af8a (saving)
-    "00 - Assets/chakra.png"
+    "02 - Zettelkasten/Team/Backend/Components/2024-09-27 Card.md",
+    "02 - Zettelkasten/Team/Backend/Components/Card.md",
+    "02 - Zettelkasten/Team/Backend/Filter function.md",
+    "02 - Zettelkasten/Team/Backend/Components",
+    "02 - Zettelkasten/Team/Backend/Scholarships Table.md",
+    "02 - Zettelkasten/Team/Backend/University Table.md",
+    "02 - Zettelkasten/Team/Backend/Majors Table.md",
+    "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md",
+    "Components.md",
+    "02 - Zettelkasten/Team/Backend/Links Table.md",
+    "Ideal Gas.md",
+    "02 - Zettelkasten/Team/Social Marketing.md",
+    "02 - Zettelkasten/Team/Backend/Folder Structure.md",
+    "02 - Zettelkasten/Team/Backend",
+    "03 - Archived/01 - Rough Notes/AWS/-- AWS --.md",
+    "03 - Archived/01 - Rough Notes/AWS/2024-09-27 Advantages of Cloud Computing.md",
+    "03 - Archived/01 - Rough Notes/AWS/2024-09-27 AWS Pricing Fundamentals.md",
+    "00 - Assets/Camera/Untitled",
+    "00 - Assets/Pasted Image 20240727143715_585.png",
+    "00 - Assets/Pasted Image 20240727143701_699.png",
+    "00 - Assets/Camera",
+    "00 - Assets/Design/PNG/mui.png",
+    "00 - Assets/Design/PNG/banner-proto-2.png",
+    "00 - Assets/Design/PNG/chakra.png",
+    "00 - Assets/Design/SVG",
+    "00 - Assets/Design/PNG",
+    "00 - Assets/Design",
+    "00 - Assets/Calendar.md",
+    "00 - Assets/Design/PNG/compass.png",
+    "00 - Assets/Design/PNG/mantine.png",
+    "00 - Assets/microsoft-edge.svg",
+    "03 - Archived/023-pics-README.md",
+    "00 - Assets/Pasted image 20240731191519.png",
+    "00 - Assets/Pasted Image 20240731161811_393.png",
+    "00 - Assets/Our Application",
+    "00 - Assets/MERN",
+    "00 - Assets/Misc",
+    "00 - Assets/Untitled.md",
+    "03 - Archived/01 - Rough Notes/AWS/2024-09-27 Application Programming Interfaces (APIs).md",
+    "03 - Archived/01 - Rough Notes/AWS/2024-09-27 The AWS Global Infrastructure.md",
+    "03 - Archived/01 - Rough Notes/AWS/2024-09-27 The Shared Responsibility Model.md",
+    "01 - Rough Notes/AWS/AWS Global Infrastructure.md",
+    "The AWS Global Infrastructure.md",
+    "01 - Rough Notes/AWS.md"
   ]
 }

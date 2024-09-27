@@ -1,3 +1,0 @@
-- [[MySQL]]
-- [[2024-08-14 MYSQL EXCALIDRAW]]
-- [[PostgreSQL Setup]]

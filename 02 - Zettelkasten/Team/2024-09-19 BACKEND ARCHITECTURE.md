@@ -12,6 +12,7 @@ completed: null
 - [[Scholarships Table]]
 - [[Links Table]]
 - [[Majors Table]]
+- [[Filter function]]
 ---
 The university list and the scholarship list pages have an identical layout, only differing in the content being displayed. 
 
@@ -22,7 +23,7 @@ $$\large{
 \{ Scholarship \} \in \{ University \}
 }$$
 
-Primary Table definitions:
+#### **Primary Table definitions**
 
 ```mysql
 # majors
