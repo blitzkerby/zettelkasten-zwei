@@ -2,6 +2,7 @@
   "recentFiles": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "basename": "Social Marketing",
       "path": "02 - Zettelkasten/Team/Social Marketing.md"
 =======
@@ -25,14 +26,17 @@
       "path": "Majors Table.md"
     },
     {
+=======
+>>>>>>> b94af8a (saving)
       "basename": "Scholarships Table",
       "path": "02 - Zettelkasten/Team/Scholarships Table.md"
     },
     {
-      "basename": "-- Sources --",
-      "path": "01 - Sources/-- Sources --.md"
+      "basename": "Social Marketing",
+      "path": "02 - Zettelkasten/Team/Social Marketing.md"
     },
     {
+<<<<<<< HEAD
       "basename": "2024-09-12 Entity Relationship Diagrams",
       "path": "01 - Rough Notes/Databases/2024-09-12 Entity Relationship Diagrams.md"
     },
@@ -105,6 +109,10 @@
       "basename": "2024-08-06 DESIGN DOCUMENTATION",
       "path": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
 >>>>>>> 3d62b5e (resolving rebase)
+=======
+      "basename": "University Table",
+      "path": "02 - Zettelkasten/Team/University Table.md"
+>>>>>>> b94af8a (saving)
     }
   ],
   "omittedPaths": []

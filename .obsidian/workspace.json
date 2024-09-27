@@ -21,7 +21,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "02 - Zettelkasten/Team/Social Marketing.md",
+=======
+                "file": "02 - Zettelkasten/Team/Scholarships Table.md",
+>>>>>>> b94af8a (saving)
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +114,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "02 - Zettelkasten/Team/Social Marketing.md",
+=======
+                "file": "02 - Zettelkasten/Team/Scholarships Table.md",
+>>>>>>> b94af8a (saving)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "02 - Zettelkasten/Team/Social Marketing.md",
+=======
+                "file": "02 - Zettelkasten/Team/Scholarships Table.md",
+>>>>>>> b94af8a (saving)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "02 - Zettelkasten/Team/Social Marketing.md"
+=======
+                "file": "02 - Zettelkasten/Team/Scholarships Table.md"
+>>>>>>> b94af8a (saving)
               }
             }
           },
@@ -191,9 +207,10 @@
   },
   "active": "b1d9f2cb56ff8a60",
   "lastOpenFiles": [
+    "02 - Zettelkasten/Team/Social Marketing.md",
+    "02 - Zettelkasten/Team/University Table.md",
     "Majors Table.md",
     "Links Table.md",
-    "02 - Zettelkasten/Team/University Table.md",
     "02 - Zettelkasten/Team/Scholarships Table.md",
     "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md",
     "Ideal Gas.md",
@@ -221,6 +238,11 @@
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Exact Equations.md",
     "01 - Rough Notes/Mathematics/2024-09-25 Taylor Series Expansion.md",
     "01 - Rough Notes/Mathematics/2024-09-25 Chainrule of multivariable calculus.md",
+<<<<<<< HEAD
+=======
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Linear Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/-- First Order Differential Equations --.md",
+>>>>>>> b94af8a (saving)
     "00 - Assets/chakra.png"
   ]
 }
