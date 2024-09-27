@@ -1,31 +1,27 @@
 {
   "main": {
-    "id": "c4222a1cf1094b4e",
+    "id": "7c831738482c6687",
     "type": "split",
     "children": [
       {
-        "id": "3c4a619dbe82bee1",
+        "id": "8d091e8e23ba779d",
         "type": "tabs",
         "children": [
           {
-            "id": "9dc6f6b39146beff",
+            "id": "727616dfb0a9fa2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Calendar/2024-09-26 Thermodynamics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           },
           {
-            "id": "a4d5ef5e56688051",
+            "id": "b1d9f2cb56ff8a60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideal Gas.md",
+                "file": "02 - Zettelkasten/Team/Social Marketing.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,15 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2c1efa18b6de80e4",
+    "id": "4298c9083c2a07ce",
     "type": "split",
     "children": [
       {
-        "id": "6d953f862253bc0b",
+        "id": "8f4f684668a8513d",
         "type": "tabs",
         "children": [
           {
-            "id": "06dc2c98b738f860",
+            "id": "1da1c62a4a548a5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +52,7 @@
             }
           },
           {
-            "id": "0c8dcdcb2ec310fb",
+            "id": "6ceb2f38ff65a656",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +67,7 @@
             }
           },
           {
-            "id": "41575ec6d57aa1de",
+            "id": "8ad2f9418a884f7d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,7 +75,7 @@
             }
           },
           {
-            "id": "a2e7705725c704a5",
+            "id": "cb2727b32e918be8",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -90,19 +86,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "13f5b7d62ad7e047",
+    "id": "84bae5c195c1cd1a",
     "type": "split",
     "children": [
       {
-        "id": "7021b03a20fd730f",
+        "id": "4d7b115fbc46fab2",
         "type": "tabs",
         "children": [
           {
-            "id": "dd60690d042d0180",
+            "id": "ca369237a9c0573b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -110,12 +105,12 @@
             }
           },
           {
-            "id": "c8f10ae41303dc47",
+            "id": "5ff177bc308e4dda",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideal Gas.md",
+                "file": "02 - Zettelkasten/Team/Social Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,19 +122,19 @@
             }
           },
           {
-            "id": "5b68b0273a8e5d2e",
+            "id": "469cadf8af9a69e4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideal Gas.md",
+                "file": "02 - Zettelkasten/Team/Social Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7585ac3753a3a099",
+            "id": "61cf6dd734acddc4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,17 +145,17 @@
             }
           },
           {
-            "id": "1a0d765cf274870c",
+            "id": "17b9fc8a5f14b1f7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideal Gas.md"
+                "file": "02 - Zettelkasten/Team/Social Marketing.md"
               }
             }
           },
           {
-            "id": "0bdc9afc8ec0759f",
+            "id": "eb233b3fae3885a9",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -180,8 +175,8 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-full-calendar:Open Full Calendar": false,
@@ -194,33 +189,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4d5ef5e56688051",
+  "active": "b1d9f2cb56ff8a60",
   "lastOpenFiles": [
-    "00 - Calendar/2024-09-26 Thermodynamics.md",
+    "02 - Zettelkasten/Team/Scholarships Table.md",
     "Ideal Gas.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/2024-07-16 Differentiation of Complex Functions.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations/Untitled.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations/-- Second Order Differential Equations --.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations",
+    "00 - Calendar/2024-09-26 Thermodynamics.md",
+    "02 - Zettelkasten/Team/Social Marketing.md",
+    "02 - Zettelkasten/Team/University Table.md",
+    "Majors Table.md",
+    "Links Table.md",
+    "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md",
+    "01 - Rough Notes/Mathematics/Series and Sequences/2024-09-25 Taylor Series Expansion.md",
     "01 - Rough Notes/Mathematics/Number Theory/2024-09-25 Linear Independence .md",
-    "01 - Sources/-- Sources --.md",
     "01 - Rough Notes/Mathematics/Number Theory",
-    "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+    "01 - Rough Notes/Mathematics/Multivariable Calculus/2024-09-25 Chainrule of multivariable calculus.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations",
+    "01 - Rough Notes/Mathematics/Differential Equations/2024-07-16 Differentiation of Complex Functions.md",
+    "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+    "01 - Sources/-- Sources --.md",
+    "01 - Rough Notes/Databases/2024-09-12 Entity Relationship Diagrams.md",
     "01 - Rough Notes/Mathematics/Series and Sequences/Taylor Series.md",
     "01 - Rough Notes/Mathematics/Series and Sequences",
-    "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md",
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Euler's Method.md",
     "01 - Rough Notes/Mathematics/Multivariable Calculus",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Substitutions.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Equilibrium Solutions.md",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Modeling with First Order Differential Equations.md",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Intervals of Validity.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Exact Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Euler's Method.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Equilibrium Solutions.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Substitutions.md",
     "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Bernoulli Differential Equations.md",
-    "01 - Rough Notes/Mathematics/Series and Sequences/2024-09-25 Taylor Series Expansion.md",
-    "01 - Rough Notes/Mathematics/Multivariable Calculus/2024-09-25 Chainrule of multivariable calculus.md",
-    "00 - Calendar/2024-09-24 Nested Props vs Flattened Props.md"
+    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Exact Equations.md",
+    "01 - Rough Notes/Mathematics/2024-09-25 Taylor Series Expansion.md",
+    "01 - Rough Notes/Mathematics/2024-09-25 Chainrule of multivariable calculus.md",
+    "00 - Assets/chakra.png"
   ]
 }
