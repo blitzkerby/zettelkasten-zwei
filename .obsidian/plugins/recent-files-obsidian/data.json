@@ -1,8 +1,110 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "Social Marketing",
       "path": "02 - Zettelkasten/Team/Social Marketing.md"
+=======
+<<<<<<< HEAD
+      "basename": "2024-09-25 Solving for Second Order Differential Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md"
+=======
+      "basename": "University Table",
+      "path": "02 - Zettelkasten/Team/University Table.md"
+    },
+    {
+      "basename": "Links Table",
+      "path": "Links Table.md"
+    },
+    {
+      "basename": "2024-09-19 BACKEND ARCHITECTURE",
+      "path": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md"
+    },
+    {
+      "basename": "Majors Table",
+      "path": "Majors Table.md"
+    },
+    {
+      "basename": "Scholarships Table",
+      "path": "02 - Zettelkasten/Team/Scholarships Table.md"
+    },
+    {
+      "basename": "-- Sources --",
+      "path": "01 - Sources/-- Sources --.md"
+    },
+    {
+      "basename": "2024-09-12 Entity Relationship Diagrams",
+      "path": "01 - Rough Notes/Databases/2024-09-12 Entity Relationship Diagrams.md"
+    },
+    {
+      "basename": "Chainrule (multivariable)",
+      "path": "01 - Rough Notes/Mathematics/Multivariable Calculus/Chainrule (multivariable).md"
+    },
+    {
+      "basename": "Taylor Series",
+      "path": "01 - Rough Notes/Mathematics/Series and Sequences/Taylor Series.md"
+    },
+    {
+      "basename": "Euler's Method",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Euler's Method.md"
+    },
+    {
+      "basename": "Equilibrium Solutions",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Equilibrium Solutions.md"
+    },
+    {
+      "basename": "Modeling with First Order Differential Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Modeling with First Order Differential Equations.md"
+    },
+    {
+      "basename": "Intervals of Validity",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Intervals of Validity.md"
+    },
+    {
+      "basename": "Substitutions",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Substitutions.md"
+    },
+    {
+      "basename": "Bernoulli Differential Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Bernoulli Differential Equations.md"
+    },
+    {
+      "basename": "Exact Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Exact Equations.md"
+    },
+    {
+      "basename": "2024-09-25 Taylor Series Expansion",
+      "path": "01 - Rough Notes/Mathematics/2024-09-25 Taylor Series Expansion.md"
+    },
+    {
+      "basename": "Linear Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Linear Equations.md"
+    },
+    {
+      "basename": "-- First Order Differential Equations --",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/-- First Order Differential Equations --.md"
+>>>>>>> 9c76264 (added notes on backend)
+    },
+    {
+      "basename": "-- Differential Equations --",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md"
+    },
+    {
+      "basename": "2024-07-16 Differentiation of Complex Functions",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/2024-07-16 Differentiation of Complex Functions.md"
+    },
+    {
+      "basename": "2024-09-25 Linear Independence ",
+      "path": "01 - Rough Notes/Mathematics/Number Theory/2024-09-25 Linear Independence .md"
+    },
+    {
+      "basename": "-- Sources --",
+      "path": "01 - Sources/-- Sources --.md"
+    },
+    {
+      "basename": "2024-08-06 DESIGN DOCUMENTATION",
+      "path": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
+>>>>>>> 3d62b5e (resolving rebase)
     }
   ],
   "omittedPaths": []

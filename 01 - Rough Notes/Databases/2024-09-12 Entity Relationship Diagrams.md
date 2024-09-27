@@ -4,7 +4,9 @@ allDay: false
 startTime: 11:30
 endTime: 12:00
 date: 2024-09-12
-completed: null
+completed: 
+tags:
+  - SQL
 ---
 ### What is an Entity Relationship Diagram?
 ---
