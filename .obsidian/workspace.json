@@ -8,12 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b02a1984cbbef45",
+            "id": "9dc6f6b39146beff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Calendar/2024-09-26 Thermodynamics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4d5ef5e56688051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideal Gas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05be8cdd29857b71",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {}
             }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
           },
@@ -98,6 +123,11 @@
         ],
         "currentTab": 1
 >>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
+=======
+          }
+        ],
+        "currentTab": 2
+>>>>>>> 79823ba (rebasing)
       }
     ],
     "direction": "vertical"
@@ -285,6 +315,7 @@
   },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "0db2360b2b43b34d",
   "lastOpenFiles": [
     "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
@@ -338,6 +369,9 @@
 =======
   "active": "5edcd40b245fa68e",
 >>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
+=======
+  "active": "05be8cdd29857b71",
+>>>>>>> 79823ba (rebasing)
   "lastOpenFiles": [
     "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms/2024-09-30 Definition of Laplace Transforms.md",
     "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms",
