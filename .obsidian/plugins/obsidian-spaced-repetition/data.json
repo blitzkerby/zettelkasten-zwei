@@ -40,11 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-<<<<<<< HEAD
-  "buryDate": "2024-09-29",
-=======
   "buryDate": "2024-09-30",
->>>>>>> c62123c (added note : AWS IAM)
   "buryList": [],
   "historyDeck": null
 }
