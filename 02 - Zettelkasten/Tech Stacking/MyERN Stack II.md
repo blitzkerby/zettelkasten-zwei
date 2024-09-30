@@ -58,7 +58,10 @@ On the other hand, the frontend part of any application is designed to handle th
 
 # **Implementation** 
 
+
 ## **[[Database Setup (MyERN II)|Database Setup (MyERN II)]]**
+
+
 #### ***Creating a New Connection***
 ---
 ```text
@@ -66,6 +69,7 @@ On the other hand, the frontend part of any application is designed to handle th
 > Navigate to the homepage 
 > Create new connection 
 ```
+
 
 #### ***Setting up new database***
 ---
@@ -110,9 +114,11 @@ CREATE TABLE `counter` (
 
 ## **[[Backend Setup (MyERN II)|Backend Setup]]**
 
+
 ### **Laying out the Foundations**
 
 We first need to setup our project folders and install the dependencies necessary for our backend tech stack.
+
 
 #### ***Creating Directory***
 ---
@@ -120,6 +126,7 @@ We first need to setup our project folders and install the dependencies necessar
 mkdir my-project
 cd my-project
 ```
+
 
 #### ***Setup the backend***
 ---
@@ -131,11 +138,13 @@ cd backend
 >	Create a backend folder and cd into it.
 >
 
+
 #### ***Initializing Node***
 ---
 ```bash
 npm init -y
 ```
+
 
 #### ***Install Dependencies***
 ---
@@ -143,9 +152,11 @@ npm init -y
 npm install express cors dotenv nodemon sequelize mysql2
 ```
 
+
 ### **Importing MySQL**
 
 The next major step is to integrate MySQL into our backend.
+
 
 #### ***Setting up `.env`*** 
 ---
@@ -159,6 +170,7 @@ DB_HOST=127.0.0.1
 ```
 
 The `.env` file can be loaded by calling `dotenv`’s config method. We can then get the values using `process.env.DB_USERNAME`.
+
 
 #### ***Change the Authentication Method*** 
 ---
@@ -290,9 +302,12 @@ Server running on port 1618
 With our database connection in place, we’re ready to build the foundational structure of our web application. This involves constructing the backend aligning to the [[Model-View-Controller (MVC)]] architecture.
 
 
+
 ### **Models**
 
 Imagine the `models` folder as a set of blueprints for your database. These blueprints are like tiny replicas of your tables, but they’re built from software, not bricks and mortar. They’re designed to speak the same language as your backend, so your application can interact with them seamlessly. By keeping the changes within the confines of these blueprints, you’re essentially manipulating your table through a replica. It’s like having a miniature version of your database you can tinker with without risking damage to the real thing.
+
+
 
 #### ***`models/productModel.js`*** 
 ---
@@ -358,6 +373,7 @@ Here's a breakdown:
 	Finally, the controller sends a response back to the View, which updates the user interface accordingly.
 
 So, in essence, controllers are the brains of the operation. They're responsible for coordinating the different parts of your application and ensuring that everything runs smoothly.
+
 
 
 #### ***`controllers/productController.js`*** 
@@ -495,6 +511,8 @@ Here's a breakdown:
 
 So, in essence, routers are like traffic directors for your application. They ensure that requests are sent to the correct destination and that users are guided to the appropriate pages.
 
+
+
 #### ***`routes/productRoutes.js`*** 
 ---
 ```javascript
@@ -513,6 +531,7 @@ module.exports = router;
 ```
 
 
+
 ### ***Sending Requests with POSTMAN (optional)*** 
 
 Firstly, download and install Postman from the official website, and also, ensure that the server is up and running by running `npm start`.
@@ -528,6 +547,7 @@ SELECT * FROM product
 ![[Pasted image 20240830163622.png]]
 
 Then clicking the lightning icon to execute it.
+
 
 
 #### ***POST Requests*** 
@@ -557,6 +577,8 @@ In the body, you write the following JSON data:
 > 	Note: the localhost of the example is set to 1618, however yours by default should be 3000.
 > 
 
+
+
 #### ***GET Requests*** 
 ---
 If the `POST` request was successful, running a `GET` request will retrieve the same JSON data you’ve just sent over. 
@@ -565,6 +587,8 @@ If the `POST` request was successful, running a `GET` request will retrieve the 
 2. **Enter the URL**: `http://localhost:3000/products` (assuming your server is running on `localhost` and port `3000`).
 
 ![[Pasted image 20240830162450.png]]
+
+
 
 #### ***PUT Request*** 
 ---
@@ -591,6 +615,7 @@ Input the following into the body:
 ![[Pasted image 20240830163009.png]]
 
 
+
 #### ***PATCH Requests*** 
 ---
 To partially update a product, set the method to PATCH, the URL to `http://localhost:3000/products/:id`, and the body to JSON with only the fields you want to update.
@@ -611,6 +636,8 @@ Input the following into the body:
 
 ![[Pasted image 20240830163424.png]]
 
+
+
 #### ***DELETE Requests*** 
 ---
 To delete a product, set the method to DELETE and the URL to `http://localhost:3000/products/:id`.
@@ -621,7 +648,10 @@ To delete a product, set the method to DELETE and the URL to `http://localhost:
 ![[Pasted image 20240830163450.png]]
 
 
+
 ## **[[Frontend Setup (MyERN II)|Frontend Setup]]**
+
+
 
 #### ***Creating Directory*** 
 ---
@@ -631,6 +661,7 @@ Return back to the root of the folder and create a new folder called ‘Frontend
 mkdir frontend
 cd my-project
 ```
+
 
 
 #### ***Creating React App*** 
@@ -648,6 +679,7 @@ Then install all of the prerequisites of the React application.
 ```bash
 npm install axios
 ```
+
 
 
 #### ***Install Axios*** 

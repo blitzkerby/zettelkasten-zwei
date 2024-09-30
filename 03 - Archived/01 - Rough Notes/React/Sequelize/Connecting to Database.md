@@ -1,3 +1,5 @@
+#React #sequelize 
+
 Setup a `.env` file at the root of the folder filled with necessary contents for connecting to the database. They are typically:
 - Database name 
 - Database username

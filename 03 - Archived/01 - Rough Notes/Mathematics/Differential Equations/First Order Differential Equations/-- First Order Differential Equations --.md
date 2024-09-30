@@ -1,6 +1,7 @@
 ---
 ~
 ---
+#zettelkasten #first-order-differential-equations #differential-equations 
 
 The most general first order differential equation can be written as,
 $$
@@ -13,8 +14,4 @@ However, a greater emphasis is placed on the special cases — where upon analys
 #### [[Linear Equations]]
 ----
 This section discusses in-depth within the overview on solving and the deriving of differential equations in the form of $y'=p(t)y=g(t)$.
-
-#### [[Linear Equations]]
-----
-
 

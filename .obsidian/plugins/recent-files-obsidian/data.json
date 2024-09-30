@@ -2,6 +2,7 @@
   "recentFiles": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "basename": "2024-09-19 BACKEND ARCHITECTURE",
       "path": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md"
     },
@@ -41,8 +42,154 @@
       "basename": "Links Table",
       "path": "02 - Zettelkasten/Team/Backend/Links Table.md"
 =======
+=======
+      "basename": "2024-09-30 Definition of Laplace Transforms",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms/2024-09-30 Definition of Laplace Transforms.md"
+    },
+    {
+      "basename": "Setting Up Authentication",
+      "path": "01 - Rough Notes/React/Setting Up Authentication.md"
+    },
+    {
+>>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
       "basename": "MyERN Stack II",
       "path": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
+    },
+    {
+      "basename": "2024-08-06 How Rendering Works",
+      "path": "01 - Rough Notes/React/2024-08-06 How Rendering Works.md"
+    },
+    {
+      "basename": "2024-07-31 REACT EXCALIDRAW",
+      "path": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md"
+    },
+    {
+      "basename": "2024-07-22 React Journey",
+      "path": "01 - Rough Notes/React/2024-07-22 React Journey.md"
+    },
+    {
+      "basename": "-- React --",
+      "path": "01 - Rough Notes/React/-- React --.md"
+    },
+    {
+      "basename": "Connecting to Database",
+      "path": "01 - Rough Notes/React/Sequelize/Connecting to Database.md"
+    },
+    {
+      "basename": "2024-09-16 Handling more than one tables",
+      "path": "01 - Rough Notes/React/Sequelize/2024-09-16 Handling more than one tables.md"
+    },
+    {
+      "basename": "-- Sequelize --",
+      "path": "01 - Rough Notes/React/Sequelize/-- Sequelize --.md"
+    },
+    {
+      "basename": "Understanding Redux",
+      "path": "01 - Rough Notes/React/Redux/Understanding Redux.md"
+    },
+    {
+      "basename": "Redux Under the Hood",
+      "path": "01 - Rough Notes/React/Redux/Redux Under the Hood.md"
+    },
+    {
+      "basename": "Redux Toolkit",
+      "path": "01 - Rough Notes/React/Redux/Redux Toolkit.md"
+    },
+    {
+      "basename": "Object Destructuring in Redux Exports",
+      "path": "01 - Rough Notes/React/Redux/Object Destructuring in Redux Exports.md"
+    },
+    {
+      "basename": "CreateAsyncThunk (Redux)",
+      "path": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md"
+    },
+    {
+      "basename": "-- Redux --",
+      "path": "01 - Rough Notes/React/Redux/-- Redux --.md"
+    },
+    {
+      "basename": "RouterProvider",
+      "path": "01 - Rough Notes/React/React Router/RouterProvider.md"
+    },
+    {
+      "basename": "React Router",
+      "path": "01 - Rough Notes/React/React Router/React Router.md"
+    },
+    {
+      "basename": "createBrowserRouter",
+      "path": "01 - Rough Notes/React/React Router/createBrowserRouter.md"
+    },
+    {
+      "basename": "-- React Router --",
+      "path": "01 - Rough Notes/React/React Router/-- React Router --.md"
+    },
+    {
+      "basename": "-- Axios --",
+      "path": "01 - Rough Notes/React/Axios/-- Axios --.md"
+    },
+    {
+      "basename": "2024-08-02 AXIOS",
+      "path": "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md"
+    },
+    {
+      "basename": "Data Fetching",
+      "path": "01 - Rough Notes/React/Data Fetching.md"
+    },
+    {
+      "basename": "Backend Setup (MyERN II)",
+      "path": "01 - Rough Notes/React/Backend Setup (MyERN II).md"
+    },
+    {
+      "basename": "2024-09-09 React Lessons with B Samadey",
+      "path": "01 - Rough Notes/React/2024-09-09 React Lessons with B Samadey.md"
+    },
+    {
+      "basename": "2024-08-27 ESLint + Prettier",
+      "path": "01 - Rough Notes/React/2024-08-27 ESLint + Prettier.md"
+    },
+    {
+      "basename": "2024-08-19 How Hooks really work",
+      "path": "01 - Rough Notes/React/2024-08-19 How Hooks really work.md"
+    },
+    {
+      "basename": "2024-08-14 Object Destructuring",
+      "path": "01 - Rough Notes/React/2024-08-14 Object Destructuring.md"
+    },
+    {
+      "basename": "2024-08-08 DOM Refresher",
+      "path": "01 - Rough Notes/React/2024-08-08 DOM Refresher.md"
+    },
+    {
+      "basename": "2024-09-25 Solving for Second Order Differential Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md"
+    },
+    {
+      "basename": "Summary of 2nd ODE",
+      "path": "Summary of 2nd ODE.md"
+    },
+    {
+      "basename": "--Second Order Differential Equations--",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/--Second Order Differential Equations--.md"
+    },
+    {
+      "basename": "How to Calculate an atomic bomb's critical mass",
+      "path": "01 - Rough Notes/Nuclear Physics/How to Calculate an atomic bomb's critical mass.md"
+    },
+    {
+      "basename": "SQL commands",
+      "path": "02 - Zettelkasten/SQL commands.md"
+    },
+    {
+      "basename": "Networking 101",
+      "path": "02 - Zettelkasten/Networking 101.md"
+    },
+    {
+      "basename": "Computer Science",
+      "path": "02 - Zettelkasten/Computer Science.md"
+    },
+    {
+      "basename": "PostgreSQL Setup",
+      "path": "02 - Zettelkasten/Tech Stacking/PostgreSQL Setup.md"
     },
     {
       "basename": "A GUIDE TO TECH-STACKING",
@@ -58,6 +205,7 @@
       "path": "Ideal Gas.md"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "basename": "Social Marketing",
       "path": "02 - Zettelkasten/Team/Social Marketing.md"
@@ -121,6 +269,10 @@
     {
       "basename": "023-pics-README",
       "path": "03 - Archived/023-pics-README.md"
+=======
+      "basename": "-- Differential Equations --",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md"
+>>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
     },
     {
       "basename": "Pasted image 20240731191519",

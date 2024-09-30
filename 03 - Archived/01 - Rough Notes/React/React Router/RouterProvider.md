@@ -1,6 +1,9 @@
 ---
 ~
 ---
+#React #React-Router
+
+
 The `RouterProvider` in React Router is a crucial component that manages the routing logic for your application. Here’s a breakdown of its main functions:
 
 1. **Centralized Routing Management**: It acts as the main hub for all routing processes and settings. [By binding your parent component to the `RouterProvider`, you ensure that all child components have access to routing features](https://reactrouter.com/en/main/routers/router-provider)[1](https://reactrouter.com/en/main/routers/router-provider).

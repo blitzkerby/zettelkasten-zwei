@@ -4,7 +4,10 @@ allDay: false
 startTime: 14:00
 endTime: 14:30
 date: 2024-09-16
-completed: null
+completed: 
+tags:
+  - React
+  - sequelize
 ---
 In order to handle more than one table within a database, it is generally recommended to follow a proper convention similar to the MVC framework.
 

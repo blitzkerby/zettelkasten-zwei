@@ -1,3 +1,4 @@
+#differential-equations #first-order-differential-equations
 
 Assume a differential equation of the following form:
 $$

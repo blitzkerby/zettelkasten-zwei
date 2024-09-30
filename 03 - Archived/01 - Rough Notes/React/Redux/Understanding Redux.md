@@ -1,6 +1,7 @@
 ---
 ~
 ---
+#React #redux 
 
 ## **The need for Redux**
 

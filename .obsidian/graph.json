@@ -1,29 +1,37 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#differential-equations  ",
+      "color": {
+        "a": 1,
+        "rgb": 15277084
+      }
+    },
+    {
+      "query": "tag:#React  ",
+      "color": {
+        "a": 1,
+        "rgb": 54783
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 0.99322916666667,
+  "collapse-forces": true,
+  "centerStrength": 0.0416666666666667,
   "repelStrength": 20,
-<<<<<<< HEAD
-  "linkStrength": 0.552083333333333,
-  "linkDistance": 500,
-  "scale": 0.0247615222005085,
-  "close": true
-=======
   "linkStrength": 1,
-  "linkDistance": 488,
-  "scale": 0.08941257022405608,
-  "close": false
->>>>>>> parent of e2b840e (merging conlfict)
+  "linkDistance": 500,
+  "scale": 0.03164980830756018,
+  "close": true
 }

@@ -1,3 +1,5 @@
+#React 
+
 ## **Setting up Database** 
 ---
 In order to setup our authentication we need a table to store all of the users. 

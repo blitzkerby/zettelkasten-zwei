@@ -4,7 +4,7 @@ allDay: false
 startTime: 10:00
 endTime: 10:30
 date: 2024-08-19
-completed: null
+completed:
 ---
 ```jsx
 const [A, setA] = useState(23)

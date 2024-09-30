@@ -8,7 +8,7 @@ completed:
 tags:
   - JavaScript
   - React
-type: single
+type:
 ---
 # USEFUL LINKS FOR UNDERSTANDING React
 ---

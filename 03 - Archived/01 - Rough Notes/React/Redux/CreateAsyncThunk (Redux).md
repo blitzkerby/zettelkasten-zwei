@@ -1,3 +1,5 @@
+#React #redux
+
 ### [What is createAsyncThunk in redux?](https://dev.to/t/redux)
 
 Firstly, what is side effects, side effects refer to any external interaction outside an existing client application such as fetching data from an API.

@@ -1,3 +1,4 @@
+#React #redux
 
 Here’s what’s happening under the hood:
 

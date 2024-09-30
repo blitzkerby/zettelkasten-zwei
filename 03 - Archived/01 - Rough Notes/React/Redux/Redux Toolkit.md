@@ -1,3 +1,5 @@
+#React #redux
+
 The `createSlice` function helps you create a slice of the Redux state, along with the actions and reducers for that slice.
 
 

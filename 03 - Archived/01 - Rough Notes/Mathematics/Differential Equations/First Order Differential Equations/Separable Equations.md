@@ -1,3 +1,5 @@
+#differential-equations  #first-order-differential-equations
+
 We are now going to study the nonlinear first order differential equations.
 
 The first type of nonlinear first order differential equation is the separable differential equation.

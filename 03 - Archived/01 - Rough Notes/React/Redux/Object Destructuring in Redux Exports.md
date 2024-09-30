@@ -1,3 +1,5 @@
+#React #redux
+
 Object destructuring simplify the calling process of exports by specifying the object’s properties to be accessed.
 
 Assume the line,
