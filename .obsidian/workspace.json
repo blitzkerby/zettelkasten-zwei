@@ -1,147 +1,35 @@
 {
   "main": {
-    "id": "c4222a1cf1094b4e",
+    "id": "7c831738482c6687",
     "type": "split",
     "children": [
       {
-        "id": "5312beae628241be",
+        "id": "8d091e8e23ba779d",
         "type": "tabs",
         "children": [
           {
-            "id": "9dc6f6b39146beff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Calendar/2024-09-26 Thermodynamics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4d5ef5e56688051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideal Gas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05be8cdd29857b71",
+            "id": "727616dfb0a9fa2c",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {}
             }
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-          },
-          {
-            "id": "53df36baf9ea4348",
-=======
-          },
-          {
-            "id": "5edcd40b245fa68e",
->>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
-=======
-                "file": "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms/2024-09-30 Definition of Laplace Transforms.md",
->>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
-                "mode": "source",
-                "source": false
-              }
-            }
-<<<<<<< HEAD
-          },
-          {
-            "id": "efcaaf56873d012a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Zettelkasten/Team/Backend/Majors Table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed4f91c5e3783b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Zettelkasten/Team/Backend/Scholarships Table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87156d5944b2bf87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Zettelkasten/Team/Backend/University Table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0db2360b2b43b34d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-=======
           }
         ]
->>>>>>> ff8ed68 (saving before pull)
-=======
-          }
-        ],
-        "currentTab": 1
->>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
-=======
-          }
-        ],
-        "currentTab": 2
->>>>>>> 79823ba (rebasing)
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2c1efa18b6de80e4",
+    "id": "4298c9083c2a07ce",
     "type": "split",
     "children": [
       {
-        "id": "6d953f862253bc0b",
+        "id": "8f4f684668a8513d",
         "type": "tabs",
         "children": [
           {
-            "id": "06dc2c98b738f860",
+            "id": "1da1c62a4a548a5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -151,7 +39,7 @@
             }
           },
           {
-            "id": "0c8dcdcb2ec310fb",
+            "id": "6ceb2f38ff65a656",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -166,7 +54,7 @@
             }
           },
           {
-            "id": "41575ec6d57aa1de",
+            "id": "8ad2f9418a884f7d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -174,7 +62,7 @@
             }
           },
           {
-            "id": "a2e7705725c704a5",
+            "id": "cb2727b32e918be8",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -185,19 +73,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "13f5b7d62ad7e047",
+    "id": "84bae5c195c1cd1a",
     "type": "split",
     "children": [
       {
-        "id": "7021b03a20fd730f",
+        "id": "4d7b115fbc46fab2",
         "type": "tabs",
         "children": [
           {
-            "id": "dd60690d042d0180",
+            "id": "ca369237a9c0573b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -205,20 +92,11 @@
             }
           },
           {
-            "id": "c8f10ae41303dc47",
+            "id": "5ff177bc308e4dda",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
-=======
-                "file": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
->>>>>>> ff8ed68 (saving before pull)
-=======
-                "file": "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms/2024-09-30 Definition of Laplace Transforms.md",
->>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,27 +108,18 @@
             }
           },
           {
-            "id": "5b68b0273a8e5d2e",
+            "id": "469cadf8af9a69e4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
-=======
-                "file": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
->>>>>>> ff8ed68 (saving before pull)
-=======
-                "file": "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms/2024-09-30 Definition of Laplace Transforms.md",
->>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7585ac3753a3a099",
+            "id": "61cf6dd734acddc4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -261,25 +130,15 @@
             }
           },
           {
-            "id": "1a0d765cf274870c",
+            "id": "17b9fc8a5f14b1f7",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md"
-=======
-                "file": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
->>>>>>> ff8ed68 (saving before pull)
-=======
-                "file": "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms/2024-09-30 Definition of Laplace Transforms.md"
->>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
-              }
+              "state": {}
             }
           },
           {
-            "id": "0bdc9afc8ec0759f",
+            "id": "eb233b3fae3885a9",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -296,28 +155,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-random-note:Open Random Note from Search": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "smart-random-note:Open Random Note from Search": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-kanban:Create new board": false
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "0db2360b2b43b34d",
+  "active": "1da1c62a4a548a5e",
   "lastOpenFiles": [
+    "Summary of 2nd ODE.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms/2024-09-30 Definition of Laplace Transforms.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/--Second Order Differential Equations--.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Substitutions.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Separable Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Modeling with First Order Differential Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Linear Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Intervals of Validity.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Exact Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Euler's Method.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Equilibrium Solutions.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Bernoulli Differential Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/-- First Order Differential Equations --.md",
+    "01 - Rough Notes/React/React Router/createBrowserRouter.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms",
+    "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations",
+    "01 - Rough Notes/React/React Router",
+    "01 - Rough Notes/Mathematics/Differential Equations",
+    "01 - Rough Notes/React",
+    "01 - Rough Notes/Mathematics",
+    "01 - Rough Notes",
+    "00 - Calendar/2024-09-30 AWS Identity and Access Management (IAM).md",
+    "99 - Mission 3/3rd missiion for indivisual.pdf",
     "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
     "02 - Zettelkasten/Team/Backend/Components/2024-09-27 Card.md",
     "02 - Zettelkasten/Team/Backend/Components/Card.md",
@@ -329,94 +210,15 @@
     "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
     "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md",
     "Components.md",
-    "02 - Zettelkasten/Team/Backend/Links Table.md",
-    "Ideal Gas.md",
-    "02 - Zettelkasten/Team/Social Marketing.md",
-    "02 - Zettelkasten/Team/Backend/Folder Structure.md",
-    "02 - Zettelkasten/Team/Backend",
-    "03 - Archived/01 - Rough Notes/AWS/-- AWS --.md",
-    "03 - Archived/01 - Rough Notes/AWS/2024-09-27 Advantages of Cloud Computing.md",
-    "03 - Archived/01 - Rough Notes/AWS/2024-09-27 AWS Pricing Fundamentals.md",
-    "00 - Assets/Camera/Untitled",
     "00 - Assets/Pasted Image 20240727143715_585.png",
     "00 - Assets/Pasted Image 20240727143701_699.png",
-    "00 - Assets/Camera",
     "00 - Assets/Design/PNG/mui.png",
     "00 - Assets/Design/PNG/banner-proto-2.png",
     "00 - Assets/Design/PNG/chakra.png",
-    "00 - Assets/Design/SVG",
-    "00 - Assets/Design/PNG",
-    "00 - Assets/Design",
-    "00 - Assets/Calendar.md",
     "00 - Assets/Design/PNG/compass.png",
     "00 - Assets/Design/PNG/mantine.png",
     "00 - Assets/microsoft-edge.svg",
-    "03 - Archived/023-pics-README.md",
     "00 - Assets/Pasted image 20240731191519.png",
-    "00 - Assets/Pasted Image 20240731161811_393.png",
-    "00 - Assets/Our Application",
-    "00 - Assets/MERN",
-    "00 - Assets/Misc",
-    "00 - Assets/Untitled.md",
-    "03 - Archived/01 - Rough Notes/AWS/2024-09-27 Application Programming Interfaces (APIs).md",
-    "03 - Archived/01 - Rough Notes/AWS/2024-09-27 The AWS Global Infrastructure.md",
-    "03 - Archived/01 - Rough Notes/AWS/2024-09-27 The Shared Responsibility Model.md",
-    "01 - Rough Notes/AWS/AWS Global Infrastructure.md",
-    "The AWS Global Infrastructure.md",
-    "01 - Rough Notes/AWS.md"
-=======
-  "active": "06dc2c98b738f860",
-=======
-  "active": "5edcd40b245fa68e",
->>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
-=======
-  "active": "05be8cdd29857b71",
->>>>>>> 79823ba (rebasing)
-  "lastOpenFiles": [
-    "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms/2024-09-30 Definition of Laplace Transforms.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms",
-    "01 - Rough Notes/React/Setting Up Authentication.md",
-    "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
-    "01 - Rough Notes/React/2024-08-06 How Rendering Works.md",
-    "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md",
-    "01 - Rough Notes/React/2024-07-22 React Journey.md",
-    "01 - Rough Notes/React/-- React --.md",
-    "01 - Rough Notes/React/Sequelize/Connecting to Database.md",
-    "01 - Rough Notes/React/Sequelize/2024-09-16 Handling more than one tables.md",
-    "01 - Rough Notes/React/Sequelize/-- Sequelize --.md",
-    "01 - Rough Notes/React/Redux/Understanding Redux.md",
-    "01 - Rough Notes/React/Redux/Redux Under the Hood.md",
-    "01 - Rough Notes/React/Redux/Redux Toolkit.md",
-    "01 - Rough Notes/React/Redux/Object Destructuring in Redux Exports.md",
-    "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
-    "01 - Rough Notes/React/Redux/-- Redux --.md",
-    "01 - Rough Notes/React/React Router/RouterProvider.md",
-    "01 - Rough Notes/React/React Router/React Router.md",
-    "01 - Rough Notes/React/React Router/createBrowserRouter.md",
-    "01 - Rough Notes/React/React Router/-- React Router --.md",
-    "01 - Rough Notes/React/Axios/-- Axios --.md",
-    "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md",
-    "01 - Rough Notes/React/Data Fetching.md",
-    "01 - Rough Notes/React/Backend Setup (MyERN II).md",
-    "01 - Rough Notes/React/2024-09-09 React Lessons with B Samadey.md",
-    "01 - Rough Notes/React/2024-08-27 ESLint + Prettier.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations",
-    "01 - Rough Notes/Mathematics/Number Theory",
-    "01 - Rough Notes/Mathematics/Series and Sequences",
-<<<<<<< HEAD
-    "01 - Rough Notes/Mathematics/Multivariable Calculus",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Substitutions.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Modeling with First Order Differential Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Intervals of Validity.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Exact Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Euler's Method.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Equilibrium Solutions.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations/Bernoulli Differential Equations.md",
-    "01 - Rough Notes/Mathematics/Series and Sequences/2024-09-25 Taylor Series Expansion.md",
-    "01 - Rough Notes/Mathematics/Multivariable Calculus/2024-09-25 Chainrule of multivariable calculus.md"
->>>>>>> ff8ed68 (saving before pull)
-=======
-    "01 - Rough Notes/Mathematics/Multivariable Calculus"
->>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
+    "00 - Assets/Pasted Image 20240731161811_393.png"
   ]
 }
