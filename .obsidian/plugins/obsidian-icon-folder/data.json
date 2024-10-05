@@ -6,7 +6,10 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiWebhook"
+      "LiGithub",
+      "LiApple",
+      "LiAtom",
+      "LiBomb"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,5 +32,5 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "03 - Archived/01 - Rough Notes/AWS": "LiWebhook"
+  "01 - Rough Notes/Physics": "LiBomb"
 }
