@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "MyERN Stack II",
       "path": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
     },
@@ -11,6 +12,10 @@
     {
       "basename": "Pasted image 20240830080342",
       "path": "00 - Assets/Pasted image 20240830080342.png"
+=======
+      "basename": "CreateAsyncThunk (Redux)",
+      "path": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md"
+>>>>>>> b3a8d5d (saving before pull)
     }
   ],
   "omittedPaths": []

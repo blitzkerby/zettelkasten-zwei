@@ -12,9 +12,26 @@
             "type": "leaf",
             "pinned": true,
             "state": {
+<<<<<<< HEAD
               "type": "graph",
               "state": {},
               "pinned": true
+=======
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "91fe539016ff4975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> b3a8d5d (saving before pull)
             }
           }
         ]
@@ -108,6 +125,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
+>>>>>>> b3a8d5d (saving before pull)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +145,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
+>>>>>>> b3a8d5d (saving before pull)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md"
+              }
+>>>>>>> b3a8d5d (saving before pull)
             }
           },
           {
@@ -199,6 +230,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
+<<<<<<< HEAD
   "active": "8a4bf5ce9b8908e6",
   "lastOpenFiles": [
     "Summary of 2nd ODE.md",
@@ -247,5 +279,55 @@
     "00 - Assets/Pasted image 20240923102741.png",
     "00 - Assets/Pasted image 20240923102714.png",
     "00 - Assets/Pasted image 20240923102612.png"
+=======
+  "active": "1da1c62a4a548a5e",
+  "lastOpenFiles": [
+    "Screenshot 2024-09-23 at 10.28.54 in the morning.png",
+    "Pasted image 20240923102741.png",
+    "Pasted image 20240923102714.png",
+    "Pasted image 20240923102612.png",
+    "Pasted image 20240922163628.png",
+    "Pasted image 20240922163624.png",
+    "Pasted image 20240918194436.png",
+    "Folder Structure.md",
+    "01 - Rough Notes/Statistics/2024-07-16 Legatum prosperity index.md",
+    "01 - Rough Notes/Statistics/2024-07-08 Skewness.md",
+    "01 - Rough Notes/Statistics/2024-07-08 Machine Learning Algorithm.md",
+    "01 - Rough Notes/Statistics/2024-07-07 EXPONENTIAL REGRESSION.md",
+    "01 - Rough Notes/Statistics/2024-07-06 STATISTICS IN HALF AN HOUR.md",
+    "01 - Rough Notes/Statistics/2024-07-06 Null Hypothesis.md",
+    "01 - Rough Notes/Statistics/2024-07-06 LINEAR REGRESSION.md",
+    "01 - Rough Notes/Statistics",
+    "01 - Rough Notes/React/Setting Up Authentication.md",
+    "01 - Rough Notes/React/Sequelize/Connecting to Database.md",
+    "01 - Rough Notes/React/Sequelize/2024-09-16 Handling more than one tables.md",
+    "01 - Rough Notes/React/Sequelize/-- Sequelize --.md",
+    "01 - Rough Notes/React/Sequelize",
+    "01 - Rough Notes/React/Redux/Understanding Redux.md",
+    "01 - Rough Notes/React/Redux/Redux Under the Hood.md",
+    "01 - Rough Notes/React/Redux/Redux Toolkit.md",
+    "01 - Rough Notes/React/Redux/Object Destructuring in Redux Exports.md",
+    "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
+    "01 - Rough Notes/React/Redux/-- Redux --.md",
+    "01 - Rough Notes/React/Redux",
+    "01 - Rough Notes/React/React Router/RouterProvider.md",
+    "01 - Rough Notes/React/React Router/React Router.md",
+    "01 - Rough Notes/React/React Router/-- React Router --.md",
+    "01 - Rough Notes/React/Data Fetching.md",
+    "01 - Rough Notes/React/Backend Setup (MyERN II).md",
+    "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md",
+    "01 - Rough Notes/React/Axios/-- Axios --.md",
+    "01 - Rough Notes/React/Axios",
+    "01 - Rough Notes/Project Planning",
+    "01 - Rough Notes/Nuclear Physics",
+    "01 - Rough Notes/Node/JWT",
+    "01 - Rough Notes/Node/Express",
+    "01 - Rough Notes/Node/Authentication",
+    "01 - Rough Notes/Node",
+    "00 - Assets/mui.png",
+    "00 - Assets/mantine.png",
+    "00 - Assets/facebook-business-model-canvas.png",
+    "00 - Assets/ebays-business-model-canvas.png"
+>>>>>>> b3a8d5d (saving before pull)
   ]
 }
