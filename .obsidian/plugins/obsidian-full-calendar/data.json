@@ -2,7 +2,7 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "hsl(126, 100%, 70%)",
+      "color": "rgba(14, 210, 247, 0.5)",
       "directory": "00 - Calendar"
     }
   ],

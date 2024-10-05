@@ -2,17 +2,52 @@
   "recentFiles": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      "basename": "tacticalrmm-develop",
+      "path": "07 - READMEs/tacticalrmm-develop.md"
+    },
+    {
+>>>>>>> 9e7b5c5 (saving before pull)
       "basename": "MyERN Stack II",
       "path": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
     },
     {
+<<<<<<< HEAD
+=======
+      "basename": "2024-08-28 MyERN Stack",
+      "path": "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md"
+    },
+    {
+      "basename": "202410051142",
+      "path": "202410051142.md"
+    },
+    {
+>>>>>>> 9e7b5c5 (saving before pull)
       "basename": "2024-09-14 09.29.48.excalidraw",
       "path": "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md"
     },
     {
       "basename": "Pasted image 20240830080342",
       "path": "00 - Assets/Pasted image 20240830080342.png"
+<<<<<<< HEAD
 =======
+=======
+    },
+    {
+      "basename": "Tech Stack",
+      "path": "02 - Zettelkasten/Project MTX/Tech Stack.md"
+    },
+    {
+      "basename": "My Thoughts",
+      "path": "02 - Zettelkasten/Project MTX/Diary/My Thoughts.md"
+    },
+    {
+      "basename": "2024-10-01 Hosting MySQL database",
+      "path": "01 - Rough Notes/Databases/2024-10-01 Hosting MySQL database.md"
+    },
+    {
+>>>>>>> 9e7b5c5 (saving before pull)
       "basename": "CreateAsyncThunk (Redux)",
       "path": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md"
 >>>>>>> b3a8d5d (saving before pull)

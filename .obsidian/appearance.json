@@ -1,7 +1,7 @@
 {
-  "accentColor": "#66ff75",
+  "accentColor": "#5cff6c",
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Obsidianite",
   "textFontFamily": "JetBrains Mono NL",
   "monospaceFontFamily": "JetBrains Mono NL",
   "interfaceFontFamily": "JetBrains Mono NL",
@@ -9,12 +9,9 @@
     "Iterative Rainbow Folder Backgrounds",
     "Iterative Rainbow Folder Icons",
     "Iterative Rainbow Folder Titles",
-    "Daily Note Themes",
-    "Minecraft",
-    "RuneScape",
-    "Colored Sidebar Items",
-    "Notebook Backgrounds"
+    "Colored Sidebar Items"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "nativeMenus": true
 }

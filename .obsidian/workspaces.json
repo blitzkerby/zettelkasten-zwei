@@ -1,0 +1,441 @@
+{
+  "workspaces": {
+    "Calendar-view": {
+      "main": {
+        "id": "7c831738482c6687",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d6eaee6958efcad",
+            "type": "tabs",
+            "dimension": 50.444162436548226,
+            "children": [
+              {
+                "id": "ad92f6d88e2b722a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "d6251de902988c1c",
+            "type": "tabs",
+            "dimension": 49.555837563451774,
+            "children": [
+              {
+                "id": "089fb7f417f17f84",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "4298c9083c2a07ce",
+        "type": "split",
+        "children": [
+          {
+            "id": "8f4f684668a8513d",
+            "type": "tabs",
+            "dimension": 76.03305785123968,
+            "children": [
+              {
+                "id": "1da1c62a4a548a5e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6ceb2f38ff65a656",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "07ae9cb267b9e38b",
+            "type": "tabs",
+            "dimension": 23.96694214876033,
+            "children": [
+              {
+                "id": "cb2727b32e918be8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8ad2f9418a884f7d",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "84bae5c195c1cd1a",
+        "type": "split",
+        "children": [
+          {
+            "id": "4d7b115fbc46fab2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5ff177bc308e4dda",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "469cadf8af9a69e4",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "61cf6dd734acddc4",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "17b9fc8a5f14b1f7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "eb233b3fae3885a9",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3feb34a9b81bc8e7",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "publish:Publish changes...": false,
+          "smart-random-note:Open Random Note from Search": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "homepage:Open homepage": false,
+          "obsidian-importer:Open Importer": false,
+          "obsidian-kanban:Create new board": false
+        }
+      },
+      "active": "089fb7f417f17f84",
+      "mtime": "2024-10-05T11:50:59+07:00"
+    },
+    "Default": {
+      "main": {
+        "id": "7c831738482c6687",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d6eaee6958efcad",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ad92f6d88e2b722a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "8a4bf5ce9b8908e6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "4298c9083c2a07ce",
+        "type": "split",
+        "children": [
+          {
+            "id": "8f4f684668a8513d",
+            "type": "tabs",
+            "dimension": 76.03305785123968,
+            "children": [
+              {
+                "id": "1da1c62a4a548a5e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6ceb2f38ff65a656",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "07ae9cb267b9e38b",
+            "type": "tabs",
+            "dimension": 23.96694214876033,
+            "children": [
+              {
+                "id": "cb2727b32e918be8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8ad2f9418a884f7d",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "84bae5c195c1cd1a",
+        "type": "split",
+        "children": [
+          {
+            "id": "4d7b115fbc46fab2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "089fb7f417f17f84",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5ff177bc308e4dda",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "469cadf8af9a69e4",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "61cf6dd734acddc4",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "17b9fc8a5f14b1f7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
+                  }
+                }
+              },
+              {
+                "id": "eb233b3fae3885a9",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3feb34a9b81bc8e7",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 600.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "publish:Publish changes...": false,
+          "smart-random-note:Open Random Note from Search": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "homepage:Open homepage": false,
+          "obsidian-importer:Open Importer": false,
+          "obsidian-kanban:Create new board": false
+        }
+      },
+      "active": "8a4bf5ce9b8908e6",
+      "mtime": "2024-10-05T11:56:00+07:00"
+    }
+  },
+  "active": "Default"
+}

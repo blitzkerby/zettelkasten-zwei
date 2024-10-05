@@ -8,7 +8,6 @@
   "obsidian-spaced-repetition",
   "obsidian-excalidraw-plugin",
   "obsidian-advanced-slides",
-  "calendar",
   "obsidian-smart-typography",
   "obsidian-completr",
   "homepage",
@@ -18,6 +17,6 @@
   "settings-search",
   "obsidian-text-format",
   "tag-wrangler",
-  "obsidian-full-calendar",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-full-calendar"
 ]

@@ -22,7 +22,7 @@ Our tool also provides assistance in searching for the perfect accommodation as 
 
 
 
-#IMPROVED-VERSION
+[[IMPROVED-VERSION]]
 
 **Our web application is a comprehensive platform designed to simplify the college search process for students.** By providing access to a vast database of colleges and universities, detailed institution profiles, and a robust scholarship search engine, we empower students to make informed decisions about their higher education journey.
 
