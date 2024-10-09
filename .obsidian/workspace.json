@@ -49,12 +49,16 @@
             "id": "fb59b10249be9e05",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - Calendar/2024-10-09 Search Engines.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+                "file": "00 - Calendar/2024-10-09 Search Engines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+                "file": "00 - Calendar/2024-10-09 Search Engines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md"
+                "file": "00 - Calendar/2024-10-09 Search Engines.md"
               }
             }
           },
@@ -215,11 +219,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e07c71882761c5d7",
+  "active": "fb59b10249be9e05",
   "lastOpenFiles": [
+    "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+    "00 - Calendar/2024-10-09 Search Engines.md",
     "02 - Zettelkasten/Team/Components/Pagination.md",
     "Untitled.md",
-    "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
     "02 - Zettelkasten/Team/Backend/University Table.md",
     "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
     "02 - Zettelkasten/Tech Stacking/PostgreSQL Setup.md",
@@ -246,7 +251,6 @@
     "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md",
     "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/--Second Order Differential Equations--.md",
     "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Substitutions.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Separable Equations.md",
     "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms",
     "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations",
     "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations",
