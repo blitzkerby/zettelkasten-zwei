@@ -1,21 +1,36 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-      "basename": "3rd missiion for indivisual",
-      "path": "99 - Mission 3/3rd missiion for indivisual.pdf"
-    },
-    {
->>>>>>> c62123c (added note : AWS IAM)
       "basename": "2024-09-19 BACKEND ARCHITECTURE",
       "path": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md"
     },
     {
-      "basename": "2024-09-27 Card",
-      "path": "02 - Zettelkasten/Team/Backend/Components/2024-09-27 Card.md"
+      "basename": "Pagination",
+      "path": "02 - Zettelkasten/Team/Components/Pagination.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "University Table",
+      "path": "02 - Zettelkasten/Team/Backend/University Table.md"
+    },
+    {
+      "basename": "MyERN Stack II",
+      "path": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
+    },
+    {
+      "basename": "PostgreSQL Setup",
+      "path": "02 - Zettelkasten/Tech Stacking/PostgreSQL Setup.md"
+    },
+    {
+      "basename": "A GUIDE TO TECH-STACKING",
+      "path": "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md"
+    },
+    {
+      "basename": "2024-10-04 code snippet",
+      "path": "00 - Calendar/2024-10-04 code snippet.md"
     },
     {
       "basename": "Filter function",
@@ -26,12 +41,52 @@
       "path": "02 - Zettelkasten/Team/Backend/Scholarships Table.md"
     },
     {
-      "basename": "University Table",
-      "path": "02 - Zettelkasten/Team/Backend/University Table.md"
-    },
-    {
       "basename": "Majors Table",
       "path": "02 - Zettelkasten/Team/Backend/Majors Table.md"
+    },
+    {
+      "basename": "Links Table",
+      "path": "02 - Zettelkasten/Team/Backend/Links Table.md"
+    },
+    {
+      "basename": "Folder Structure",
+      "path": "02 - Zettelkasten/Team/Backend/Folder Structure.md"
+    },
+    {
+      "basename": "2024-09-21 Setting Up",
+      "path": "02 - Zettelkasten/Team/2024-09-21 Setting Up.md"
+    },
+    {
+      "basename": "Social Marketing",
+      "path": "02 - Zettelkasten/Team/Social Marketing.md"
+    },
+    {
+      "basename": "2024-08-06 DESIGN DOCUMENTATION",
+      "path": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
+    },
+    {
+      "basename": "-- Where2 Documentation --",
+      "path": "02 - Zettelkasten/Team/-- Where2 Documentation --.md"
+    },
+    {
+      "basename": "2024-09-30 AWS Identity and Access Management (IAM)",
+      "path": "00 - Calendar/2024-09-30 AWS Identity and Access Management (IAM).md"
+    },
+    {
+      "basename": "Coding Convention",
+      "path": "Coding Convention.md"
+    },
+    {
+      "basename": "2024-09-30 IAM Roles and Policies",
+      "path": "00 - Calendar/2024-09-30 IAM Roles and Policies.md"
+    },
+    {
+      "basename": "3rd missiion for indivisual",
+      "path": "99 - Mission 3/3rd missiion for indivisual.pdf"
+    },
+    {
+      "basename": "2024-09-27 Card",
+      "path": "02 - Zettelkasten/Team/Components/2024-09-27 Card.md"
     },
     {
       "basename": "2024-09-19 FRONTEND ARCHITECTURE",
@@ -46,192 +101,20 @@
       "path": "Components.md"
     },
     {
-      "basename": "Links Table",
-      "path": "02 - Zettelkasten/Team/Backend/Links Table.md"
-=======
-=======
-      "basename": "2024-09-30 Definition of Laplace Transforms",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms/2024-09-30 Definition of Laplace Transforms.md"
-    },
-    {
-      "basename": "Setting Up Authentication",
-      "path": "01 - Rough Notes/React/Setting Up Authentication.md"
-    },
-    {
->>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
-      "basename": "MyERN Stack II",
-      "path": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
-    },
-    {
-      "basename": "2024-08-06 How Rendering Works",
-      "path": "01 - Rough Notes/React/2024-08-06 How Rendering Works.md"
-    },
-    {
-      "basename": "2024-07-31 REACT EXCALIDRAW",
-      "path": "01 - Rough Notes/React/2024-07-31 REACT EXCALIDRAW.md"
-    },
-    {
-      "basename": "2024-07-22 React Journey",
-      "path": "01 - Rough Notes/React/2024-07-22 React Journey.md"
-    },
-    {
-      "basename": "-- React --",
-      "path": "01 - Rough Notes/React/-- React --.md"
-    },
-    {
-      "basename": "Connecting to Database",
-      "path": "01 - Rough Notes/React/Sequelize/Connecting to Database.md"
-    },
-    {
-      "basename": "2024-09-16 Handling more than one tables",
-      "path": "01 - Rough Notes/React/Sequelize/2024-09-16 Handling more than one tables.md"
-    },
-    {
-      "basename": "-- Sequelize --",
-      "path": "01 - Rough Notes/React/Sequelize/-- Sequelize --.md"
-    },
-    {
-      "basename": "Understanding Redux",
-      "path": "01 - Rough Notes/React/Redux/Understanding Redux.md"
-    },
-    {
-      "basename": "Redux Under the Hood",
-      "path": "01 - Rough Notes/React/Redux/Redux Under the Hood.md"
-    },
-    {
-      "basename": "Redux Toolkit",
-      "path": "01 - Rough Notes/React/Redux/Redux Toolkit.md"
-    },
-    {
-      "basename": "Object Destructuring in Redux Exports",
-      "path": "01 - Rough Notes/React/Redux/Object Destructuring in Redux Exports.md"
-    },
-    {
-      "basename": "CreateAsyncThunk (Redux)",
-      "path": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md"
-    },
-    {
-      "basename": "-- Redux --",
-      "path": "01 - Rough Notes/React/Redux/-- Redux --.md"
-    },
-    {
-      "basename": "RouterProvider",
-      "path": "01 - Rough Notes/React/React Router/RouterProvider.md"
-    },
-    {
-      "basename": "React Router",
-      "path": "01 - Rough Notes/React/React Router/React Router.md"
-    },
-    {
-      "basename": "createBrowserRouter",
-      "path": "01 - Rough Notes/React/React Router/createBrowserRouter.md"
-    },
-    {
-      "basename": "-- React Router --",
-      "path": "01 - Rough Notes/React/React Router/-- React Router --.md"
-    },
-    {
-      "basename": "-- Axios --",
-      "path": "01 - Rough Notes/React/Axios/-- Axios --.md"
-    },
-    {
-      "basename": "2024-08-02 AXIOS",
-      "path": "01 - Rough Notes/React/Axios/2024-08-02 AXIOS.md"
-    },
-    {
-      "basename": "Data Fetching",
-      "path": "01 - Rough Notes/React/Data Fetching.md"
-    },
-    {
-      "basename": "Backend Setup (MyERN II)",
-      "path": "01 - Rough Notes/React/Backend Setup (MyERN II).md"
-    },
-    {
-      "basename": "2024-09-09 React Lessons with B Samadey",
-      "path": "01 - Rough Notes/React/2024-09-09 React Lessons with B Samadey.md"
-    },
-    {
-      "basename": "2024-08-27 ESLint + Prettier",
-      "path": "01 - Rough Notes/React/2024-08-27 ESLint + Prettier.md"
-    },
-    {
-      "basename": "2024-08-19 How Hooks really work",
-      "path": "01 - Rough Notes/React/2024-08-19 How Hooks really work.md"
-    },
-    {
-      "basename": "2024-08-14 Object Destructuring",
-      "path": "01 - Rough Notes/React/2024-08-14 Object Destructuring.md"
-    },
-    {
-      "basename": "2024-08-08 DOM Refresher",
-      "path": "01 - Rough Notes/React/2024-08-08 DOM Refresher.md"
-    },
-    {
-      "basename": "2024-09-25 Solving for Second Order Differential Equations",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md"
-    },
-    {
-      "basename": "Summary of 2nd ODE",
-      "path": "Summary of 2nd ODE.md"
-    },
-    {
-      "basename": "--Second Order Differential Equations--",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/--Second Order Differential Equations--.md"
-    },
-    {
-      "basename": "How to Calculate an atomic bomb's critical mass",
-      "path": "01 - Rough Notes/Nuclear Physics/How to Calculate an atomic bomb's critical mass.md"
-    },
-    {
-      "basename": "SQL commands",
-      "path": "02 - Zettelkasten/SQL commands.md"
-    },
-    {
-      "basename": "Networking 101",
-      "path": "02 - Zettelkasten/Networking 101.md"
-    },
-    {
-      "basename": "Computer Science",
-      "path": "02 - Zettelkasten/Computer Science.md"
-    },
-    {
-      "basename": "PostgreSQL Setup",
-      "path": "02 - Zettelkasten/Tech Stacking/PostgreSQL Setup.md"
-    },
-    {
-      "basename": "A GUIDE TO TECH-STACKING",
-      "path": "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md"
-    },
-    {
-      "basename": "2024-09-26 Thermodynamics",
-      "path": "00 - Calendar/2024-09-26 Thermodynamics.md"
->>>>>>> ff8ed68 (saving before pull)
-    },
-    {
       "basename": "Ideal Gas",
       "path": "Ideal Gas.md"
     },
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "basename": "Social Marketing",
-      "path": "02 - Zettelkasten/Team/Social Marketing.md"
-    },
-    {
-      "basename": "Folder Structure",
-      "path": "02 - Zettelkasten/Team/Backend/Folder Structure.md"
-    },
-    {
       "basename": "-- AWS --",
-      "path": "03 - Archived/01 - Rough Notes/AWS/-- AWS --.md"
+      "path": "01 - Rough Notes/AWS/-- AWS --.md"
     },
     {
       "basename": "2024-09-27 Advantages of Cloud Computing",
-      "path": "03 - Archived/01 - Rough Notes/AWS/2024-09-27 Advantages of Cloud Computing.md"
+      "path": "01 - Rough Notes/AWS/2024-09-27 Advantages of Cloud Computing.md"
     },
     {
       "basename": "2024-09-27 AWS Pricing Fundamentals",
-      "path": "03 - Archived/01 - Rough Notes/AWS/2024-09-27 AWS Pricing Fundamentals.md"
+      "path": "01 - Rough Notes/AWS/2024-09-27 AWS Pricing Fundamentals.md"
     },
     {
       "basename": "Pasted Image 20240716134414_605",
@@ -268,18 +151,10 @@
     {
       "basename": "microsoft-edge",
       "path": "00 - Assets/microsoft-edge.svg"
-=======
-      "basename": "2024-09-25 Solving for Second Order Differential Equations",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md"
->>>>>>> ff8ed68 (saving before pull)
     },
     {
       "basename": "023-pics-README",
       "path": "03 - Archived/023-pics-README.md"
-=======
-      "basename": "-- Differential Equations --",
-      "path": "01 - Rough Notes/Mathematics/Differential Equations/-- Differential Equations --.md"
->>>>>>> 38f3193 (ORGANIZED AND ADDED NEW NOTE : Laplace)
     },
     {
       "basename": "Pasted image 20240731191519",
@@ -294,7 +169,6 @@
       "path": "00 - Assets/Pasted Image 20240730135740_579.png"
     },
     {
-<<<<<<< HEAD
       "basename": "Pasted Image 20240731161656_372",
       "path": "00 - Assets/Pasted Image 20240731161656_372.png"
     },
@@ -325,58 +199,6 @@
     {
       "basename": "Screenshot 2024-07-31 at 5.18.21 in the afternoon",
       "path": "00 - Assets/Screenshot 2024-07-31 at 5.18.21 in the afternoon.png"
-    },
-    {
-      "basename": "Screenshot 2024-07-31 at 7.15.29 in the evening",
-      "path": "00 - Assets/Screenshot 2024-07-31 at 7.15.29 in the evening.png"
-    },
-    {
-      "basename": "Screenshot 2024-08-02 at 10.22.14 in the morning",
-      "path": "00 - Assets/Screenshot 2024-08-02 at 10.22.14 in the morning.png"
-    },
-    {
-      "basename": "Screenshot 2024-08-19 at 10.09.43 in the morning",
-      "path": "00 - Assets/Screenshot 2024-08-19 at 10.09.43 in the morning.png"
-    },
-    {
-      "basename": "Pasted image 20240918194436",
-      "path": "00 - Assets/Pasted image 20240918194436.png"
-    },
-    {
-      "basename": "Pasted image 20240903112358",
-      "path": "00 - Assets/Pasted image 20240903112358.png"
-    },
-    {
-      "basename": "Pasted image 20240903111208",
-      "path": "00 - Assets/Pasted image 20240903111208.png"
-    },
-    {
-      "basename": "Pasted image 20240903111116",
-      "path": "00 - Assets/Pasted image 20240903111116.png"
-    },
-    {
-      "basename": "Pasted image 20240830163622",
-      "path": "00 - Assets/Pasted image 20240830163622.png"
-    },
-    {
-      "basename": "Pasted image 20240815103040",
-      "path": "00 - Assets/Pasted image 20240815103040.png"
-    },
-    {
-      "basename": "Pasted Image 20240819005035_973",
-      "path": "00 - Assets/Pasted Image 20240819005035_973.png"
-    },
-    {
-      "basename": "Pasted image 20240815103211",
-      "path": "00 - Assets/Pasted image 20240815103211.png"
-    },
-    {
-      "basename": "Pasted Image 20240814133503_961",
-      "path": "00 - Assets/Pasted Image 20240814133503_961.png"
-=======
-      "basename": "2024-08-06 DESIGN DOCUMENTATION",
-      "path": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
->>>>>>> ff8ed68 (saving before pull)
     }
   ],
   "omittedPaths": []

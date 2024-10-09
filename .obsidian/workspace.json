@@ -8,14 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "727616dfb0a9fa2c",
+            "id": "071b1e3bcb79610b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Calendar/2024-10-04 code snippet.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e07c71882761c5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0289732e8aca2f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Zettelkasten/Team/Components/Pagination.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb59b10249be9e05",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md"
+              }
             }
           },
           {
@@ -155,6 +198,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
@@ -162,7 +206,6 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -172,23 +215,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1da1c62a4a548a5e",
+  "active": "e07c71882761c5d7",
   "lastOpenFiles": [
+    "02 - Zettelkasten/Team/Components/Pagination.md",
+    "Untitled.md",
+    "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/Backend/University Table.md",
+    "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
+    "02 - Zettelkasten/Tech Stacking/PostgreSQL Setup.md",
+    "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md",
+    "00 - Calendar/2024-10-04 code snippet.md",
+    "02 - Zettelkasten/Team/Backend/Filter function.md",
+    "02 - Zettelkasten/Team/Backend/Scholarships Table.md",
+    "02 - Zettelkasten/Team/Backend/Majors Table.md",
+    "02 - Zettelkasten/Team/Backend/Links Table.md",
+    "02 - Zettelkasten/Team/Backend/Folder Structure.md",
+    "02 - Zettelkasten/Team/2024-09-21 Setting Up.md",
+    "02 - Zettelkasten/Team/Social Marketing.md",
+    "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+    "02 - Zettelkasten/Team/-- Where2 Documentation --.md",
+    "00 - Calendar/2024-09-30 AWS Identity and Access Management (IAM).md",
+    "Coding Convention.md",
+    "00 - Calendar/2024-09-30 IAM Roles and Policies.md",
+    "Screenshot 2024-09-30 at 9.50.05 in the morning.png",
+    "Screenshot 2024-09-30 at 9.05.49 in the morning.png",
+    "Screenshot 2024-09-30 at 9.04.22 in the morning.png",
+    "Screenshot 2024-09-30 at 9.03.30 in the morning.png",
     "Summary of 2nd ODE.md",
     "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms/2024-09-30 Definition of Laplace Transforms.md",
     "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md",
     "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/--Second Order Differential Equations--.md",
     "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Substitutions.md",
     "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Separable Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Modeling with First Order Differential Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Linear Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Intervals of Validity.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Exact Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Euler's Method.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Equilibrium Solutions.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Bernoulli Differential Equations.md",
-    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/-- First Order Differential Equations --.md",
-    "01 - Rough Notes/React/React Router/createBrowserRouter.md",
     "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms",
     "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations",
     "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations",
@@ -197,28 +255,13 @@
     "01 - Rough Notes/React",
     "01 - Rough Notes/Mathematics",
     "01 - Rough Notes",
-    "00 - Calendar/2024-09-30 AWS Identity and Access Management (IAM).md",
     "99 - Mission 3/3rd missiion for indivisual.pdf",
-    "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
-    "02 - Zettelkasten/Team/Backend/Components/2024-09-27 Card.md",
-    "02 - Zettelkasten/Team/Backend/Components/Card.md",
-    "02 - Zettelkasten/Team/Backend/Filter function.md",
-    "02 - Zettelkasten/Team/Backend/Components",
-    "02 - Zettelkasten/Team/Backend/Scholarships Table.md",
-    "02 - Zettelkasten/Team/Backend/University Table.md",
-    "02 - Zettelkasten/Team/Backend/Majors Table.md",
-    "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
-    "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md",
-    "Components.md",
+    "02 - Zettelkasten/Team/Components",
     "00 - Assets/Pasted Image 20240727143715_585.png",
     "00 - Assets/Pasted Image 20240727143701_699.png",
     "00 - Assets/Design/PNG/mui.png",
     "00 - Assets/Design/PNG/banner-proto-2.png",
     "00 - Assets/Design/PNG/chakra.png",
-    "00 - Assets/Design/PNG/compass.png",
-    "00 - Assets/Design/PNG/mantine.png",
-    "00 - Assets/microsoft-edge.svg",
-    "00 - Assets/Pasted image 20240731191519.png",
-    "00 - Assets/Pasted Image 20240731161811_393.png"
+    "00 - Assets/Design/PNG/compass.png"
   ]
 }
