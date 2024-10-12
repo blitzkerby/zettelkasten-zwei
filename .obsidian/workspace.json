@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d6eaee6958efcad",
+        "id": "68631b2d1e12703a",
         "type": "tabs",
         "children": [
           {
-            "id": "8a4bf5ce9b8908e6",
+            "id": "13250ee385da38bc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -29,7 +29,7 @@
       {
         "id": "8f4f684668a8513d",
         "type": "tabs",
-        "dimension": 76.03305785123968,
+        "dimension": 56.996587030716725,
         "children": [
           {
             "id": "1da1c62a4a548a5e",
@@ -61,7 +61,7 @@
       {
         "id": "07ae9cb267b9e38b",
         "type": "tabs",
-        "dimension": 23.96694214876033,
+        "dimension": 43.003412969283275,
         "children": [
           {
             "id": "cb2727b32e918be8",
@@ -79,12 +79,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 376.51103591918945
   },
   "right": {
     "id": "84bae5c195c1cd1a",
@@ -108,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Meeting Notes.md"
+              }
             }
           },
           {
@@ -172,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 600.5,
+    "width": 612.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -199,44 +202,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8a4bf5ce9b8908e6",
+  "active": "13250ee385da38bc",
   "lastOpenFiles": [
-    "202410051142.md",
-    "202410051128.md",
+    "07 - Output/Meeting Notes.pdf",
+    "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md",
+    "00 - Calendar/2024-10-11 Cakes and You.md",
+    "01 - Rough Notes/Databases/MyERN Project.md",
+    "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md",
+    "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md",
+    "01 - Rough Notes/Databases/Setting up MySQL via Workbench.md",
+    "Meeting Notes.md",
+    "02 - Zettelkasten/Team/-- Where2 Documentation --.md",
+    "02 - Zettelkasten/Team/Where2 Documentation.md",
+    "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md",
+    "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md",
+    "00 - Calendar/2024-09-30 AWS Identity and Access Management (IAM).md",
+    "02 - Zettelkasten/Team/Untitled.md",
+    "04 - Planning/Scholarships/Personal Statement/Korean Scholarship Programs.md",
+    "04 - Planning/Scholarships/Study Plan/Improvement of Korean Language ability.md",
+    "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md",
+    "04 - Planning/Scholarships/Personal Statement/Personal Statement (Final Draft).md",
+    "07 - Output/Personal Statement (Final Draft).pdf",
+    "01 - Rough Notes/Physics/Newtonian Physics/Harmonic Motion.md",
+    "Hooke’s Law.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/--Second Order Differential Equations--.md",
     "07 - READMEs/tacticalrmm-develop.md",
-    "07 - READMEs",
-    "03 - Archived/01 - Rough Notes/Databases/2024-10-01 Hosting MySQL database.md",
-    "02 - Zettelkasten/Project MTX/Diary/My Thoughts.md",
-    "02 - Zettelkasten/Project MTX/Diary",
-    "02 - Zettelkasten/Project MTX/Tech Stack.md",
-    "02 - Zettelkasten/Project MTX",
-    "Summary of 2nd ODE.md",
-    "03 - Archived/023-pics-README.md",
-    "03 - Archived/01 - Rough Notes/Statistics/2024-07-16 Legatum prosperity index.md",
-    "03 - Archived/01 - Rough Notes/Statistics/2024-07-08 Skewness.md",
-    "03 - Archived/01 - Rough Notes/Statistics/2024-07-08 Machine Learning Algorithm.md",
-    "03 - Archived/01 - Rough Notes/Statistics/2024-07-07 EXPONENTIAL REGRESSION.md",
-    "03 - Archived/01 - Rough Notes/Statistics/2024-07-06 STATISTICS IN HALF AN HOUR.md",
-    "03 - Archived/01 - Rough Notes/Statistics/2024-07-06 Null Hypothesis.md",
-    "03 - Archived/01 - Rough Notes/Statistics/2024-07-06 LINEAR REGRESSION.md",
-    "03 - Archived/01 - Rough Notes/Statistics",
-    "03 - Archived/01 - Rough Notes/React/Setting Up Authentication.md",
-    "03 - Archived/01 - Rough Notes/React/Sequelize/Connecting to Database.md",
-    "03 - Archived/01 - Rough Notes/React/Sequelize/2024-09-16 Handling more than one tables.md",
-    "03 - Archived/01 - Rough Notes/React/Sequelize/-- Sequelize --.md",
-    "03 - Archived/01 - Rough Notes/React/Sequelize",
-    "03 - Archived/01 - Rough Notes/React/Redux/Understanding Redux.md",
-    "03 - Archived/01 - Rough Notes/React/Redux/Redux Under the Hood.md",
-    "03 - Archived/01 - Rough Notes/React/Redux/Redux Toolkit.md",
-    "03 - Archived/01 - Rough Notes/React/Redux/Object Destructuring in Redux Exports.md",
-    "03 - Archived/01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md",
-    "03 - Archived/01 - Rough Notes/React/Redux/-- Redux --.md",
-    "03 - Archived/01 - Rough Notes/React/Redux",
-    "03 - Archived/01 - Rough Notes/React/React Router/RouterProvider.md",
-    "03 - Archived/01 - Rough Notes/React/React Router",
-    "03 - Archived/01 - Rough Notes/React/Axios",
-    "03 - Archived/01 - Rough Notes/Mathematics/Differential Equations/Second Order Differential Equations",
-    "03 - Archived/01 - Rough Notes/Mathematics/Differential Equations/First Order Differential Equations",
+    "Pasted image 20241005213600.png",
+    "01 - Rough Notes/Physics/Newtonian Physics",
+    "01 - Rough Notes/Physics",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations/Substitutions.md",
+    "01 - Rough Notes/Mathematics/Differential Equations/3 - Laplace Transforms",
+    "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations",
+    "01 - Rough Notes/Mathematics/Differential Equations/1 - First Order Differential Equations",
+    "01 - Rough Notes/React/Sequelize",
+    "01 - Rough Notes/React/Redux",
+    "01 - Rough Notes/React/React Router",
+    "01 - Rough Notes/React/Axios",
     "00 - Assets/SQL/Screenshot 2024-09-12 at 12.01.15 in the afternoon.png",
     "00 - Assets/SQL/Screenshot 2024-09-12 at 12.00.53 in the afternoon.png",
     "00 - Assets/SQL/Screenshot 2024-09-12 at 12.00.23 in the afternoon.png",
@@ -245,7 +249,6 @@
     "00 - Assets/SQL/Screenshot 2024-09-12 at 11.53.37 in the morning.png",
     "00 - Assets/SQL/Screenshot 2024-09-12 at 11.53.02 in the morning.png",
     "00 - Assets/Pasted image 20240923102741.png",
-    "00 - Assets/Pasted image 20240923102714.png",
-    "00 - Assets/Pasted image 20240923102612.png"
+    "00 - Assets/Pasted image 20240923102714.png"
   ]
 }

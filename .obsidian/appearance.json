@@ -1,8 +1,8 @@
 {
-  "accentColor": "#5cff6c",
+  "accentColor": "#d22d2d",
   "theme": "obsidian",
-  "cssTheme": "Obsidianite",
-  "textFontFamily": "JetBrains Mono NL",
+  "cssTheme": "AnuPpuccin",
+  "textFontFamily": "Rubik",
   "monospaceFontFamily": "JetBrains Mono NL",
   "interfaceFontFamily": "JetBrains Mono NL",
   "enabledCssSnippets": [
@@ -12,6 +12,6 @@
     "Colored Sidebar Items"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 18,
-  "nativeMenus": true
+  "baseFontSize": 17,
+  "nativeMenus": false
 }

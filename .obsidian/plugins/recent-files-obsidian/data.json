@@ -1,56 +1,96 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-      "basename": "tacticalrmm-develop",
-      "path": "07 - READMEs/tacticalrmm-develop.md"
+      "basename": "Meeting Notes",
+      "path": "Meeting Notes.md"
     },
     {
->>>>>>> 9e7b5c5 (saving before pull)
+      "basename": "2024-09-19 DEPLOYMENT",
+      "path": "02 - Zettelkasten/Team/2024-09-19 DEPLOYMENT.md"
+    },
+    {
+      "basename": "2024-10-11 Cakes and You",
+      "path": "00 - Calendar/2024-10-11 Cakes and You.md"
+    },
+    {
+      "basename": "MyERN Project",
+      "path": "01 - Rough Notes/Databases/MyERN Project.md"
+    },
+    {
+      "basename": "A GUIDE TO TECH-STACKING",
+      "path": "02 - Zettelkasten/Tech Stacking/A GUIDE TO TECH-STACKING.md"
+    },
+    {
       "basename": "MyERN Stack II",
       "path": "02 - Zettelkasten/Tech Stacking/MyERN Stack II.md"
     },
     {
-<<<<<<< HEAD
-=======
-      "basename": "2024-08-28 MyERN Stack",
-      "path": "01 - Rough Notes/Fullstack/2024-08-28 MyERN Stack.md"
+      "basename": "Setting up MySQL via Workbench",
+      "path": "01 - Rough Notes/Databases/Setting up MySQL via Workbench.md"
     },
     {
-      "basename": "202410051142",
-      "path": "202410051142.md"
+      "basename": "-- Where2 Documentation --",
+      "path": "02 - Zettelkasten/Team/-- Where2 Documentation --.md"
     },
     {
->>>>>>> 9e7b5c5 (saving before pull)
-      "basename": "2024-09-14 09.29.48.excalidraw",
-      "path": "00 - Excalidraw/2024-09-14 09.29.48.excalidraw.md"
+      "basename": "2024-09-19 FRONTEND ARCHITECTURE",
+      "path": "02 - Zettelkasten/Team/2024-09-19 FRONTEND ARCHITECTURE.md"
     },
     {
-      "basename": "Pasted image 20240830080342",
-      "path": "00 - Assets/Pasted image 20240830080342.png"
-<<<<<<< HEAD
-=======
-=======
+      "basename": "2024-09-19 BACKEND ARCHITECTURE",
+      "path": "02 - Zettelkasten/Team/2024-09-19 BACKEND ARCHITECTURE.md"
     },
     {
-      "basename": "Tech Stack",
-      "path": "02 - Zettelkasten/Project MTX/Tech Stack.md"
+      "basename": "2024-09-19 APP ARCHITECTURE",
+      "path": "02 - Zettelkasten/Team/2024-09-19 APP ARCHITECTURE.md"
     },
     {
-      "basename": "My Thoughts",
-      "path": "02 - Zettelkasten/Project MTX/Diary/My Thoughts.md"
+      "basename": "2024-08-06 DESIGN DOCUMENTATION",
+      "path": "02 - Zettelkasten/Team/2024-08-06 DESIGN DOCUMENTATION.md"
     },
     {
-      "basename": "2024-10-01 Hosting MySQL database",
-      "path": "01 - Rough Notes/Databases/2024-10-01 Hosting MySQL database.md"
+      "basename": "2024-09-30 AWS Identity and Access Management (IAM)",
+      "path": "00 - Calendar/2024-09-30 AWS Identity and Access Management (IAM).md"
     },
     {
->>>>>>> 9e7b5c5 (saving before pull)
-      "basename": "CreateAsyncThunk (Redux)",
-      "path": "01 - Rough Notes/React/Redux/CreateAsyncThunk (Redux).md"
->>>>>>> b3a8d5d (saving before pull)
+      "basename": "Untitled",
+      "path": "02 - Zettelkasten/Team/Untitled.md"
+    },
+    {
+      "basename": "Korean Scholarship Programs",
+      "path": "04 - Planning/Scholarships/Personal Statement/Korean Scholarship Programs.md"
+    },
+    {
+      "basename": "Improvement of Korean Language ability",
+      "path": "04 - Planning/Scholarships/Study Plan/Improvement of Korean Language ability.md"
+    },
+    {
+      "basename": "Study Plan For GSK",
+      "path": "04 - Planning/Scholarships/Study Plan/Study Plan For GSK.md"
+    },
+    {
+      "basename": "Personal Statement (Final Draft)",
+      "path": "04 - Planning/Scholarships/Personal Statement/Personal Statement (Final Draft).md"
+    },
+    {
+      "basename": "Harmonic Motion",
+      "path": "01 - Rough Notes/Physics/Newtonian Physics/Harmonic Motion.md"
+    },
+    {
+      "basename": "Hooke’s Law",
+      "path": "Hooke’s Law.md"
+    },
+    {
+      "basename": "2024-09-25 Solving for Second Order Differential Equations",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/2024-09-25 Solving for Second Order Differential Equations.md"
+    },
+    {
+      "basename": "--Second Order Differential Equations--",
+      "path": "01 - Rough Notes/Mathematics/Differential Equations/2 - Second Order Differential Equations/--Second Order Differential Equations--.md"
+    },
+    {
+      "basename": "tacticalrmm-develop",
+      "path": "07 - READMEs/tacticalrmm-develop.md"
     }
   ],
   "omittedPaths": []

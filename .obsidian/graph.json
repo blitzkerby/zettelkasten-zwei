@@ -1,54 +1,22 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
+  "showTags": false,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-<<<<<<< HEAD
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#differential-equations  ",
-      "color": {
-        "a": 1,
-        "rgb": 15277084
-      }
-    },
-    {
-      "query": "tag:#React  ",
-      "color": {
-        "a": 1,
-        "rgb": 54783
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.01875,
-  "lineSizeMultiplier": 0.99322916666667,
-  "collapse-forces": true,
-  "centerStrength": 0.0416666666666667,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.03164980830756018,
-  "close": true
-=======
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -2.5,
+  "nodeSizeMultiplier": 1.06979166666667,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.104166666666667,
+  "centerStrength": 0.244791666666667,
   "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.029665067654199292,
+  "linkStrength": 0.401041666666667,
+  "linkDistance": 30,
+  "scale": 0.03388598731023291,
   "close": false
->>>>>>> 9e7b5c5 (saving before pull)
 }

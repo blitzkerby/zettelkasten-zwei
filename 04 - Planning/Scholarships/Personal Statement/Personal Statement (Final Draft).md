@@ -13,11 +13,11 @@ Despite the financial challenges, however, I have continued to actively engage i
 
 Since moving to Santhormok, I've partaken in several extracurricular activities outside of the classroom. Volunteering at the ACE Graduation Ceremony and the IDP Global Alumni Convention Expo allowed me to develop valuable interpersonal skills, as well as, working collaboratively with others. The entire experiences instilled in me a sense of civic responsibility and a desire to help others.
 
-Continuing from that, I’ve also partaken in the 9th Global Alumni Convention Education and Careers Expo hosted by IDP, where I had the honor to volunteer as the interpreter for Monash University. Again, I had experience the enthusiasm of working with other volunteer members and the privilege to assist parents, guardians, and students that came by the booth. 
+In the 9th Global Alumni Convention Education and Careers Expo hosted by IDP, I had the honor to volunteer as the interpreter for Monash University. Again, I had experience the enthusiasm of working with other volunteer members and the privilege to assist parents, guardians, and students that came by the booth. 
 
 To further expand my academic education, I have taken a year off after the national exam to develop new skills under a vocational training program in computer science at AnB. The program provided me with a deep understanding of algorithms, data structures, and web development, by hands-on practice and collaborative projects. This drastically improved my technical skills, gaining insight and valuable experiences in problem-solving, UI/UX Design, web application development, and teamwork.
 
-One of my most significant accomplishments during this program was participating as a member of the LUCK team in a hackathon hosted by AnB. While I didn't take on a leadership role, I actively contributed to the team's success by data cleaning and analyzing for patterns over confusing problems. Our team's collaborative efforts ultimately resulted in us securing first place, which was a rewarding experience.
+One of my most significant accomplishments during this program was participating as a member of the LUCK team in a hackathon hosted by AnB. While I didn't take on a leadership role, I actively contributed to the team's success by means of data cleaning and analyzing for patterns over confusing problems. Our team's collaborative efforts ultimately resulted in us securing first place, which was a rewarding experience.
 
 I strongly believe that education is not merely about acquiring facts and figures, but also the cultivation of a mind capable of critical thought; to recognize patterns where others see chaos. Intrinsically, the odyssey in pursuit of truth. 
 
